@@ -1,5 +1,7 @@
-#Añadimos el archivo 
+#Añadimos archivos
 .DS_Store
+passwords.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

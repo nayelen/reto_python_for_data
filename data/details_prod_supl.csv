@@ -1,0 +1,2156 @@
+product_id,supplier_id,category_id,product_name,unit_price_product,units_in_stock,units_on_order,discontinued,order_id,quantity,unit_price_order,company_name,city,country
+1,8,1,Chai,18.0,39,0,1,10285,45,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10294,18,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10317,20,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10348,15,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10354,12,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10370,15,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10406,10,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10413,24,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10477,15,14.4,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10522,40,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10526,8,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10576,10,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10590,20,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10609,3,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10611,6,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10628,25,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10646,15,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10689,35,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10691,30,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10700,5,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10729,50,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10752,8,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10838,4,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10847,80,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10863,20,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10869,40,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10905,20,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10911,10,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10918,60,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,10935,21,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11003,4,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11005,2,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11006,8,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11025,10,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11031,45,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11035,10,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11047,25,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+1,8,1,Chai,18.0,39,0,1,11070,40,18.0,"Specialty Biscuits, Ltd.",Manchester,UK
+2,1,1,Chang,19.0,17,40,1,10255,20,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10258,50,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10264,35,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10298,40,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10327,25,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10335,7,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10342,24,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10393,25,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10418,60,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10435,10,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10440,45,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10469,40,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10485,20,15.2,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10504,12,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10611,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10622,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10632,30,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10641,50,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10703,5,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10714,30,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10722,3,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10741,15,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10766,40,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10787,15,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10792,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10806,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10813,12,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10829,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10851,5,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10852,15,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10856,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10866,21,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10885,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10888,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10939,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,10991,50,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11021,11,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11030,100,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11041,30,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11049,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11070,20,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11072,8,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11075,10,19.0,Exotic Liquids,London,UK
+2,1,1,Chang,19.0,17,40,1,11077,24,19.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10289,30,8.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10405,50,8.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10485,20,8.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10540,60,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10591,14,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10702,6,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10742,20,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10764,20,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10849,49,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,10857,30,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,11017,25,10.0,Exotic Liquids,London,UK
+3,1,2,Aniseed Syrup,10.0,13,70,0,11077,4,10.0,Exotic Liquids,London,UK
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10309,20,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10326,24,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10336,18,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10339,10,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10344,35,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10464,16,17.6,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10511,50,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10527,50,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10533,50,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10606,20,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10635,10,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10636,25,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10654,12,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10704,6,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10726,25,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10846,21,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10913,30,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,10950,5,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,11000,25,22.0,New Orleans Cajun Delights,New Orleans,USA
+4,2,2,Chef Anton's Cajun Seasoning,22.0,53,0,0,11077,1,22.0,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10258,65,17.0,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10262,12,17.0,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10290,20,17.0,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10382,32,17.0,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10635,15,21.35,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10708,4,21.35,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10848,30,21.35,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,10958,20,21.35,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,11030,70,21.35,New Orleans Cajun Delights,New Orleans,USA
+5,2,2,Chef Anton's Gumbo Mix,21.35,0,0,1,11047,30,21.35,New Orleans Cajun Delights,New Orleans,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10309,30,20.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10325,6,20.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10618,70,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10734,30,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10830,6,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10871,50,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10934,20,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10949,12,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10952,16,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,10989,40,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,11076,20,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+6,3,2,Grandma's Boysenberry Spread,25.0,120,0,0,11077,1,25.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10262,15,24.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10385,10,24.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10459,16,24.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10471,30,24.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10511,50,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10546,10,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10591,10,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10607,45,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10634,35,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10694,90,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10766,35,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10790,3,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10833,20,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10858,5,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10908,20,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10909,12,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10940,8,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10958,6,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10962,45,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10979,18,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10982,20,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10987,60,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,10988,60,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11001,60,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11010,20,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11023,4,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11056,40,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11071,15,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+7,3,7,Uncle Bob's Organic Dried Pears,30.0,15,0,0,11077,1,30.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10344,70,32.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10345,70,32.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10511,10,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10522,24,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10695,10,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10709,40,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10786,30,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10829,20,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10893,30,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10975,16,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,10978,20,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,11007,30,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+8,3,2,Northwoods Cranberry Sauce,40.0,6,0,0,11077,2,40.0,Grandma Kelly's Homestead,Ann Arbor,USA
+9,4,6,Mishi Kobe Niku,97.0,29,0,1,10420,20,77.6,Tokyo Traders,Tokyo,Japan
+9,4,6,Mishi Kobe Niku,97.0,29,0,1,10515,16,97.0,Tokyo Traders,Tokyo,Japan
+9,4,6,Mishi Kobe Niku,97.0,29,0,1,10687,50,97.0,Tokyo Traders,Tokyo,Japan
+9,4,6,Mishi Kobe Niku,97.0,29,0,1,10693,6,97.0,Tokyo Traders,Tokyo,Japan
+9,4,6,Mishi Kobe Niku,97.0,29,0,1,10848,3,97.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10273,24,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10276,15,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10357,30,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10389,16,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10449,14,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10450,20,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10478,20,24.8,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10519,16,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10524,2,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10568,5,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10609,10,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10612,70,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10646,18,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10664,24,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10676,2,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10685,20,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10688,18,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10713,18,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10715,21,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10724,16,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10775,6,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10785,10,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10804,36,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10827,15,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10841,16,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10854,100,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10874,10,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10886,70,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10924,20,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10946,25,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,10949,30,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,11020,24,31.0,Tokyo Traders,Tokyo,Japan
+10,4,8,Ikura,31.0,31,0,0,11077,1,31.0,Tokyo Traders,Tokyo,Japan
+11,5,4,Queso Cabrales,21.0,22,30,0,10248,12,14.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10296,12,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10327,50,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10353,12,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10365,24,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10407,30,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10434,6,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10442,30,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10443,6,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10466,10,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10486,5,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10489,15,16.8,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10528,3,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10535,50,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10542,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10545,10,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10553,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10566,35,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10570,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10614,14,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10637,10,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10698,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10726,5,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10770,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10797,20,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10800,50,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10823,20,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10842,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10862,25,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10869,10,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10889,40,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10912,40,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10926,2,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10944,5,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10986,30,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,10989,15,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,11043,10,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+11,5,4,Queso Cabrales,21.0,22,30,0,11073,10,21.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10266,12,30.4,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10439,15,30.4,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10536,15,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10543,30,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10633,36,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10678,100,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10695,4,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10718,36,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10968,30,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,10979,20,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,11018,20,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,11046,20,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,11049,4,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+12,5,4,Queso Manchego La Pastora,38.0,86,0,0,11077,2,38.0,Cooperativa de Quesos 'Las Cabras',Oviedo,Spain
+13,6,8,Konbu,6.0,24,0,0,10276,10,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10291,20,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10325,12,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10383,20,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10391,18,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10394,10,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10420,2,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10462,1,4.8,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10508,10,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10526,10,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10539,8,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10601,60,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10613,8,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10633,13,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10737,4,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10746,6,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10799,20,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10810,7,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10829,10,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10832,3,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10837,6,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10854,65,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10894,28,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10898,5,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10903,40,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10926,10,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10931,42,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10938,20,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10940,20,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10943,15,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10945,20,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10962,77,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,10983,84,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11002,56,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11025,20,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11031,80,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11036,7,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11059,30,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11071,10,6.0,Mayumi's,Osaka,Japan
+13,6,8,Konbu,6.0,24,0,0,11077,4,6.0,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10249,9,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10325,9,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10333,10,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10375,15,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10393,42,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10409,12,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10412,20,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10427,35,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10474,12,18.6,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10503,70,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10555,30,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10571,11,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10580,15,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10623,21,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10625,3,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10656,3,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10675,30,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10733,16,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10750,5,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,10794,15,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,11076,20,23.25,Mayumi's,Osaka,Japan
+14,6,7,Tofu,23.25,35,0,0,11077,1,23.25,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10283,20,12.4,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10323,5,12.4,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10500,12,15.5,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10579,10,15.5,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10592,25,15.5,Mayumi's,Osaka,Japan
+15,6,2,Genen Shouyu,13.0,39,0,0,10657,50,15.5,Mayumi's,Osaka,Japan
+16,7,3,Pavlova,17.45,29,0,0,10255,35,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10263,60,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10287,40,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10296,30,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10310,10,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10324,21,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10359,56,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10403,21,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10439,16,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10440,49,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10454,20,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10469,35,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10489,18,13.9,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10515,50,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10551,40,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10553,14,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10554,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10572,12,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10605,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10653,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10671,10,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10673,3,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10680,50,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10706,20,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10718,20,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10730,15,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10738,3,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10779,20,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10795,65,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10855,50,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10871,12,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10877,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10909,15,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10916,6,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10919,24,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10932,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10954,28,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10984,55,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,10985,36,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,11066,3,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,11070,30,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,11074,14,17.45,"Pavlova, Ltd.",Melbourne,Australia
+16,7,3,Pavlova,17.45,29,0,0,11077,2,17.45,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10265,30,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10279,15,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10294,15,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10302,40,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10319,8,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10338,20,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10339,70,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10346,36,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10415,2,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10430,45,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10431,50,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10444,10,31.2,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10523,25,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10530,40,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10550,8,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10564,16,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10573,18,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10607,100,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10686,30,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10696,20,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10698,8,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10714,27,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10727,20,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10773,33,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10795,35,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10801,40,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10852,6,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10861,42,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10871,16,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10890,15,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10911,12,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10915,10,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10922,15,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10949,6,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,10972,6,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,11059,12,39.0,"Pavlova, Ltd.",Melbourne,Australia
+17,7,6,Alice Mutton,39.0,0,0,1,11064,77,39.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10293,12,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10305,25,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10332,40,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10340,20,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10382,9,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10470,30,50.0,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10516,25,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10566,18,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10588,40,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10634,50,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10639,8,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10644,4,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10645,20,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10719,12,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10745,24,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10756,21,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10789,30,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10838,25,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10853,10,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10861,20,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10877,25,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10935,4,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10964,6,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,10985,8,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,11018,10,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,11026,8,62.5,"Pavlova, Ltd.",Melbourne,Australia
+18,7,8,Carnarvon Tigers,62.5,42,0,0,11053,35,62.5,"Pavlova, Ltd.",Melbourne,Australia
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10281,1,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10283,18,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10299,15,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10329,10,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10345,80,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10414,18,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10416,20,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10421,4,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10438,15,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10446,12,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10447,40,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10463,21,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10487,5,7.3,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10550,10,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10555,35,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10621,5,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10623,15,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10647,30,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10651,12,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10676,7,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10681,30,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10697,7,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10710,5,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10711,12,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10788,50,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10803,24,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10811,15,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10831,2,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10847,12,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10875,25,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10910,12,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10926,7,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,10967,12,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,11012,50,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,11022,35,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,11066,42,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+19,8,3,Teatime Chocolate Biscuits,9.2,25,0,0,11076,10,9.2,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10252,40,64.8,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10272,6,64.8,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10292,20,64.8,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10372,12,64.8,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10384,28,64.8,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10514,39,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10523,15,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10593,21,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10660,21,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10828,5,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10878,20,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10927,5,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10953,50,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,10986,15,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,11021,15,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+20,8,3,Sir Rodney's Marmalade,81.0,40,0,0,11077,1,81.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10259,10,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10261,20,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10333,10,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10368,5,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10397,10,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10406,30,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10409,12,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10430,50,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10456,40,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10461,40,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10477,21,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10484,14,8.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10504,12,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10513,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10539,15,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10550,6,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10609,6,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10614,8,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10619,42,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10623,25,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10642,30,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10658,60,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10681,12,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10716,5,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10717,32,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10729,30,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10731,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10763,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10861,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10873,20,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10884,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10929,60,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10930,36,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10956,12,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10978,40,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,10990,65,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,11034,15,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,11040,20,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+21,8,3,Sir Rodney's Scones,10.0,3,40,0,11058,3,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10251,6,16.8,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10435,12,16.8,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10553,24,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10603,48,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10619,40,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10635,40,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10648,15,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10651,20,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10763,6,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10768,4,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10836,52,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10844,35,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,10943,21,21.0,PB Knäckebröd AB,Göteborg,Sweden
+22,9,5,Gustaf's Knäckebröd,21.0,104,0,0,11001,25,21.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10337,40,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10348,25,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10396,40,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10402,60,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10462,21,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10470,15,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10495,10,7.2,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10543,70,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10554,20,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10621,10,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10670,32,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10674,5,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10748,44,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10811,18,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10845,70,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10869,50,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10880,30,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,10935,8,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,11013,10,9.0,PB Knäckebröd AB,Göteborg,Sweden
+23,9,5,Tunnbröd,9.0,61,0,0,11077,2,9.0,PB Knäckebröd AB,Göteborg,Sweden
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10254,15,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10263,28,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10275,12,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10280,12,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10281,6,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10293,10,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10352,10,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10355,25,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10358,10,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10386,15,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10387,15,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10446,20,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10465,25,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10467,28,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10472,80,3.6,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10498,14,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10512,10,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10518,5,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10520,8,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10541,35,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10555,18,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10565,25,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10597,35,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10620,5,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10623,3,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10648,15,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10695,20,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10704,35,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10763,20,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10799,20,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10859,40,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10866,6,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10883,8,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10885,12,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10893,10,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10895,110,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10922,35,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10946,25,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10960,10,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10968,30,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10979,80,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10984,20,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,10998,12,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11000,30,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11009,12,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11010,10,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11027,30,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11031,21,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11051,10,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11055,15,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+24,10,1,Guaraná Fantástica,4.5,20,0,1,11073,20,4.5,Refrescos Americanas LTDA,Sao Paulo,Brazil
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10323,4,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10347,10,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10362,50,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10393,7,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10467,12,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10492,60,11.2,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10506,18,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10760,12,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10761,35,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10803,15,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10810,5,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10832,10,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10840,6,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10850,20,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10851,10,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10887,5,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,10919,24,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+25,11,3,NuNuCa Nuß-Nougat-Creme,14.0,76,0,0,11055,15,14.0,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10330,50,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10337,24,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10357,16,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10393,70,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10404,30,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10421,30,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10422,2,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10432,10,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10444,15,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10448,6,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10458,30,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10487,30,24.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10540,40,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10587,6,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10592,5,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10633,35,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10677,30,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10686,15,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10713,30,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10723,15,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10751,12,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10758,20,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10796,21,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10817,40,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10825,12,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10849,18,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10857,35,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10868,20,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,10973,5,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,11004,6,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,11021,63,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+26,11,3,Gumbär Gummibärchen,31.23,15,0,0,11024,12,31.23,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10257,25,35.1,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10284,15,35.1,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10441,50,35.1,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10515,120,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10598,50,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10760,40,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10858,10,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10930,25,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+27,11,3,Schoggi Schokolade,43.9,49,0,0,10979,30,43.9,Heli Süßwaren GmbH & Co. KG,Berlin,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10277,20,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10302,28,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10312,4,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10319,14,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10360,30,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10368,13,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10377,20,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10387,6,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10406,42,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10443,12,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10452,15,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10458,30,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10474,18,36.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10499,20,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10500,8,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10509,3,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10514,35,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10544,7,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10624,10,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10643,15,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10649,20,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10688,60,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10733,20,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10740,5,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10804,24,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10873,3,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10924,30,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10937,8,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10952,2,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,10976,20,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,11008,70,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,11039,20,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+28,12,7,Rössle Sauerkraut,45.6,26,0,1,11068,8,45.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10268,10,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10290,15,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10305,25,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10354,4,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10360,35,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10369,20,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10382,14,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10400,21,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10440,24,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10465,18,99.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10510,36,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10583,10,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10624,6,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10629,20,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10666,36,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10687,10,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10691,40,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10698,12,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10772,18,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10787,20,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10791,14,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10801,20,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10834,8,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10857,10,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10893,24,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10897,80,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10912,60,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10971,14,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,10993,50,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,11006,2,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,11007,10,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+29,12,6,Thüringer Rostbratwurst,123.79,0,0,1,11030,60,123.79,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10263,60,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10282,6,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10306,10,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10327,35,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10329,8,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10338,15,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10380,18,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10401,18,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10461,28,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10468,8,20.7,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10522,20,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10524,10,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10532,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10534,10,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10560,20,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10650,30,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10652,2,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10719,3,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10728,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10734,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10751,30,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10786,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10802,25,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10834,20,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10866,40,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10891,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10893,35,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10897,36,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10917,1,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,10957,30,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,11015,15,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+30,13,8,Nord-Ost Matjeshering,25.89,10,0,0,11065,4,25.89,Nord-Ost-Fisch Handelsgesellschaft mbH,Cuxhaven,Germany
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10253,20,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10272,40,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10273,15,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10325,4,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10335,25,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10342,56,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10356,30,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10359,70,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10363,20,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10374,30,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10376,42,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10390,60,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10393,32,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10423,14,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10446,3,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10475,35,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10496,20,10.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10536,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10537,30,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10549,55,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10553,30,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10564,6,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10567,60,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10569,35,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10576,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10584,50,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10659,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10668,8,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10680,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10705,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10722,50,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10730,3,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10747,8,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10768,50,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10773,70,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10774,2,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10776,16,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10782,1,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10783,10,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10812,16,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10826,35,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10833,9,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10855,14,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10886,35,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10941,44,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10945,10,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10953,50,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10954,25,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,10979,24,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,11016,15,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+31,14,4,Gorgonzola Telino,12.5,0,70,0,11070,20,12.5,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10258,6,25.6,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10314,40,25.6,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10335,6,25.6,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10513,50,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10547,24,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10572,10,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10705,4,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10759,10,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10818,20,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10916,6,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10985,35,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,10997,50,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,11046,15,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,11053,20,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+32,14,4,Mascarpone Fabioli,32.0,9,40,0,11077,1,32.0,Formaggi Fortini s.r.l.,Ravenna,Italy
+33,15,4,Geitost,2.5,112,0,0,10252,25,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10269,60,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10271,24,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10273,20,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10341,8,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10382,60,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10410,49,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10414,50,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10415,20,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10454,20,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10473,12,2.0,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10515,16,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10528,8,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10536,30,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10539,15,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10562,20,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10574,14,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10607,14,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10632,20,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10677,8,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10678,30,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10682,30,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10815,16,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10850,4,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10861,35,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10913,40,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10915,30,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10951,15,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,10972,7,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,11024,30,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,11045,15,2.5,Norske Meierier,Sandvika,Norway
+33,15,4,Geitost,2.5,112,0,0,11054,10,2.5,Norske Meierier,Sandvika,Norway
+34,16,1,Sasquatch Ale,14.0,111,0,0,10287,20,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10315,14,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10358,10,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10367,36,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10386,10,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10438,20,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10483,35,11.2,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10548,10,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10573,40,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10688,14,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10700,12,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10757,30,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10805,10,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10890,10,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10937,20,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,10990,60,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,11008,90,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,11063,30,14.0,Bigfoot Breweries,Bend,USA
+34,16,1,Sasquatch Ale,14.0,111,0,0,11066,35,14.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10261,20,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10281,4,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10286,100,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10321,10,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10324,70,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10390,40,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10398,30,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10400,35,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10424,60,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10444,8,14.4,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10521,3,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10546,30,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10551,20,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10553,6,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10578,20,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10587,20,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10589,4,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10595,30,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10623,30,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10697,9,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10720,21,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10740,35,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10789,15,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10821,20,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10831,8,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10836,6,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10845,25,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10864,4,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10868,30,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10870,3,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10921,10,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,10957,40,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,11002,15,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,11035,60,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,11039,24,18.0,Bigfoot Breweries,Bend,USA
+35,16,1,Steeleye Stout,18.0,20,0,0,11046,18,18.0,Bigfoot Breweries,Bend,USA
+36,17,8,Inlagd Sill,19.0,112,0,0,10255,25,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10270,30,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10298,40,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10313,12,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10337,20,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10342,40,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10358,20,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10371,6,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10406,5,15.2,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10525,30,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10527,30,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10547,60,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10563,25,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10610,21,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10612,55,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10645,15,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10669,30,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10687,6,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10708,5,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10718,40,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10739,6,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10756,20,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10784,30,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10838,50,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10893,20,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10925,25,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10936,30,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,10984,40,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,11009,18,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,11016,16,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+36,17,8,Inlagd Sill,19.0,112,0,0,11032,35,19.0,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10259,1,20.8,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10337,28,20.8,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10408,10,20.8,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10523,18,26.0,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10847,60,26.0,Svensk Sjöföda AB,Stockholm,Sweden
+37,17,8,Gravad lax,26.0,11,50,0,10966,8,26.0,Svensk Sjöföda AB,Stockholm,Sweden
+38,18,1,Côte de Blaye,263.5,17,0,0,10329,20,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10351,20,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10353,50,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10360,10,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10372,40,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10417,50,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10424,49,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10479,30,210.8,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10518,15,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10540,30,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10541,4,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10616,15,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10672,15,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10783,5,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10805,10,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10816,30,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10817,30,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10828,2,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10831,8,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10865,60,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10889,40,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10964,5,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,10981,60,263.5,Aux joyeux ecclésiastiques,Paris,France
+38,18,1,Côte de Blaye,263.5,17,0,0,11032,25,263.5,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10253,42,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10257,6,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10297,60,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10305,30,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10323,4,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10347,50,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10361,54,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10377,20,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10445,6,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10455,20,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10477,20,14.4,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10508,10,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10577,10,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10614,5,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10643,21,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10647,20,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10654,20,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10661,3,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10762,16,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10764,130,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10784,2,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10827,21,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10830,28,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10840,10,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10865,80,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10895,45,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10899,8,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,10977,30,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,11069,20,18.0,Aux joyeux ecclésiastiques,Paris,France
+39,18,1,Chartreuse verte,18.0,69,0,0,11077,2,18.0,Aux joyeux ecclésiastiques,Paris,France
+40,19,8,Boston Crab Meat,18.4,123,0,0,10267,50,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10273,60,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10285,40,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10301,10,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10303,40,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10347,4,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10406,2,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10431,50,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10448,20,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10465,20,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10474,21,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10482,10,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10484,10,14.7,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10498,5,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10522,25,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10525,15,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10534,10,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10535,10,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10572,50,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10574,2,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10607,42,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10641,60,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10658,70,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10659,24,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10663,30,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10684,20,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10728,6,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10744,50,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10748,40,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10754,3,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10807,1,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10811,30,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10817,60,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10837,25,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10879,12,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10895,91,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10919,20,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,10978,10,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,11003,10,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,11038,5,18.4,New England Seafood Cannery,Boston,USA
+40,19,8,Boston Crab Meat,18.4,123,0,0,11063,40,18.4,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10250,10,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10260,16,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10264,25,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10316,10,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10318,20,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10340,12,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10351,13,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10379,8,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10411,25,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10444,30,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10495,20,7.7,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10516,80,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10521,10,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10523,6,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10548,14,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10559,12,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10580,9,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10655,20,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10657,24,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10678,120,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10685,4,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10711,42,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10725,12,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10737,12,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10747,35,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10769,30,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10778,10,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10791,20,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10793,14,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10814,20,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10818,20,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10824,12,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10890,14,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10901,30,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10909,5,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10951,6,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10960,24,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10973,6,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10989,4,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10993,35,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,10999,20,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11014,28,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11063,30,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11064,12,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11067,9,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11072,40,9.65,New England Seafood Cannery,Boston,USA
+41,19,8,Jack's New England Clam Chowder,9.65,85,0,0,11077,3,9.65,New England Seafood Cannery,Boston,USA
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10248,10,9.8,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10309,2,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10311,6,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10332,10,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10345,9,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10404,40,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10463,50,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10492,20,11.2,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10498,30,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10516,20,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10571,28,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10588,100,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10625,5,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10652,20,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10663,30,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10673,6,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10680,40,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10746,28,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10767,2,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10776,12,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10777,20,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10845,42,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10856,20,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10882,25,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10923,10,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,10996,40,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,11002,24,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,11007,14,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,11013,4,14.0,Leka Trading,Singapore,Singapore
+42,20,5,Singaporean Hokkien Fried Mee,14.0,26,0,1,11035,30,14.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10270,25,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10294,15,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10302,12,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10309,20,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10312,24,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10340,40,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10458,20,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10464,3,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10468,15,36.8,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10507,15,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10524,60,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10530,25,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10644,20,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10673,6,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10691,40,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10706,24,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10760,30,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10814,20,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10819,7,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10831,9,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10842,5,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10923,10,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10938,24,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10982,9,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,10987,6,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,11023,30,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,11052,30,46.0,Leka Trading,Singapore,Singapore
+43,20,1,Ipoh Coffee,46.0,17,10,0,11068,36,46.0,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10278,16,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10284,21,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10291,24,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10351,77,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10411,40,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10452,100,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10469,2,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10491,15,15.5,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10518,9,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10551,40,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10561,10,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10576,21,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10624,10,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10656,28,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10676,21,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10691,24,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10721,50,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10745,16,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10796,10,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10832,16,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10944,18,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,10978,6,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,11034,12,19.45,Leka Trading,Singapore,Singapore
+44,20,2,Gula Malacca,19.45,27,0,0,11042,15,19.45,Leka Trading,Singapore,Singapore
+45,21,8,Rogede sild,9.5,5,70,0,10388,15,7.6,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10465,30,7.6,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10502,21,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10549,100,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10638,20,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10713,110,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10740,40,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10750,40,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10753,4,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10776,27,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10847,36,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10896,15,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,10954,30,9.5,Lyngbysild,Lyngby,Denmark
+45,21,8,Rogede sild,9.5,5,70,0,11013,20,9.5,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10287,15,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10324,30,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10390,45,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10395,28,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10417,2,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10428,20,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10436,5,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10454,10,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10459,20,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10466,5,9.6,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10512,9,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10643,2,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10644,21,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10657,45,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10670,60,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10696,18,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10713,24,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10743,28,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10813,35,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10876,21,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10943,15,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10969,9,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,10997,20,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,11001,25,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,11019,3,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,11075,30,12.0,Lyngbysild,Lyngby,Denmark
+46,21,8,Spegesild,12.0,95,0,0,11077,3,12.0,Lyngbysild,Lyngby,Denmark
+47,22,3,Zaanse koeken,9.5,36,0,0,10332,16,7.6,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10418,55,7.6,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10431,30,7.6,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10480,30,7.6,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10512,6,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10558,25,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10585,15,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10656,6,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10657,10,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10684,40,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10685,15,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10699,12,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10710,5,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10714,50,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10755,30,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10762,30,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10837,40,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10875,21,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10928,5,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10956,14,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+47,22,3,Zaanse koeken,9.5,36,0,0,10977,30,9.5,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10403,70,10.2,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10453,15,10.2,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10507,15,12.75,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10604,6,12.75,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10704,24,12.75,Zaanse Snoepfabriek,Zaandam,Netherlands
+48,22,3,Chocolade,12.75,15,70,0,10814,8,12.75,Zaanse Snoepfabriek,Zaandam,Netherlands
+49,23,3,Maxilaku,20.0,10,60,0,10253,40,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10290,15,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10304,30,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10360,35,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10400,30,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10404,30,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10456,21,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10481,24,16.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10499,25,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10539,6,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10603,25,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10612,18,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10804,4,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10868,42,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10875,15,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10882,20,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10910,10,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10942,28,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,10967,40,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,11019,2,20.0,Karkki Oy,Lappeenranta,Finland
+49,23,3,Maxilaku,20.0,10,60,0,11039,60,20.0,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10350,15,13.0,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10383,15,13.0,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10429,40,13.0,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10465,25,13.0,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10637,25,16.25,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10729,40,16.25,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10751,20,16.25,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10920,24,16.25,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,10948,9,16.25,Karkki Oy,Lappeenranta,Finland
+50,23,3,Valkoinen suklaa,16.25,65,0,0,11072,22,16.25,Karkki Oy,Lappeenranta,Finland
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10249,40,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10250,35,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10291,2,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10335,48,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10362,20,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10397,18,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10472,18,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10484,3,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10486,25,42.4,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10537,6,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10549,48,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10555,20,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10558,20,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10561,50,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10567,3,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10634,15,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10663,20,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10665,20,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10709,28,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10716,7,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10731,30,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10762,28,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10776,120,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10800,10,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10802,30,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10821,6,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10843,4,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10860,3,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10870,2,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10948,40,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10956,8,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10965,16,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10977,10,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10995,20,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,10999,15,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,11021,44,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,11026,10,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,11045,24,53.0,"G'day, Mate",Sydney,Australia
+51,24,7,Manjimup Dried Apples,53.0,20,0,0,11055,20,53.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10322,20,5.6,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10334,8,5.6,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10388,20,5.6,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10446,15,5.6,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10449,20,5.6,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10517,6,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10558,30,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10563,70,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10586,4,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10594,24,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10620,5,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10683,9,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10725,4,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10733,25,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10739,18,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10758,60,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10769,15,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10793,8,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10809,20,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10862,8,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10908,14,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10925,12,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10927,5,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10961,6,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10970,40,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,10997,20,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,11003,10,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,11038,2,7.0,"G'day, Mate",Sydney,Australia
+52,24,5,Filo Mix,7.0,38,0,0,11077,2,7.0,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10256,15,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10285,36,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10306,10,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10312,20,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10380,20,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10388,40,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10395,70,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10416,10,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10421,15,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10437,15,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10455,50,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10479,28,26.2,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10502,6,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10504,10,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10520,5,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10558,18,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10573,25,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10626,12,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10650,25,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10675,10,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10711,120,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10712,3,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10825,20,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10833,9,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10867,3,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10933,2,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,10962,20,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,11033,70,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,11062,10,32.8,"G'day, Mate",Sydney,Australia
+53,24,6,Perth Pasties,32.8,0,0,1,11064,25,32.8,"G'day, Mate",Sydney,Australia
+54,25,6,Tourtière,7.45,21,0,0,10288,10,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10306,5,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10331,15,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10349,24,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10352,20,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10360,28,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10362,24,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10367,18,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10375,10,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10408,6,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10432,40,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10442,80,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10445,15,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10450,6,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10487,24,5.9,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10501,20,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10524,15,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10534,10,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10542,24,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10591,50,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10600,4,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10650,30,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10654,6,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10678,30,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10693,60,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10717,15,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10719,40,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10781,3,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10792,3,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10794,6,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10800,7,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10859,35,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10882,32,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,10915,10,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,11035,10,7.45,Ma Maison,Montréal,Canada
+54,25,6,Tourtière,7.45,21,0,0,11065,20,7.45,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10254,21,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10280,20,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10342,40,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10356,12,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10389,15,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10398,120,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10425,10,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10451,120,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10461,60,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10476,2,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10485,30,19.2,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10529,14,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10559,18,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10564,25,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10606,20,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10615,5,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10630,12,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10668,4,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10707,21,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10725,6,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10728,12,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10802,60,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10872,10,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10902,30,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10930,25,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10948,4,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,10990,65,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11001,6,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11002,40,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11028,35,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11056,35,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11064,4,24.0,Ma Maison,Montréal,Canada
+55,25,6,Pâté chinois,24.0,115,0,0,11077,2,24.0,Ma Maison,Montréal,Canada
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10262,2,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10295,4,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10301,20,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10329,12,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10346,20,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10369,18,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10383,20,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10401,70,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10426,5,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10430,30,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10433,28,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10436,40,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10458,15,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10464,30,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10471,20,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10494,30,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10497,14,30.4,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10514,70,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10519,40,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10526,30,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10555,40,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10570,60,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10596,5,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10608,28,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10616,14,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10618,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10637,60,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10657,45,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10664,12,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10690,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10712,30,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10714,18,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10727,10,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10740,14,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10748,28,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10749,15,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10755,30,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10762,60,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10781,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10790,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10808,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10820,30,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10841,30,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10855,24,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10884,21,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10896,16,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10944,18,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,10966,12,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,11018,5,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+56,26,5,Gnocchi di nonna Alice,38.0,21,10,0,11029,20,38.0,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10251,15,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10260,50,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10282,2,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10326,16,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10355,25,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10368,25,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10416,20,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10438,15,15.6,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10535,5,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10578,6,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10582,4,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10597,20,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10707,40,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10755,14,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10823,15,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10826,15,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10836,24,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10851,10,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10916,20,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10931,30,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,10983,15,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,11039,28,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+57,26,5,Ravioli Angelo,19.5,36,0,0,11055,20,19.5,Pasta Buttini s.r.l.,Salerno,Italy
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10314,30,10.6,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10327,30,10.6,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10373,80,10.6,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10374,15,10.6,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10537,20,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10594,30,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10636,6,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10661,49,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10675,30,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10697,30,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10714,12,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10839,30,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10845,60,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10863,12,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10904,15,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10913,15,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,10930,30,13.25,Escargots Nouveaux,Montceau,France
+58,27,8,Escargots de Bourgogne,13.25,62,0,0,11011,40,13.25,Escargots Nouveaux,Montceau,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10255,30,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10267,70,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10275,6,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10278,15,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10298,30,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10304,10,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10324,40,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10328,9,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10341,9,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10387,12,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10410,16,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10411,9,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10423,20,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10430,70,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10457,36,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10479,60,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10480,12,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10488,30,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10490,60,44.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10517,4,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10531,2,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10535,15,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10567,40,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10575,12,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10601,35,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10605,20,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10617,30,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10665,1,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10679,12,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10694,25,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10701,42,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10703,35,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10706,8,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10727,10,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10745,45,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10749,6,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10750,25,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10757,7,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10772,25,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10799,25,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10803,15,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10823,40,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10835,15,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10841,50,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10851,42,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10892,40,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10947,4,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,10994,18,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11005,10,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11017,110,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11028,24,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11030,100,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11032,30,55.0,Gai pâturage,Annecy,France
+59,28,4,Raclette Courdavault,55.0,79,0,0,11036,30,55.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10252,40,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10283,35,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10284,20,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10294,21,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10357,8,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10359,80,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10361,55,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10372,70,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10380,6,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10384,15,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10385,20,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10419,60,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10464,20,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10481,40,27.2,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10512,12,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10515,84,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10519,10,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10536,35,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10583,24,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10605,70,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10611,15,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10612,40,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10625,10,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10626,20,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10653,20,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10657,30,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10658,55,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10684,30,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10709,10,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10728,15,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10742,50,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10768,15,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10829,21,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10830,30,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10836,60,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10847,45,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10895,100,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10917,10,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10918,25,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10938,49,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10954,24,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10963,2,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,10995,4,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11009,9,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11012,36,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11056,50,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11058,21,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11059,35,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11060,4,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11061,15,34.0,Gai pâturage,Annecy,France
+60,28,4,Camembert Pierrot,34.0,19,0,0,11077,2,34.0,Gai pâturage,Annecy,France
+61,29,2,Sirop d'érable,28.5,113,0,0,10418,16,22.8,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10440,90,22.8,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10455,25,22.8,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10504,25,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10513,15,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10530,20,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10550,10,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10595,120,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10642,20,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10716,10,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10724,5,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10735,20,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10769,20,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10814,30,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10880,30,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10906,15,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10910,5,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10933,30,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10990,66,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,10998,7,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,11034,6,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,11042,4,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,11052,10,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+61,29,2,Sirop d'érable,28.5,113,0,0,11058,4,28.5,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10260,15,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10277,12,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10286,40,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10298,15,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10307,10,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10310,5,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10314,25,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10316,70,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10339,28,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10389,20,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10394,10,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10408,35,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10413,40,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10449,35,39.4,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10505,3,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10546,40,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10554,20,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10560,15,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10562,10,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10574,10,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10599,10,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10606,10,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10627,15,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10633,80,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10671,10,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10691,48,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10718,20,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10746,9,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10757,30,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10769,15,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10779,20,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10798,2,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10802,5,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10816,20,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10817,25,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10822,3,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10852,50,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10861,3,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10872,20,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10902,6,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10904,35,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10932,14,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10941,30,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10949,60,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10966,12,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,10988,40,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,11027,21,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+62,29,3,Tarte au sucre,49.3,17,0,0,11044,12,49.3,Forêts d'érables,Ste-Hyacinthe,Canada
+63,7,2,Vegie-spread,43.9,24,0,0,10278,8,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10293,5,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10324,80,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10379,16,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10402,65,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10429,35,35.1,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10575,6,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10596,24,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10692,20,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10747,9,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10789,30,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10921,40,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10974,10,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10977,20,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,10979,35,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,11029,12,43.9,"Pavlova, Ltd.",Melbourne,Australia
+63,7,2,Vegie-spread,43.9,24,0,0,11041,30,43.9,"Pavlova, Ltd.",Melbourne,Australia
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10289,9,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10343,50,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10368,35,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10370,30,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10426,7,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10436,30,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10439,6,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10451,35,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10470,8,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10479,30,26.6,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10557,30,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10565,18,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10574,6,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10629,9,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10668,15,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10681,28,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10757,24,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10796,35,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10832,3,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10836,30,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10845,48,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10859,30,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10872,15,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10876,20,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10957,8,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,10968,4,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,11031,20,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,11053,25,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,11072,130,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+64,12,5,Wimmers gute Semmelknödel,33.25,22,80,0,11077,2,33.25,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10250,15,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10251,20,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10303,30,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10328,40,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10351,10,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10366,5,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10367,15,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10379,20,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10401,20,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10447,35,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10451,28,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10493,15,16.8,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10503,20,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10514,39,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10541,36,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10580,30,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10597,12,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10638,21,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10664,15,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10666,10,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10671,12,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10698,65,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10730,10,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10736,40,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10765,80,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10806,2,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10855,15,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10872,21,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10879,10,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10884,12,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,10903,21,21.05,New Orleans Cajun Delights,New Orleans,USA
+65,2,2,Louisiana Fiery Hot Pepper Sauce,21.05,76,0,0,11024,21,21.05,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10300,30,13.6,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10442,60,13.6,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10475,60,13.6,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10493,10,13.6,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10532,24,17.0,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10682,4,17.0,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,10774,50,17.0,New Orleans Cajun Delights,New Orleans,USA
+66,2,2,Louisiana Hot Spiced Okra,17.0,4,100,0,11077,1,17.0,New Orleans Cajun Delights,New Orleans,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10284,5,11.2,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10502,30,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10544,7,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10670,25,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10775,3,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10864,15,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10911,15,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10923,24,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,10939,40,14.0,Bigfoot Breweries,Bend,USA
+67,16,1,Laughing Lumberjack Lager,14.0,52,0,0,11054,20,14.0,Bigfoot Breweries,Bend,USA
+68,8,3,Scottish Longbreads,12.5,6,10,0,10288,3,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10300,20,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10303,15,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10307,3,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10328,10,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10334,10,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10343,4,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10385,8,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10399,60,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10417,36,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10424,30,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10460,21,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10490,30,10.0,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10521,6,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10529,20,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10540,35,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10618,15,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10622,18,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10662,10,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10700,40,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10722,45,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10756,6,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10766,40,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10789,18,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10792,15,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10830,24,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10842,20,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10869,20,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10888,18,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10903,20,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,10941,80,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,11013,2,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,11048,42,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+68,8,3,Scottish Longbreads,12.5,6,10,0,11064,55,12.5,"Specialty Biscuits, Ltd.",Manchester,UK
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10296,15,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10308,1,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10311,7,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10350,18,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10356,20,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10364,30,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10392,50,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10395,8,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10407,15,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10419,20,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10493,10,28.8,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10529,10,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10552,18,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10583,10,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10593,20,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10595,65,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10640,20,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10667,45,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10693,30,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10717,25,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10746,40,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10747,30,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10752,3,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10755,25,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10756,20,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10796,24,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10894,50,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10962,9,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,10964,10,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,11022,30,36.0,Norske Meierier,Sandvika,Norway
+69,15,4,Gudbrandsdalsost,36.0,26,0,0,11033,36,36.0,Norske Meierier,Sandvika,Norway
+70,7,1,Outback Lager,15.0,15,10,0,10260,21,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10265,20,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10299,20,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10308,5,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10315,30,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10380,30,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10389,30,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10420,8,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10453,25,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10476,12,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10485,60,12.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10506,14,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10517,6,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10538,7,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10616,15,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10621,20,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10640,15,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10659,40,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10694,50,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10697,30,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10698,8,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10707,28,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10758,40,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10780,35,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10810,5,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10822,6,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10824,9,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10842,12,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10846,30,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10850,30,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10858,4,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10880,50,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10885,30,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10900,3,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,10991,20,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,11017,30,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,11037,4,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,11057,3,15.0,"Pavlova, Ltd.",Melbourne,Australia
+70,7,1,Outback Lager,15.0,15,10,0,11062,12,15.0,"Pavlova, Ltd.",Melbourne,Australia
+71,15,4,Flotemysost,21.5,26,0,0,10274,20,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10304,2,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10309,3,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10320,30,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10333,40,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10364,5,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10373,50,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10378,6,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10387,15,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10396,60,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10399,30,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10401,60,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10407,15,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10447,2,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10455,30,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10458,50,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10473,12,17.2,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10541,9,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10598,9,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10605,15,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10616,15,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10621,15,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10626,20,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10646,30,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10667,14,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10672,12,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10700,60,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10701,20,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10715,30,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10720,8,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10768,12,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10771,16,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10847,55,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10901,30,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10914,25,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,10938,35,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11008,21,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11011,20,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11012,60,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11024,50,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11031,16,21.5,Norske Meierier,Sandvika,Norway
+71,15,4,Flotemysost,21.5,26,0,0,11038,30,21.5,Norske Meierier,Sandvika,Norway
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10248,5,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10268,4,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10269,20,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10272,24,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10274,7,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10283,3,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10297,20,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10325,40,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10330,25,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10337,25,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10372,42,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10390,24,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10396,21,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10435,10,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10459,40,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10497,25,27.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10528,9,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10533,24,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10537,21,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10538,1,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10556,24,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10575,30,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10607,12,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10638,60,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10649,15,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10742,35,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10745,7,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10784,30,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10798,10,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10812,40,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10839,15,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10926,10,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10932,16,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10941,50,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10958,5,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10987,20,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,10992,2,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+72,14,4,Mozzarella di Giovanni,34.8,14,0,0,11021,35,34.8,Formaggi Fortini s.r.l.,Ravenna,Italy
+73,17,8,Röd Kaviar,15.0,101,0,0,10278,25,12.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10420,20,12.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10488,20,12.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10533,24,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10537,9,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10558,3,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10600,30,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10627,35,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10670,50,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10693,15,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10703,35,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10751,15,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,10881,10,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+73,17,8,Röd Kaviar,15.0,101,0,0,11077,2,15.0,Svensk Sjöföda AB,Stockholm,Sweden
+74,4,7,Longlife Tofu,10.0,4,20,0,10254,21,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10263,36,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10370,20,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10381,14,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10382,50,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10418,15,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10439,30,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10486,16,8.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10753,5,10.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10781,35,10.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10806,15,10.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10846,20,10.0,Tokyo Traders,Tokyo,Japan
+74,4,7,Longlife Tofu,10.0,4,20,0,10998,20,10.0,Tokyo Traders,Tokyo,Japan
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10280,30,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10293,6,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10294,6,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10312,10,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10326,50,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10347,6,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10363,12,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10436,24,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10460,4,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10474,10,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10490,36,6.2,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10510,36,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10514,50,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10552,30,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10557,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10572,15,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10577,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10579,21,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10581,50,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10596,30,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10613,40,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10631,8,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10634,2,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10670,25,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10682,30,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10722,42,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10736,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10761,18,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10773,7,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10785,10,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10786,42,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10788,40,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10819,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10894,120,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10907,14,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10924,6,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10929,49,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10932,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10951,50,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10955,12,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10959,20,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10973,10,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10975,10,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10980,40,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,10998,30,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+75,12,1,Rhönbräu Klosterbier,7.75,125,0,0,11077,4,7.75,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+76,23,1,Lakkalikööri,18.0,57,0,0,10267,15,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10273,33,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10318,6,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10319,30,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10343,15,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10363,12,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10399,35,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10413,14,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10425,20,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10434,18,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10475,42,14.4,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10530,50,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10566,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10569,30,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10575,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10582,14,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10593,4,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10604,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10612,80,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10630,35,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10665,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10701,35,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10702,15,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10732,20,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10734,20,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10749,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10808,50,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10837,21,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10860,20,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10879,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10927,20,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10928,5,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10961,60,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10962,44,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10986,10,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,10991,90,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,11004,6,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,11050,50,18.0,Karkki Oy,Lappeenranta,Finland
+76,23,1,Lakkalikööri,18.0,57,0,0,11075,2,18.0,Karkki Oy,Lappeenranta,Finland
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10256,12,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10257,15,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10290,10,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10366,5,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10367,7,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10399,14,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10417,35,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10421,10,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10451,55,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10483,30,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10491,7,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10495,5,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10497,25,10.4,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10554,10,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10577,18,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10587,20,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10590,60,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10602,5,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10646,35,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10658,70,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10690,30,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10735,2,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10780,15,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10812,20,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10823,15,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10835,2,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10841,15,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10885,25,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10886,40,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10929,15,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10946,40,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10986,15,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,10999,21,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,11000,30,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,11015,18,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,11060,10,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,11068,28,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
+77,12,2,Original Frankfurter grüne Soße,13.0,32,0,0,11077,2,13.0,Plutzer Lebensmittelgroßmärkte AG,Frankfurt,Germany
