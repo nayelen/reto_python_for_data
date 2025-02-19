@@ -1,833 +1,833 @@
 customer_id,company_name,city,country,order_id,ship_via,order_date,required_date,shipped_date,continent,days_to_ship,delays
-ALFKI,Alfreds Futterkiste,Berlin,Germany,10643.0,1.0,1997-08-25,1997-09-22,1997-09-02,Europe,8.0,False
-ALFKI,Alfreds Futterkiste,Berlin,Germany,10692.0,2.0,1997-10-03,1997-10-31,1997-10-13,Europe,10.0,False
-ALFKI,Alfreds Futterkiste,Berlin,Germany,10702.0,1.0,1997-10-13,1997-11-24,1997-10-21,Europe,8.0,False
-ALFKI,Alfreds Futterkiste,Berlin,Germany,10835.0,3.0,1998-01-15,1998-02-12,1998-01-21,Europe,6.0,False
-ALFKI,Alfreds Futterkiste,Berlin,Germany,10952.0,1.0,1998-03-16,1998-04-27,1998-03-24,Europe,8.0,False
-ALFKI,Alfreds Futterkiste,Berlin,Germany,11011.0,1.0,1998-04-09,1998-05-07,1998-04-13,Europe,4.0,False
-ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10308.0,3.0,1996-09-18,1996-10-16,1996-09-24,America,6.0,False
-ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10625.0,1.0,1997-08-08,1997-09-05,1997-08-14,America,6.0,False
-ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10759.0,3.0,1997-11-28,1997-12-26,1997-12-12,America,14.0,False
-ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10926.0,3.0,1998-03-04,1998-04-01,1998-03-11,America,7.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10365.0,2.0,1996-11-27,1996-12-25,1996-12-02,America,5.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10507.0,1.0,1997-04-15,1997-05-13,1997-04-22,America,7.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10535.0,1.0,1997-05-13,1997-06-10,1997-05-21,America,8.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10573.0,3.0,1997-06-19,1997-07-17,1997-06-20,America,1.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10677.0,3.0,1997-09-22,1997-10-20,1997-09-26,America,4.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10682.0,2.0,1997-09-25,1997-10-23,1997-10-01,America,6.0,False
-ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10856.0,2.0,1998-01-28,1998-02-25,1998-02-10,America,13.0,False
-AROUT,Around the Horn,London,UK,10355.0,1.0,1996-11-15,1996-12-13,1996-11-20,Europe,5.0,False
-AROUT,Around the Horn,London,UK,10383.0,3.0,1996-12-16,1997-01-13,1996-12-18,Europe,2.0,False
-AROUT,Around the Horn,London,UK,10453.0,2.0,1997-02-21,1997-03-21,1997-02-26,Europe,5.0,False
-AROUT,Around the Horn,London,UK,10558.0,2.0,1997-06-04,1997-07-02,1997-06-10,Europe,6.0,False
-AROUT,Around the Horn,London,UK,10707.0,3.0,1997-10-16,1997-10-30,1997-10-23,Europe,7.0,False
-AROUT,Around the Horn,London,UK,10741.0,3.0,1997-11-14,1997-11-28,1997-11-18,Europe,4.0,False
-AROUT,Around the Horn,London,UK,10743.0,2.0,1997-11-17,1997-12-15,1997-11-21,Europe,4.0,False
-AROUT,Around the Horn,London,UK,10768.0,2.0,1997-12-08,1998-01-05,1997-12-15,Europe,7.0,False
-AROUT,Around the Horn,London,UK,10793.0,3.0,1997-12-24,1998-01-21,1998-01-08,Europe,15.0,False
-AROUT,Around the Horn,London,UK,10864.0,2.0,1998-02-02,1998-03-02,1998-02-09,Europe,7.0,False
-AROUT,Around the Horn,London,UK,10920.0,2.0,1998-03-03,1998-03-31,1998-03-09,Europe,6.0,False
-AROUT,Around the Horn,London,UK,10953.0,2.0,1998-03-16,1998-03-30,1998-03-25,Europe,9.0,False
-AROUT,Around the Horn,London,UK,11016.0,2.0,1998-04-10,1998-05-08,1998-04-13,Europe,3.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10278.0,2.0,1996-08-12,1996-09-09,1996-08-16,Europe,4.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10280.0,1.0,1996-08-14,1996-09-11,1996-09-12,Europe,29.0,True
-BERGS,Berglunds snabbköp,Luleå,Sweden,10384.0,3.0,1996-12-16,1997-01-13,1996-12-20,Europe,4.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10444.0,3.0,1997-02-12,1997-03-12,1997-02-21,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10445.0,1.0,1997-02-13,1997-03-13,1997-02-20,Europe,7.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10524.0,2.0,1997-05-01,1997-05-29,1997-05-07,Europe,6.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10572.0,2.0,1997-06-18,1997-07-16,1997-06-25,Europe,7.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10626.0,2.0,1997-08-11,1997-09-08,1997-08-20,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10654.0,1.0,1997-09-02,1997-09-30,1997-09-11,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10672.0,2.0,1997-09-17,1997-10-01,1997-09-26,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10689.0,2.0,1997-10-01,1997-10-29,1997-10-07,Europe,6.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10733.0,3.0,1997-11-07,1997-12-05,1997-11-10,Europe,3.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10778.0,1.0,1997-12-16,1998-01-13,1997-12-24,Europe,8.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10837.0,3.0,1998-01-16,1998-02-13,1998-01-23,Europe,7.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10857.0,2.0,1998-01-28,1998-02-25,1998-02-06,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10866.0,1.0,1998-02-03,1998-03-03,1998-02-12,Europe,9.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10875.0,2.0,1998-02-06,1998-03-06,1998-03-03,Europe,25.0,False
-BERGS,Berglunds snabbköp,Luleå,Sweden,10924.0,2.0,1998-03-04,1998-04-01,1998-04-08,Europe,35.0,True
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10501.0,3.0,1997-04-09,1997-05-07,1997-04-16,Europe,7.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10509.0,1.0,1997-04-17,1997-05-15,1997-04-29,Europe,12.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10582.0,2.0,1997-06-27,1997-07-25,1997-07-14,Europe,17.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10614.0,3.0,1997-07-29,1997-08-26,1997-08-01,Europe,3.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10853.0,2.0,1998-01-27,1998-02-24,1998-02-03,Europe,7.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,10956.0,2.0,1998-03-17,1998-04-28,1998-03-20,Europe,3.0,False
-BLAUS,Blauer See Delikatessen,Mannheim,Germany,11058.0,3.0,1998-04-29,1998-05-27,,Europe,,True
-BLONP,Blondesddsl père et fils,Strasbourg,France,10265.0,1.0,1996-07-25,1996-08-22,1996-08-12,Europe,18.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10297.0,2.0,1996-09-04,1996-10-16,1996-09-10,Europe,6.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10360.0,3.0,1996-11-22,1996-12-20,1996-12-02,Europe,10.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10436.0,2.0,1997-02-05,1997-03-05,1997-02-11,Europe,6.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10449.0,2.0,1997-02-18,1997-03-18,1997-02-27,Europe,9.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10559.0,1.0,1997-06-05,1997-07-03,1997-06-13,Europe,8.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10566.0,1.0,1997-06-12,1997-07-10,1997-06-18,Europe,6.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10584.0,1.0,1997-06-30,1997-07-28,1997-07-04,Europe,4.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10628.0,3.0,1997-08-12,1997-09-09,1997-08-20,Europe,8.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10679.0,3.0,1997-09-23,1997-10-21,1997-09-30,Europe,7.0,False
-BLONP,Blondesddsl père et fils,Strasbourg,France,10826.0,1.0,1998-01-12,1998-02-09,1998-02-06,Europe,25.0,False
-BOLID,Bólido Comidas preparadas,Madrid,Spain,10326.0,2.0,1996-10-10,1996-11-07,1996-10-14,Europe,4.0,False
-BOLID,Bólido Comidas preparadas,Madrid,Spain,10801.0,2.0,1997-12-29,1998-01-26,1997-12-31,Europe,2.0,False
-BOLID,Bólido Comidas preparadas,Madrid,Spain,10970.0,1.0,1998-03-24,1998-04-07,1998-04-24,Europe,31.0,True
-BONAP,Bon app',Marseille,France,10331.0,1.0,1996-10-16,1996-11-27,1996-10-21,Europe,5.0,False
-BONAP,Bon app',Marseille,France,10340.0,3.0,1996-10-29,1996-11-26,1996-11-08,Europe,10.0,False
-BONAP,Bon app',Marseille,France,10362.0,1.0,1996-11-25,1996-12-23,1996-11-28,Europe,3.0,False
-BONAP,Bon app',Marseille,France,10470.0,2.0,1997-03-11,1997-04-08,1997-03-14,Europe,3.0,False
-BONAP,Bon app',Marseille,France,10511.0,3.0,1997-04-18,1997-05-16,1997-04-21,Europe,3.0,False
-BONAP,Bon app',Marseille,France,10525.0,2.0,1997-05-02,1997-05-30,1997-05-23,Europe,21.0,False
-BONAP,Bon app',Marseille,France,10663.0,2.0,1997-09-10,1997-09-24,1997-10-03,Europe,23.0,True
-BONAP,Bon app',Marseille,France,10715.0,1.0,1997-10-23,1997-11-06,1997-10-29,Europe,6.0,False
-BONAP,Bon app',Marseille,France,10730.0,1.0,1997-11-05,1997-12-03,1997-11-14,Europe,9.0,False
-BONAP,Bon app',Marseille,France,10732.0,1.0,1997-11-06,1997-12-04,1997-11-07,Europe,1.0,False
-BONAP,Bon app',Marseille,France,10755.0,2.0,1997-11-26,1997-12-24,1997-11-28,Europe,2.0,False
-BONAP,Bon app',Marseille,France,10827.0,2.0,1998-01-12,1998-01-26,1998-02-06,Europe,25.0,True
-BONAP,Bon app',Marseille,France,10871.0,2.0,1998-02-05,1998-03-05,1998-02-10,Europe,5.0,False
-BONAP,Bon app',Marseille,France,10876.0,3.0,1998-02-09,1998-03-09,1998-02-12,Europe,3.0,False
-BONAP,Bon app',Marseille,France,10932.0,1.0,1998-03-06,1998-04-03,1998-03-24,Europe,18.0,False
-BONAP,Bon app',Marseille,France,10940.0,3.0,1998-03-11,1998-04-08,1998-03-23,Europe,12.0,False
-BONAP,Bon app',Marseille,France,11076.0,2.0,1998-05-06,1998-06-03,,Europe,,True
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10389.0,2.0,1996-12-20,1997-01-17,1996-12-24,America,4.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10410.0,3.0,1997-01-10,1997-02-07,1997-01-15,America,5.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10411.0,3.0,1997-01-10,1997-02-07,1997-01-21,America,11.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10431.0,2.0,1997-01-30,1997-02-13,1997-02-07,America,8.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10492.0,1.0,1997-04-01,1997-04-29,1997-04-11,America,10.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10742.0,3.0,1997-11-14,1997-12-12,1997-11-18,America,4.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10918.0,3.0,1998-03-02,1998-03-30,1998-03-11,America,9.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10944.0,3.0,1998-03-12,1998-03-26,1998-03-13,America,1.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10949.0,3.0,1998-03-13,1998-04-10,1998-03-17,America,4.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10975.0,3.0,1998-03-25,1998-04-22,1998-03-27,America,2.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10982.0,1.0,1998-03-27,1998-04-24,1998-04-08,America,12.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11027.0,1.0,1998-04-16,1998-05-14,1998-04-20,America,4.0,False
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11045.0,2.0,1998-04-23,1998-05-21,,America,,True
-BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11048.0,3.0,1998-04-24,1998-05-22,1998-04-30,America,6.0,False
-BSBEV,B's Beverages,London,UK,10289.0,3.0,1996-08-26,1996-09-23,1996-08-28,Europe,2.0,False
-BSBEV,B's Beverages,London,UK,10471.0,3.0,1997-03-11,1997-04-08,1997-03-18,Europe,7.0,False
-BSBEV,B's Beverages,London,UK,10484.0,3.0,1997-03-24,1997-04-21,1997-04-01,Europe,8.0,False
-BSBEV,B's Beverages,London,UK,10538.0,3.0,1997-05-15,1997-06-12,1997-05-16,Europe,1.0,False
-BSBEV,B's Beverages,London,UK,10539.0,3.0,1997-05-16,1997-06-13,1997-05-23,Europe,7.0,False
-BSBEV,B's Beverages,London,UK,10578.0,3.0,1997-06-24,1997-07-22,1997-07-25,Europe,31.0,True
-BSBEV,B's Beverages,London,UK,10599.0,3.0,1997-07-15,1997-08-26,1997-07-21,Europe,6.0,False
-BSBEV,B's Beverages,London,UK,10943.0,2.0,1998-03-11,1998-04-08,1998-03-19,Europe,8.0,False
-BSBEV,B's Beverages,London,UK,10947.0,2.0,1998-03-13,1998-04-10,1998-03-16,Europe,3.0,False
-BSBEV,B's Beverages,London,UK,11023.0,2.0,1998-04-14,1998-04-28,1998-04-24,Europe,10.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10521.0,2.0,1997-04-29,1997-05-27,1997-05-02,America,3.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10782.0,3.0,1997-12-17,1998-01-14,1997-12-22,America,5.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10819.0,3.0,1998-01-07,1998-02-04,1998-01-16,America,9.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10881.0,1.0,1998-02-11,1998-03-11,1998-02-18,America,7.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10937.0,3.0,1998-03-10,1998-03-24,1998-03-13,America,3.0,False
-CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,11054.0,1.0,1998-04-28,1998-05-26,,America,,True
-CENTC,Centro comercial Moctezuma,México D.F.,Mexico,10259.0,3.0,1996-07-18,1996-08-15,1996-07-25,America,7.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10254.0,2.0,1996-07-11,1996-08-08,1996-07-23,Europe,12.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10370.0,2.0,1996-12-03,1996-12-31,1996-12-27,Europe,24.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10519.0,3.0,1997-04-28,1997-05-26,1997-05-01,Europe,3.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10731.0,1.0,1997-11-06,1997-12-04,1997-11-14,Europe,8.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10746.0,3.0,1997-11-19,1997-12-17,1997-11-21,Europe,2.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,10966.0,1.0,1998-03-20,1998-04-17,1998-04-08,Europe,19.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,11029.0,1.0,1998-04-16,1998-05-14,1998-04-27,Europe,11.0,False
-CHOPS,Chop-suey Chinese,Bern,Switzerland,11041.0,2.0,1998-04-22,1998-05-20,1998-04-28,Europe,6.0,False
-COMMI,Comércio Mineiro,Sao Paulo,Brazil,10290.0,1.0,1996-08-27,1996-09-24,1996-09-03,America,7.0,False
-COMMI,Comércio Mineiro,Sao Paulo,Brazil,10466.0,1.0,1997-03-06,1997-04-03,1997-03-13,America,7.0,False
-COMMI,Comércio Mineiro,Sao Paulo,Brazil,10494.0,2.0,1997-04-02,1997-04-30,1997-04-09,America,7.0,False
-COMMI,Comércio Mineiro,Sao Paulo,Brazil,10969.0,2.0,1998-03-23,1998-04-20,1998-03-30,America,7.0,False
-COMMI,Comércio Mineiro,Sao Paulo,Brazil,11042.0,1.0,1998-04-22,1998-05-06,1998-05-01,America,9.0,False
-CONSH,Consolidated Holdings,London,UK,10435.0,2.0,1997-02-04,1997-03-18,1997-02-07,Europe,3.0,False
-CONSH,Consolidated Holdings,London,UK,10462.0,1.0,1997-03-03,1997-03-31,1997-03-18,Europe,15.0,False
-CONSH,Consolidated Holdings,London,UK,10848.0,2.0,1998-01-23,1998-02-20,1998-01-29,Europe,6.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,10363.0,3.0,1996-11-26,1996-12-24,1996-12-04,Europe,8.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,10391.0,3.0,1996-12-23,1997-01-20,1996-12-31,Europe,8.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,10797.0,2.0,1997-12-25,1998-01-22,1998-01-05,Europe,11.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,10825.0,1.0,1998-01-09,1998-02-06,1998-01-14,Europe,5.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,11036.0,3.0,1998-04-20,1998-05-18,1998-04-22,Europe,2.0,False
-DRACD,Drachenblut Delikatessen,Aachen,Germany,11067.0,2.0,1998-05-04,1998-05-18,1998-05-06,Europe,2.0,False
-DUMON,Du monde entier,Nantes,France,10311.0,3.0,1996-09-20,1996-10-04,1996-09-26,Europe,6.0,False
-DUMON,Du monde entier,Nantes,France,10609.0,2.0,1997-07-24,1997-08-21,1997-07-30,Europe,6.0,False
-DUMON,Du monde entier,Nantes,France,10683.0,1.0,1997-09-26,1997-10-24,1997-10-01,Europe,5.0,False
-DUMON,Du monde entier,Nantes,France,10890.0,1.0,1998-02-16,1998-03-16,1998-02-18,Europe,2.0,False
-EASTC,Eastern Connection,London,UK,10364.0,1.0,1996-11-26,1997-01-07,1996-12-04,Europe,8.0,False
-EASTC,Eastern Connection,London,UK,10400.0,3.0,1997-01-01,1997-01-29,1997-01-16,Europe,15.0,False
-EASTC,Eastern Connection,London,UK,10532.0,3.0,1997-05-09,1997-06-06,1997-05-12,Europe,3.0,False
-EASTC,Eastern Connection,London,UK,10726.0,1.0,1997-11-03,1997-11-17,1997-12-05,Europe,32.0,True
-EASTC,Eastern Connection,London,UK,10987.0,1.0,1998-03-31,1998-04-28,1998-04-06,Europe,6.0,False
-EASTC,Eastern Connection,London,UK,11024.0,1.0,1998-04-15,1998-05-13,1998-04-20,Europe,5.0,False
-EASTC,Eastern Connection,London,UK,11047.0,3.0,1998-04-24,1998-05-22,1998-05-01,Europe,7.0,False
-EASTC,Eastern Connection,London,UK,11056.0,2.0,1998-04-28,1998-05-12,1998-05-01,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10258.0,1.0,1996-07-17,1996-08-14,1996-07-23,Europe,6.0,False
-ERNSH,Ernst Handel,Graz,Austria,10263.0,3.0,1996-07-23,1996-08-20,1996-07-31,Europe,8.0,False
-ERNSH,Ernst Handel,Graz,Austria,10351.0,1.0,1996-11-11,1996-12-09,1996-11-20,Europe,9.0,False
-ERNSH,Ernst Handel,Graz,Austria,10368.0,2.0,1996-11-29,1996-12-27,1996-12-02,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10382.0,1.0,1996-12-13,1997-01-10,1996-12-16,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10390.0,1.0,1996-12-23,1997-01-20,1996-12-26,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10402.0,2.0,1997-01-02,1997-02-13,1997-01-10,Europe,8.0,False
-ERNSH,Ernst Handel,Graz,Austria,10403.0,3.0,1997-01-03,1997-01-31,1997-01-09,Europe,6.0,False
-ERNSH,Ernst Handel,Graz,Austria,10430.0,1.0,1997-01-30,1997-02-13,1997-02-03,Europe,4.0,False
-ERNSH,Ernst Handel,Graz,Austria,10442.0,2.0,1997-02-11,1997-03-11,1997-02-18,Europe,7.0,False
-ERNSH,Ernst Handel,Graz,Austria,10514.0,2.0,1997-04-22,1997-05-20,1997-05-16,Europe,24.0,False
-ERNSH,Ernst Handel,Graz,Austria,10571.0,3.0,1997-06-17,1997-07-29,1997-07-04,Europe,17.0,False
-ERNSH,Ernst Handel,Graz,Austria,10595.0,1.0,1997-07-10,1997-08-07,1997-07-14,Europe,4.0,False
-ERNSH,Ernst Handel,Graz,Austria,10633.0,3.0,1997-08-15,1997-09-12,1997-08-18,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10667.0,1.0,1997-09-12,1997-10-10,1997-09-19,Europe,7.0,False
-ERNSH,Ernst Handel,Graz,Austria,10698.0,1.0,1997-10-09,1997-11-06,1997-10-17,Europe,8.0,False
-ERNSH,Ernst Handel,Graz,Austria,10764.0,3.0,1997-12-03,1997-12-31,1997-12-08,Europe,5.0,False
-ERNSH,Ernst Handel,Graz,Austria,10771.0,2.0,1997-12-10,1998-01-07,1998-01-02,Europe,23.0,False
-ERNSH,Ernst Handel,Graz,Austria,10773.0,3.0,1997-12-11,1998-01-08,1997-12-16,Europe,5.0,False
-ERNSH,Ernst Handel,Graz,Austria,10776.0,3.0,1997-12-15,1998-01-12,1997-12-18,Europe,3.0,False
-ERNSH,Ernst Handel,Graz,Austria,10795.0,2.0,1997-12-24,1998-01-21,1998-01-20,Europe,27.0,False
-ERNSH,Ernst Handel,Graz,Austria,10836.0,1.0,1998-01-16,1998-02-13,1998-01-21,Europe,5.0,False
-ERNSH,Ernst Handel,Graz,Austria,10854.0,2.0,1998-01-27,1998-02-24,1998-02-05,Europe,9.0,False
-ERNSH,Ernst Handel,Graz,Austria,10895.0,1.0,1998-02-18,1998-03-18,1998-02-23,Europe,5.0,False
-ERNSH,Ernst Handel,Graz,Austria,10968.0,3.0,1998-03-23,1998-04-20,1998-04-01,Europe,9.0,False
-ERNSH,Ernst Handel,Graz,Austria,10979.0,2.0,1998-03-26,1998-04-23,1998-03-31,Europe,5.0,False
-ERNSH,Ernst Handel,Graz,Austria,10990.0,3.0,1998-04-01,1998-05-13,1998-04-07,Europe,6.0,False
-ERNSH,Ernst Handel,Graz,Austria,11008.0,3.0,1998-04-08,1998-05-06,,Europe,,True
-ERNSH,Ernst Handel,Graz,Austria,11017.0,2.0,1998-04-13,1998-05-11,1998-04-20,Europe,7.0,False
-ERNSH,Ernst Handel,Graz,Austria,11072.0,2.0,1998-05-05,1998-06-02,,Europe,,True
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10347.0,3.0,1996-11-06,1996-12-04,1996-11-08,America,2.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10386.0,3.0,1996-12-18,1997-01-01,1996-12-25,America,7.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10414.0,3.0,1997-01-14,1997-02-11,1997-01-17,America,3.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10512.0,2.0,1997-04-21,1997-05-19,1997-04-24,America,3.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10581.0,1.0,1997-06-26,1997-07-24,1997-07-02,America,6.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10650.0,3.0,1997-08-29,1997-09-26,1997-09-03,America,5.0,False
-FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10725.0,3.0,1997-10-31,1997-11-28,1997-11-05,America,5.0,False
-FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain,,,,,,Europe,,True
-FOLIG,Folies gourmandes,Lille,France,10408.0,1.0,1997-01-08,1997-02-05,1997-01-14,Europe,6.0,False
-FOLIG,Folies gourmandes,Lille,France,10480.0,2.0,1997-03-20,1997-04-17,1997-03-24,Europe,4.0,False
-FOLIG,Folies gourmandes,Lille,France,10634.0,3.0,1997-08-15,1997-09-12,1997-08-21,Europe,6.0,False
-FOLIG,Folies gourmandes,Lille,France,10763.0,3.0,1997-12-03,1997-12-31,1997-12-08,Europe,5.0,False
-FOLIG,Folies gourmandes,Lille,France,10789.0,2.0,1997-12-22,1998-01-19,1997-12-31,Europe,9.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10264.0,3.0,1996-07-24,1996-08-21,1996-08-23,Europe,30.0,True
-FOLKO,Folk och fä HB,Bräcke,Sweden,10327.0,1.0,1996-10-11,1996-11-08,1996-10-14,Europe,3.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10378.0,3.0,1996-12-10,1997-01-07,1996-12-19,Europe,9.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10434.0,2.0,1997-02-03,1997-03-03,1997-02-13,Europe,10.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10460.0,1.0,1997-02-28,1997-03-28,1997-03-03,Europe,3.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10533.0,1.0,1997-05-12,1997-06-09,1997-05-22,Europe,10.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10561.0,2.0,1997-06-06,1997-07-04,1997-06-09,Europe,3.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10703.0,2.0,1997-10-14,1997-11-11,1997-10-20,Europe,6.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10762.0,1.0,1997-12-02,1997-12-30,1997-12-09,Europe,7.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10774.0,1.0,1997-12-11,1997-12-25,1997-12-12,Europe,1.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10824.0,1.0,1998-01-09,1998-02-06,1998-01-30,Europe,21.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10880.0,1.0,1998-02-10,1998-03-24,1998-02-18,Europe,8.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10902.0,1.0,1998-02-23,1998-03-23,1998-03-03,Europe,8.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10955.0,2.0,1998-03-17,1998-04-14,1998-03-20,Europe,3.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10977.0,3.0,1998-03-26,1998-04-23,1998-04-10,Europe,15.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10980.0,1.0,1998-03-27,1998-05-08,1998-04-17,Europe,21.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,10993.0,3.0,1998-04-01,1998-04-29,1998-04-10,Europe,9.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,11001.0,2.0,1998-04-06,1998-05-04,1998-04-14,Europe,8.0,False
-FOLKO,Folk och fä HB,Bräcke,Sweden,11050.0,2.0,1998-04-27,1998-05-25,1998-05-05,Europe,8.0,False
-FRANK,Frankenversand,München,Germany,10267.0,1.0,1996-07-29,1996-08-26,1996-08-06,Europe,8.0,False
-FRANK,Frankenversand,München,Germany,10337.0,3.0,1996-10-24,1996-11-21,1996-10-29,Europe,5.0,False
-FRANK,Frankenversand,München,Germany,10342.0,2.0,1996-10-30,1996-11-13,1996-11-04,Europe,5.0,False
-FRANK,Frankenversand,München,Germany,10396.0,3.0,1996-12-27,1997-01-10,1997-01-06,Europe,10.0,False
-FRANK,Frankenversand,München,Germany,10488.0,2.0,1997-03-27,1997-04-24,1997-04-02,Europe,6.0,False
-FRANK,Frankenversand,München,Germany,10560.0,1.0,1997-06-06,1997-07-04,1997-06-09,Europe,3.0,False
-FRANK,Frankenversand,München,Germany,10623.0,2.0,1997-08-07,1997-09-04,1997-08-12,Europe,5.0,False
-FRANK,Frankenversand,München,Germany,10653.0,1.0,1997-09-02,1997-09-30,1997-09-19,Europe,17.0,False
-FRANK,Frankenversand,München,Germany,10670.0,1.0,1997-09-16,1997-10-14,1997-09-18,Europe,2.0,False
-FRANK,Frankenversand,München,Germany,10675.0,2.0,1997-09-19,1997-10-17,1997-09-23,Europe,4.0,False
-FRANK,Frankenversand,München,Germany,10717.0,2.0,1997-10-24,1997-11-21,1997-10-29,Europe,5.0,False
-FRANK,Frankenversand,München,Germany,10791.0,2.0,1997-12-23,1998-01-20,1998-01-01,Europe,9.0,False
-FRANK,Frankenversand,München,Germany,10859.0,2.0,1998-01-29,1998-02-26,1998-02-02,Europe,4.0,False
-FRANK,Frankenversand,München,Germany,10929.0,1.0,1998-03-05,1998-04-02,1998-03-12,Europe,7.0,False
-FRANK,Frankenversand,München,Germany,11012.0,3.0,1998-04-09,1998-04-23,1998-04-17,Europe,8.0,False
-FRANR,France restauration,Nantes,France,10671.0,1.0,1997-09-17,1997-10-15,1997-09-24,Europe,7.0,False
-FRANR,France restauration,Nantes,France,10860.0,3.0,1998-01-29,1998-02-26,1998-02-04,Europe,6.0,False
-FRANR,France restauration,Nantes,France,10971.0,2.0,1998-03-24,1998-04-21,1998-04-02,Europe,9.0,False
-FRANS,Franchi S.p.A.,Torino,Italy,10422.0,1.0,1997-01-22,1997-02-19,1997-01-31,Europe,9.0,False
-FRANS,Franchi S.p.A.,Torino,Italy,10710.0,1.0,1997-10-20,1997-11-17,1997-10-23,Europe,3.0,False
-FRANS,Franchi S.p.A.,Torino,Italy,10753.0,1.0,1997-11-25,1997-12-23,1997-11-27,Europe,2.0,False
-FRANS,Franchi S.p.A.,Torino,Italy,10807.0,1.0,1997-12-31,1998-01-28,1998-01-30,Europe,30.0,True
-FRANS,Franchi S.p.A.,Torino,Italy,11026.0,1.0,1998-04-15,1998-05-13,1998-04-28,Europe,13.0,False
-FRANS,Franchi S.p.A.,Torino,Italy,11060.0,2.0,1998-04-30,1998-05-28,1998-05-04,Europe,4.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10328.0,3.0,1996-10-14,1996-11-11,1996-10-17,Europe,3.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10352.0,3.0,1996-11-12,1996-11-26,1996-11-18,Europe,6.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10464.0,2.0,1997-03-04,1997-04-01,1997-03-14,Europe,10.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10491.0,3.0,1997-03-31,1997-04-28,1997-04-08,Europe,8.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10551.0,3.0,1997-05-28,1997-07-09,1997-06-06,Europe,9.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10604.0,1.0,1997-07-18,1997-08-15,1997-07-29,Europe,11.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10664.0,3.0,1997-09-10,1997-10-08,1997-09-19,Europe,9.0,False
-FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10963.0,3.0,1998-03-19,1998-04-16,1998-03-26,Europe,7.0,False
-GALED,Galería del gastrónomo,Barcelona,Spain,10366.0,2.0,1996-11-28,1997-01-09,1996-12-30,Europe,32.0,False
-GALED,Galería del gastrónomo,Barcelona,Spain,10426.0,1.0,1997-01-27,1997-02-24,1997-02-06,Europe,10.0,False
-GALED,Galería del gastrónomo,Barcelona,Spain,10568.0,3.0,1997-06-13,1997-07-11,1997-07-09,Europe,26.0,False
-GALED,Galería del gastrónomo,Barcelona,Spain,10887.0,3.0,1998-02-13,1998-03-13,1998-02-16,Europe,3.0,False
-GALED,Galería del gastrónomo,Barcelona,Spain,10928.0,1.0,1998-03-05,1998-04-02,1998-03-18,Europe,13.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10303.0,2.0,1996-09-11,1996-10-09,1996-09-18,Europe,7.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10550.0,3.0,1997-05-28,1997-06-25,1997-06-06,Europe,9.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10629.0,3.0,1997-08-12,1997-09-09,1997-08-20,Europe,8.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10872.0,2.0,1998-02-05,1998-03-05,1998-02-09,Europe,4.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10874.0,2.0,1998-02-06,1998-03-06,1998-02-11,Europe,5.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10888.0,2.0,1998-02-16,1998-03-16,1998-02-23,Europe,7.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10911.0,1.0,1998-02-26,1998-03-26,1998-03-05,Europe,7.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,10948.0,3.0,1998-03-13,1998-04-10,1998-03-19,Europe,6.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,11009.0,1.0,1998-04-08,1998-05-06,1998-04-10,Europe,2.0,False
-GODOS,Godos Cocina Típica,Sevilla,Spain,11037.0,1.0,1998-04-21,1998-05-19,1998-04-27,Europe,6.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10423.0,3.0,1997-01-23,1997-02-06,1997-02-24,America,32.0,True
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10652.0,2.0,1997-09-01,1997-09-29,1997-09-08,America,7.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10685.0,2.0,1997-09-29,1997-10-13,1997-10-03,America,4.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10709.0,3.0,1997-10-17,1997-11-14,1997-11-20,America,34.0,True
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10734.0,3.0,1997-11-07,1997-12-05,1997-11-12,America,5.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10777.0,2.0,1997-12-15,1997-12-29,1998-01-21,America,37.0,True
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10790.0,1.0,1997-12-22,1998-01-19,1997-12-26,America,4.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,10959.0,2.0,1998-03-18,1998-04-29,1998-03-23,America,5.0,False
-GOURL,Gourmet Lanchonetes,Campinas,Brazil,11049.0,1.0,1998-04-24,1998-05-22,1998-05-04,America,10.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10528.0,2.0,1997-05-06,1997-05-20,1997-05-09,America,3.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10589.0,2.0,1997-07-04,1997-08-01,1997-07-14,America,10.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10616.0,2.0,1997-07-31,1997-08-28,1997-08-05,America,5.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10617.0,2.0,1997-07-31,1997-08-28,1997-08-04,America,4.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10656.0,1.0,1997-09-04,1997-10-02,1997-09-10,America,6.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10681.0,3.0,1997-09-25,1997-10-23,1997-09-30,America,5.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,10816.0,2.0,1998-01-06,1998-02-03,1998-02-04,America,29.0,True
-GREAL,Great Lakes Food Market,Eugene,USA,10936.0,2.0,1998-03-09,1998-04-06,1998-03-18,America,9.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,11006.0,2.0,1998-04-07,1998-05-05,1998-04-15,America,8.0,False
-GREAL,Great Lakes Food Market,Eugene,USA,11040.0,3.0,1998-04-22,1998-05-20,,America,,True
-GREAL,Great Lakes Food Market,Eugene,USA,11061.0,3.0,1998-04-30,1998-06-11,,America,,True
-GROSR,GROSELLA-Restaurante,Caracas,Venezuela,10268.0,3.0,1996-07-30,1996-08-27,1996-08-02,America,3.0,False
-GROSR,GROSELLA-Restaurante,Caracas,Venezuela,10785.0,3.0,1997-12-18,1998-01-15,1997-12-24,America,6.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10250.0,2.0,1996-07-08,1996-08-05,1996-07-12,America,4.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10253.0,2.0,1996-07-10,1996-07-24,1996-07-16,America,6.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10541.0,1.0,1997-05-19,1997-06-16,1997-05-29,America,10.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10645.0,1.0,1997-08-26,1997-09-23,1997-09-02,America,7.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10690.0,1.0,1997-10-02,1997-10-30,1997-10-03,America,1.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10770.0,3.0,1997-12-09,1998-01-06,1997-12-17,America,8.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10783.0,2.0,1997-12-18,1998-01-15,1997-12-19,America,1.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10886.0,1.0,1998-02-13,1998-03-13,1998-03-02,America,17.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10903.0,3.0,1998-02-24,1998-03-24,1998-03-04,America,8.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10922.0,3.0,1998-03-03,1998-03-31,1998-03-05,America,2.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10925.0,1.0,1998-03-04,1998-04-01,1998-03-13,America,9.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10981.0,2.0,1998-03-27,1998-04-24,1998-04-02,America,6.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,11022.0,2.0,1998-04-14,1998-05-12,1998-05-04,America,20.0,False
-HANAR,Hanari Carnes,Rio de Janeiro,Brazil,11052.0,1.0,1998-04-27,1998-05-25,1998-05-01,America,4.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10257.0,3.0,1996-07-16,1996-08-13,1996-07-22,America,6.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10395.0,1.0,1996-12-26,1997-01-23,1997-01-03,America,8.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10476.0,3.0,1997-03-17,1997-04-14,1997-03-24,America,7.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10486.0,2.0,1997-03-26,1997-04-23,1997-04-02,America,7.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10490.0,2.0,1997-03-31,1997-04-28,1997-04-03,America,3.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10498.0,2.0,1997-04-07,1997-05-05,1997-04-11,America,4.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10552.0,1.0,1997-05-29,1997-06-26,1997-06-05,America,7.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10601.0,1.0,1997-07-16,1997-08-27,1997-07-22,America,6.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10613.0,2.0,1997-07-29,1997-08-26,1997-08-01,America,3.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10641.0,2.0,1997-08-22,1997-09-19,1997-08-26,America,4.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10705.0,2.0,1997-10-15,1997-11-12,1997-11-18,America,34.0,True
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10796.0,1.0,1997-12-25,1998-01-22,1998-01-14,America,20.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10863.0,2.0,1998-02-02,1998-03-02,1998-02-17,America,15.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10901.0,1.0,1998-02-23,1998-03-23,1998-02-26,America,3.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10957.0,3.0,1998-03-18,1998-04-15,1998-03-27,America,9.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10960.0,1.0,1998-03-19,1998-04-02,1998-04-08,America,20.0,True
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10976.0,1.0,1998-03-25,1998-05-06,1998-04-03,America,9.0,False
-HILAA,HILARION-Abastos,San Cristóbal,Venezuela,11055.0,2.0,1998-04-28,1998-05-26,1998-05-05,America,7.0,False
-HUNGC,Hungry Coyote Import Store,Elgin,USA,10375.0,2.0,1996-12-06,1997-01-03,1996-12-09,America,3.0,False
-HUNGC,Hungry Coyote Import Store,Elgin,USA,10394.0,3.0,1996-12-25,1997-01-22,1997-01-03,America,9.0,False
-HUNGC,Hungry Coyote Import Store,Elgin,USA,10415.0,1.0,1997-01-15,1997-02-12,1997-01-24,America,9.0,False
-HUNGC,Hungry Coyote Import Store,Elgin,USA,10600.0,1.0,1997-07-16,1997-08-13,1997-07-21,America,5.0,False
-HUNGC,Hungry Coyote Import Store,Elgin,USA,10660.0,1.0,1997-09-08,1997-10-06,1997-10-15,America,37.0,True
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10298.0,2.0,1996-09-05,1996-10-03,1996-09-11,Europe,6.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10309.0,1.0,1996-09-19,1996-10-17,1996-10-23,Europe,34.0,True
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10335.0,2.0,1996-10-22,1996-11-19,1996-10-24,Europe,2.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10373.0,3.0,1996-12-05,1997-01-02,1996-12-11,Europe,6.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10380.0,3.0,1996-12-12,1997-01-09,1997-01-16,Europe,35.0,True
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10429.0,2.0,1997-01-29,1997-03-12,1997-02-07,Europe,9.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10503.0,2.0,1997-04-11,1997-05-09,1997-04-16,Europe,5.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10516.0,3.0,1997-04-24,1997-05-22,1997-05-01,Europe,7.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10567.0,1.0,1997-06-12,1997-07-10,1997-06-17,Europe,5.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10646.0,3.0,1997-08-27,1997-10-08,1997-09-03,Europe,7.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10661.0,3.0,1997-09-09,1997-10-07,1997-09-15,Europe,6.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10687.0,2.0,1997-09-30,1997-10-28,1997-10-30,Europe,30.0,True
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10701.0,3.0,1997-10-13,1997-10-27,1997-10-15,Europe,2.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10712.0,1.0,1997-10-21,1997-11-18,1997-10-31,Europe,10.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10736.0,2.0,1997-11-11,1997-12-09,1997-11-21,Europe,10.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10897.0,2.0,1998-02-19,1998-03-19,1998-02-25,Europe,6.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10912.0,2.0,1998-02-26,1998-03-26,1998-03-18,Europe,20.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10985.0,1.0,1998-03-30,1998-04-27,1998-04-02,Europe,3.0,False
-HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,11063.0,2.0,1998-04-30,1998-05-28,1998-05-06,Europe,6.0,False
-ISLAT,Island Trading,Cowes,UK,10315.0,2.0,1996-09-26,1996-10-24,1996-10-03,Europe,7.0,False
-ISLAT,Island Trading,Cowes,UK,10318.0,2.0,1996-10-01,1996-10-29,1996-10-04,Europe,3.0,False
-ISLAT,Island Trading,Cowes,UK,10321.0,2.0,1996-10-03,1996-10-31,1996-10-11,Europe,8.0,False
-ISLAT,Island Trading,Cowes,UK,10473.0,3.0,1997-03-13,1997-03-27,1997-03-21,Europe,8.0,False
-ISLAT,Island Trading,Cowes,UK,10621.0,2.0,1997-08-05,1997-09-02,1997-08-11,Europe,6.0,False
-ISLAT,Island Trading,Cowes,UK,10674.0,2.0,1997-09-18,1997-10-16,1997-09-30,Europe,12.0,False
-ISLAT,Island Trading,Cowes,UK,10749.0,2.0,1997-11-20,1997-12-18,1997-12-19,Europe,29.0,True
-ISLAT,Island Trading,Cowes,UK,10798.0,1.0,1997-12-26,1998-01-23,1998-01-05,Europe,10.0,False
-ISLAT,Island Trading,Cowes,UK,10829.0,1.0,1998-01-13,1998-02-10,1998-01-23,Europe,10.0,False
-ISLAT,Island Trading,Cowes,UK,10933.0,3.0,1998-03-06,1998-04-03,1998-03-16,Europe,10.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10323.0,1.0,1996-10-07,1996-11-04,1996-10-14,Europe,7.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10325.0,3.0,1996-10-09,1996-10-23,1996-10-14,Europe,5.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10456.0,2.0,1997-02-25,1997-04-08,1997-02-28,Europe,3.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10457.0,1.0,1997-02-25,1997-03-25,1997-03-03,Europe,6.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10468.0,3.0,1997-03-07,1997-04-04,1997-03-12,Europe,5.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10506.0,2.0,1997-04-15,1997-05-13,1997-05-02,Europe,17.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10542.0,3.0,1997-05-20,1997-06-17,1997-05-26,Europe,6.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10630.0,2.0,1997-08-13,1997-09-10,1997-08-19,Europe,6.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10718.0,3.0,1997-10-27,1997-11-24,1997-10-29,Europe,2.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10799.0,3.0,1997-12-26,1998-02-06,1998-01-05,Europe,10.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10817.0,2.0,1998-01-06,1998-01-20,1998-01-13,Europe,7.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10849.0,2.0,1998-01-23,1998-02-20,1998-01-30,Europe,7.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,10893.0,2.0,1998-02-18,1998-03-18,1998-02-20,Europe,2.0,False
-KOENE,Königlich Essen,Brandenburg,Germany,11028.0,1.0,1998-04-16,1998-05-14,1998-04-22,Europe,6.0,False
-LACOR,La corne d'abondance,Versailles,France,10858.0,1.0,1998-01-29,1998-02-26,1998-02-03,Europe,5.0,False
-LACOR,La corne d'abondance,Versailles,France,10927.0,1.0,1998-03-05,1998-04-02,1998-04-08,Europe,34.0,True
-LACOR,La corne d'abondance,Versailles,France,10972.0,2.0,1998-03-24,1998-04-21,1998-03-26,Europe,2.0,False
-LACOR,La corne d'abondance,Versailles,France,10973.0,2.0,1998-03-24,1998-04-21,1998-03-27,Europe,3.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10350.0,2.0,1996-11-11,1996-12-09,1996-12-03,Europe,22.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10358.0,1.0,1996-11-20,1996-12-18,1996-11-27,Europe,7.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10371.0,1.0,1996-12-03,1996-12-31,1996-12-24,Europe,21.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10413.0,2.0,1997-01-14,1997-02-11,1997-01-16,Europe,2.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10425.0,2.0,1997-01-24,1997-02-21,1997-02-14,Europe,21.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10454.0,3.0,1997-02-21,1997-03-21,1997-02-25,Europe,4.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10493.0,3.0,1997-04-02,1997-04-30,1997-04-10,Europe,8.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10500.0,1.0,1997-04-09,1997-05-07,1997-04-17,Europe,8.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10610.0,1.0,1997-07-25,1997-08-22,1997-08-06,Europe,12.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10631.0,1.0,1997-08-14,1997-09-11,1997-08-15,Europe,1.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10787.0,1.0,1997-12-19,1998-01-02,1997-12-26,Europe,7.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10832.0,2.0,1998-01-14,1998-02-11,1998-01-19,Europe,5.0,False
-LAMAI,La maison d'Asie,Toulouse,France,10923.0,3.0,1998-03-03,1998-04-14,1998-03-13,Europe,10.0,False
-LAMAI,La maison d'Asie,Toulouse,France,11051.0,3.0,1998-04-27,1998-05-25,,Europe,,True
-LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10495.0,3.0,1997-04-03,1997-05-01,1997-04-11,America,8.0,False
-LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10620.0,3.0,1997-08-05,1997-09-02,1997-08-14,America,9.0,False
-LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10810.0,3.0,1998-01-01,1998-01-29,1998-01-07,America,6.0,False
-LAZYK,Lazy K Kountry Store,Walla Walla,USA,10482.0,3.0,1997-03-21,1997-04-18,1997-04-10,America,20.0,False
-LAZYK,Lazy K Kountry Store,Walla Walla,USA,10545.0,2.0,1997-05-22,1997-06-19,1997-06-26,America,35.0,True
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10279.0,2.0,1996-08-13,1996-09-10,1996-08-16,Europe,3.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10284.0,1.0,1996-08-19,1996-09-16,1996-08-27,Europe,8.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10343.0,1.0,1996-10-31,1996-11-28,1996-11-06,Europe,6.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10497.0,1.0,1997-04-04,1997-05-02,1997-04-07,Europe,3.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10522.0,1.0,1997-04-30,1997-05-28,1997-05-06,Europe,6.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10534.0,2.0,1997-05-12,1997-06-09,1997-05-14,Europe,2.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10536.0,2.0,1997-05-14,1997-06-11,1997-06-06,Europe,23.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10557.0,2.0,1997-06-03,1997-06-17,1997-06-06,Europe,3.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10592.0,1.0,1997-07-08,1997-08-05,1997-07-16,Europe,8.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10593.0,2.0,1997-07-09,1997-08-06,1997-08-13,Europe,35.0,True
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10772.0,2.0,1997-12-10,1998-01-07,1997-12-19,Europe,9.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10862.0,2.0,1998-01-30,1998-03-13,1998-02-02,Europe,3.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10891.0,2.0,1998-02-17,1998-03-17,1998-02-19,Europe,2.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10934.0,3.0,1998-03-09,1998-04-06,1998-03-12,Europe,3.0,False
-LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,11070.0,1.0,1998-05-05,1998-06-02,,Europe,,True
-LETSS,Let's Stop N Shop,San Francisco,USA,10579.0,2.0,1997-06-25,1997-07-23,1997-07-04,America,9.0,False
-LETSS,Let's Stop N Shop,San Francisco,USA,10719.0,2.0,1997-10-27,1997-11-24,1997-11-05,America,9.0,False
-LETSS,Let's Stop N Shop,San Francisco,USA,10735.0,2.0,1997-11-10,1997-12-08,1997-11-21,America,11.0,False
-LETSS,Let's Stop N Shop,San Francisco,USA,10884.0,2.0,1998-02-12,1998-03-12,1998-02-13,America,1.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10283.0,3.0,1996-08-16,1996-09-13,1996-08-23,America,7.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10296.0,1.0,1996-09-03,1996-10-01,1996-09-11,America,8.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10330.0,1.0,1996-10-16,1996-11-13,1996-10-28,America,12.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10357.0,3.0,1996-11-19,1996-12-17,1996-12-02,America,13.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10381.0,3.0,1996-12-12,1997-01-09,1996-12-13,America,1.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10461.0,3.0,1997-02-28,1997-03-28,1997-03-05,America,5.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10499.0,2.0,1997-04-08,1997-05-06,1997-04-16,America,8.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10543.0,2.0,1997-05-21,1997-06-18,1997-05-23,America,2.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10780.0,1.0,1997-12-16,1997-12-30,1997-12-25,America,9.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10823.0,2.0,1998-01-09,1998-02-06,1998-01-13,America,4.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10899.0,3.0,1998-02-20,1998-03-20,1998-02-26,America,6.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10997.0,2.0,1998-04-03,1998-05-15,1998-04-13,America,10.0,False
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,11065.0,1.0,1998-05-01,1998-05-29,,America,,True
-LILAS,LILA-Supermercado,Barquisimeto,Venezuela,11071.0,1.0,1998-05-05,1998-06-02,,America,,True
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10405.0,1.0,1997-01-06,1997-02-03,1997-01-22,America,16.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10485.0,2.0,1997-03-25,1997-04-08,1997-03-31,America,6.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10638.0,1.0,1997-08-20,1997-09-17,1997-09-01,America,12.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10697.0,1.0,1997-10-08,1997-11-05,1997-10-14,America,6.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10729.0,3.0,1997-11-04,1997-12-16,1997-11-14,America,10.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10811.0,1.0,1998-01-02,1998-01-30,1998-01-08,America,6.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10838.0,3.0,1998-01-19,1998-02-16,1998-01-23,America,4.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10840.0,2.0,1998-01-19,1998-03-02,1998-02-16,America,28.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10919.0,2.0,1998-03-02,1998-03-30,1998-03-04,America,2.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10954.0,1.0,1998-03-17,1998-04-28,1998-03-20,America,3.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,11014.0,3.0,1998-04-10,1998-05-08,1998-04-15,America,5.0,False
-LINOD,LINO-Delicateses,I. de Margarita,Venezuela,11039.0,2.0,1998-04-21,1998-05-19,,America,,True
-LONEP,Lonesome Pine Restaurant,Portland,USA,10307.0,2.0,1996-09-17,1996-10-15,1996-09-25,America,8.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10317.0,1.0,1996-09-30,1996-10-28,1996-10-10,America,10.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10544.0,1.0,1997-05-21,1997-06-18,1997-05-30,America,9.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10662.0,2.0,1997-09-09,1997-10-07,1997-09-18,America,9.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10665.0,2.0,1997-09-11,1997-10-09,1997-09-17,America,6.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10867.0,1.0,1998-02-03,1998-03-17,1998-02-11,America,8.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,10883.0,3.0,1998-02-12,1998-03-12,1998-02-20,America,8.0,False
-LONEP,Lonesome Pine Restaurant,Portland,USA,11018.0,2.0,1998-04-13,1998-05-11,1998-04-16,America,3.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10275.0,1.0,1996-08-07,1996-09-04,1996-08-09,Europe,2.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10300.0,2.0,1996-09-09,1996-10-07,1996-09-18,Europe,9.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10404.0,1.0,1997-01-03,1997-01-31,1997-01-08,Europe,5.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10467.0,2.0,1997-03-06,1997-04-03,1997-03-11,Europe,5.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10635.0,3.0,1997-08-18,1997-09-15,1997-08-21,Europe,3.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10754.0,3.0,1997-11-25,1997-12-23,1997-11-27,Europe,2.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10784.0,3.0,1997-12-18,1998-01-15,1997-12-22,Europe,4.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10818.0,3.0,1998-01-07,1998-02-04,1998-01-12,Europe,5.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10939.0,2.0,1998-03-10,1998-04-07,1998-03-13,Europe,3.0,False
-MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10950.0,2.0,1998-03-16,1998-04-13,1998-03-23,Europe,7.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10529.0,2.0,1997-05-07,1997-06-04,1997-05-09,Europe,2.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10649.0,3.0,1997-08-28,1997-09-25,1997-08-29,Europe,1.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10760.0,1.0,1997-12-01,1997-12-29,1997-12-10,Europe,9.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10892.0,2.0,1998-02-17,1998-03-17,1998-02-19,Europe,2.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10896.0,3.0,1998-02-19,1998-03-19,1998-02-27,Europe,8.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,10978.0,2.0,1998-03-26,1998-04-23,1998-04-23,Europe,28.0,False
-MAISD,Maison Dewey,Bruxelles,Belgium,11004.0,1.0,1998-04-07,1998-05-05,1998-04-20,Europe,13.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10332.0,2.0,1996-10-17,1996-11-28,1996-10-21,America,4.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10339.0,2.0,1996-10-28,1996-11-25,1996-11-04,America,7.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10376.0,2.0,1996-12-09,1997-01-06,1996-12-13,America,4.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10424.0,2.0,1997-01-23,1997-02-20,1997-01-27,America,4.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10439.0,3.0,1997-02-07,1997-03-07,1997-02-10,America,3.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10505.0,3.0,1997-04-14,1997-05-12,1997-04-21,America,7.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10565.0,2.0,1997-06-11,1997-07-09,1997-06-18,America,7.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10570.0,3.0,1997-06-17,1997-07-15,1997-06-19,America,2.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10590.0,3.0,1997-07-07,1997-08-04,1997-07-14,America,7.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10605.0,2.0,1997-07-21,1997-08-18,1997-07-29,America,8.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10618.0,1.0,1997-08-01,1997-09-12,1997-08-08,America,7.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10619.0,3.0,1997-08-04,1997-09-01,1997-08-07,America,3.0,False
-MEREP,Mère Paillarde,Montréal,Canada,10724.0,2.0,1997-10-30,1997-12-11,1997-11-05,America,6.0,False
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,10277.0,3.0,1996-08-09,1996-09-06,1996-08-13,Europe,4.0,False
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,10575.0,1.0,1997-06-20,1997-07-04,1997-06-30,Europe,10.0,False
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,10699.0,3.0,1997-10-09,1997-11-06,1997-10-13,Europe,4.0,False
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,10779.0,2.0,1997-12-16,1998-01-13,1998-01-14,Europe,29.0,True
-MORGK,Morgenstern Gesundkost,Leipzig,Germany,10945.0,1.0,1998-03-12,1998-04-09,1998-03-18,Europe,6.0,False
-NORTS,North/South,London,UK,10517.0,3.0,1997-04-24,1997-05-22,1997-04-29,Europe,5.0,False
-NORTS,North/South,London,UK,10752.0,3.0,1997-11-24,1997-12-22,1997-11-28,Europe,4.0,False
-NORTS,North/South,London,UK,11057.0,3.0,1998-04-29,1998-05-27,1998-05-01,Europe,2.0,False
-OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10409.0,1.0,1997-01-09,1997-02-06,1997-01-14,America,5.0,False
-OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10531.0,1.0,1997-05-08,1997-06-05,1997-05-19,America,11.0,False
-OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10898.0,2.0,1998-02-20,1998-03-20,1998-03-06,America,14.0,False
-OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10958.0,2.0,1998-03-18,1998-04-15,1998-03-27,America,9.0,False
-OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10986.0,2.0,1998-03-30,1998-04-27,1998-04-21,America,22.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10305.0,3.0,1996-09-13,1996-10-11,1996-10-09,America,26.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10338.0,3.0,1996-10-25,1996-11-22,1996-10-29,America,4.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10441.0,2.0,1997-02-10,1997-03-24,1997-03-14,America,32.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10594.0,2.0,1997-07-09,1997-08-06,1997-07-16,America,7.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10680.0,1.0,1997-09-24,1997-10-22,1997-09-26,America,2.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10706.0,3.0,1997-10-16,1997-11-13,1997-10-21,America,5.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10808.0,3.0,1998-01-01,1998-01-29,1998-01-09,America,8.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10855.0,1.0,1998-01-27,1998-02-24,1998-02-04,America,8.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,10965.0,3.0,1998-03-20,1998-04-17,1998-03-30,America,10.0,False
-OLDWO,Old World Delicatessen,Anchorage,USA,11034.0,1.0,1998-04-20,1998-06-01,1998-04-27,America,7.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10260.0,1.0,1996-07-19,1996-08-16,1996-07-29,Europe,10.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10407.0,2.0,1997-01-07,1997-02-04,1997-01-30,Europe,23.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10508.0,2.0,1997-04-16,1997-05-14,1997-05-13,Europe,27.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10554.0,3.0,1997-05-30,1997-06-27,1997-06-05,Europe,6.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10580.0,3.0,1997-06-26,1997-07-24,1997-07-01,Europe,5.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10684.0,1.0,1997-09-26,1997-10-24,1997-09-30,Europe,4.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10766.0,1.0,1997-12-05,1998-01-02,1997-12-09,Europe,4.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10833.0,2.0,1998-01-15,1998-02-12,1998-01-23,Europe,8.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,10999.0,2.0,1998-04-03,1998-05-01,1998-04-10,Europe,7.0,False
-OTTIK,Ottilies Käseladen,Köln,Germany,11020.0,2.0,1998-04-14,1998-05-12,1998-04-16,Europe,2.0,False
-PARIS,Paris spécialités,Paris,France,,,,,,Europe,,True
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10322.0,3.0,1996-10-04,1996-11-01,1996-10-23,America,19.0,False
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10354.0,3.0,1996-11-14,1996-12-12,1996-11-20,America,6.0,False
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10474.0,2.0,1997-03-13,1997-04-10,1997-03-21,America,8.0,False
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10502.0,1.0,1997-04-10,1997-05-08,1997-04-29,America,19.0,False
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10995.0,3.0,1998-04-02,1998-04-30,1998-04-06,America,4.0,False
-PERIC,Pericles Comidas clásicas,México D.F.,Mexico,11073.0,2.0,1998-05-05,1998-06-02,,America,,True
-PICCO,Piccolo und mehr,Salzburg,Austria,10353.0,3.0,1996-11-13,1996-12-11,1996-11-25,Europe,12.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10392.0,3.0,1996-12-24,1997-01-21,1997-01-01,Europe,8.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10427.0,2.0,1997-01-27,1997-02-24,1997-03-03,Europe,35.0,True
-PICCO,Piccolo und mehr,Salzburg,Austria,10489.0,2.0,1997-03-28,1997-04-25,1997-04-09,Europe,12.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10530.0,2.0,1997-05-08,1997-06-05,1997-05-12,Europe,4.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10597.0,3.0,1997-07-11,1997-08-08,1997-07-18,Europe,7.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10686.0,1.0,1997-09-30,1997-10-28,1997-10-08,Europe,8.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10747.0,1.0,1997-11-19,1997-12-17,1997-11-26,Europe,7.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,10844.0,2.0,1998-01-21,1998-02-18,1998-01-26,Europe,5.0,False
-PICCO,Piccolo und mehr,Salzburg,Austria,11053.0,2.0,1998-04-27,1998-05-25,1998-04-29,Europe,2.0,False
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10336.0,2.0,1996-10-23,1996-11-20,1996-10-25,Europe,2.0,False
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10397.0,1.0,1996-12-27,1997-01-24,1997-01-02,Europe,6.0,False
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10433.0,3.0,1997-02-03,1997-03-03,1997-03-04,Europe,29.0,True
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10477.0,2.0,1997-03-17,1997-04-14,1997-03-25,Europe,8.0,False
-PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,11007.0,2.0,1998-04-08,1998-05-06,1998-04-13,Europe,5.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10261.0,2.0,1996-07-19,1996-08-16,1996-07-30,America,11.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10291.0,2.0,1996-08-27,1996-09-24,1996-09-04,America,8.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10379.0,1.0,1996-12-11,1997-01-08,1996-12-13,America,2.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10421.0,1.0,1997-01-21,1997-03-04,1997-01-27,America,6.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10587.0,1.0,1997-07-02,1997-07-30,1997-07-09,America,7.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10647.0,2.0,1997-08-27,1997-09-10,1997-09-03,America,7.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10720.0,2.0,1997-10-28,1997-11-11,1997-11-05,America,8.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10794.0,1.0,1997-12-24,1998-01-21,1998-01-02,America,9.0,False
-QUEDE,Que Delícia,Rio de Janeiro,Brazil,10989.0,1.0,1998-03-31,1998-04-28,1998-04-02,America,2.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10372.0,2.0,1996-12-04,1997-01-01,1996-12-09,America,5.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10406.0,1.0,1997-01-07,1997-02-18,1997-01-13,America,6.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10487.0,2.0,1997-03-26,1997-04-23,1997-03-28,America,2.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10637.0,1.0,1997-08-19,1997-09-16,1997-08-26,America,7.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10659.0,2.0,1997-09-05,1997-10-03,1997-09-10,America,5.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10704.0,1.0,1997-10-14,1997-11-11,1997-11-07,America,24.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10728.0,2.0,1997-11-04,1997-12-02,1997-11-11,America,7.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10786.0,1.0,1997-12-19,1998-01-16,1997-12-23,America,4.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10868.0,2.0,1998-02-04,1998-03-04,1998-02-23,America,19.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10913.0,1.0,1998-02-26,1998-03-26,1998-03-04,America,6.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10914.0,1.0,1998-02-27,1998-03-27,1998-03-02,America,3.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,10961.0,1.0,1998-03-19,1998-04-16,1998-03-30,America,11.0,False
-QUEEN,Queen Cozinha,Sao Paulo,Brazil,11068.0,2.0,1998-05-04,1998-06-01,,America,,True
-QUICK,QUICK-Stop,Cunewalde,Germany,10273.0,3.0,1996-08-05,1996-09-02,1996-08-12,Europe,7.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10285.0,2.0,1996-08-20,1996-09-17,1996-08-26,Europe,6.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10286.0,3.0,1996-08-21,1996-09-18,1996-08-30,Europe,9.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10313.0,2.0,1996-09-24,1996-10-22,1996-10-04,Europe,10.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10345.0,2.0,1996-11-04,1996-12-02,1996-11-11,Europe,7.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10361.0,2.0,1996-11-22,1996-12-20,1996-12-03,Europe,11.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10418.0,1.0,1997-01-17,1997-02-14,1997-01-24,Europe,7.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10451.0,3.0,1997-02-19,1997-03-05,1997-03-12,Europe,21.0,True
-QUICK,QUICK-Stop,Cunewalde,Germany,10515.0,1.0,1997-04-23,1997-05-07,1997-05-23,Europe,30.0,True
-QUICK,QUICK-Stop,Cunewalde,Germany,10527.0,1.0,1997-05-05,1997-06-02,1997-05-07,Europe,2.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10540.0,3.0,1997-05-19,1997-06-16,1997-06-13,Europe,25.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10549.0,1.0,1997-05-27,1997-06-10,1997-05-30,Europe,3.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10588.0,3.0,1997-07-03,1997-07-31,1997-07-10,Europe,7.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10658.0,1.0,1997-09-05,1997-10-03,1997-09-08,Europe,3.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10691.0,2.0,1997-10-03,1997-11-14,1997-10-22,Europe,19.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10694.0,3.0,1997-10-06,1997-11-03,1997-10-09,Europe,3.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10721.0,3.0,1997-10-29,1997-11-26,1997-10-31,Europe,2.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10745.0,1.0,1997-11-18,1997-12-16,1997-11-27,Europe,9.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10765.0,3.0,1997-12-04,1998-01-01,1997-12-09,Europe,5.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10788.0,2.0,1997-12-22,1998-01-19,1998-01-19,Europe,28.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10845.0,1.0,1998-01-21,1998-02-04,1998-01-30,Europe,9.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10865.0,1.0,1998-02-02,1998-02-16,1998-02-12,Europe,10.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10878.0,1.0,1998-02-10,1998-03-10,1998-02-12,Europe,2.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10938.0,2.0,1998-03-10,1998-04-07,1998-03-16,Europe,6.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10962.0,2.0,1998-03-19,1998-04-16,1998-03-23,Europe,4.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10991.0,1.0,1998-04-01,1998-04-29,1998-04-07,Europe,6.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,10996.0,2.0,1998-04-02,1998-04-30,1998-04-10,Europe,8.0,False
-QUICK,QUICK-Stop,Cunewalde,Germany,11021.0,1.0,1998-04-14,1998-05-12,1998-04-21,Europe,7.0,False
-RANCH,Rancho grande,Buenos Aires,Argentina,10448.0,2.0,1997-02-17,1997-03-17,1997-02-24,America,7.0,False
-RANCH,Rancho grande,Buenos Aires,Argentina,10716.0,2.0,1997-10-24,1997-11-21,1997-10-27,America,3.0,False
-RANCH,Rancho grande,Buenos Aires,Argentina,10828.0,1.0,1998-01-13,1998-01-27,1998-02-04,America,22.0,True
-RANCH,Rancho grande,Buenos Aires,Argentina,10916.0,2.0,1998-02-27,1998-03-27,1998-03-09,America,10.0,False
-RANCH,Rancho grande,Buenos Aires,Argentina,11019.0,3.0,1998-04-13,1998-05-11,,America,,True
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10262.0,3.0,1996-07-22,1996-08-19,1996-07-25,America,3.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10272.0,2.0,1996-08-02,1996-08-30,1996-08-06,America,4.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10294.0,2.0,1996-08-30,1996-09-27,1996-09-05,America,6.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10314.0,2.0,1996-09-25,1996-10-23,1996-10-04,America,9.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10316.0,3.0,1996-09-27,1996-10-25,1996-10-08,America,11.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10346.0,3.0,1996-11-05,1996-12-17,1996-11-08,America,3.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10401.0,1.0,1997-01-01,1997-01-29,1997-01-10,America,9.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10479.0,3.0,1997-03-19,1997-04-16,1997-03-21,America,2.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10564.0,3.0,1997-06-10,1997-07-08,1997-06-16,America,6.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10569.0,1.0,1997-06-16,1997-07-14,1997-07-11,America,25.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10598.0,3.0,1997-07-14,1997-08-11,1997-07-18,America,4.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10761.0,2.0,1997-12-02,1997-12-30,1997-12-08,America,6.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10820.0,2.0,1998-01-07,1998-02-04,1998-01-13,America,6.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10852.0,1.0,1998-01-26,1998-02-09,1998-01-30,America,4.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10889.0,3.0,1998-02-16,1998-03-16,1998-02-23,America,7.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10988.0,2.0,1998-03-31,1998-04-28,1998-04-10,America,10.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,11000.0,3.0,1998-04-06,1998-05-04,1998-04-14,America,8.0,False
-RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,11077.0,2.0,1998-05-06,1998-06-03,,America,,True
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10288.0,1.0,1996-08-23,1996-09-20,1996-09-03,Europe,11.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10428.0,1.0,1997-01-28,1997-02-25,1997-02-04,Europe,7.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10443.0,1.0,1997-02-12,1997-03-12,1997-02-14,Europe,2.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10562.0,1.0,1997-06-09,1997-07-07,1997-06-12,Europe,3.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10586.0,1.0,1997-07-02,1997-07-30,1997-07-09,Europe,7.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10655.0,2.0,1997-09-03,1997-10-01,1997-09-11,Europe,8.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10727.0,1.0,1997-11-03,1997-12-01,1997-12-05,Europe,32.0,True
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10812.0,1.0,1998-01-02,1998-01-30,1998-01-12,Europe,10.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10908.0,2.0,1998-02-26,1998-03-26,1998-03-06,Europe,8.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10942.0,3.0,1998-03-11,1998-04-08,1998-03-18,Europe,7.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,11010.0,2.0,1998-04-09,1998-05-07,1998-04-21,Europe,12.0,False
-REGGC,Reggiani Caseifici,Reggio Emilia,Italy,11062.0,2.0,1998-04-30,1998-05-28,,Europe,,True
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10287.0,3.0,1996-08-22,1996-09-19,1996-08-28,America,6.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10299.0,2.0,1996-09-06,1996-10-04,1996-09-13,America,7.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10447.0,2.0,1997-02-14,1997-03-14,1997-03-07,America,21.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10481.0,2.0,1997-03-20,1997-04-17,1997-03-25,America,5.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10563.0,2.0,1997-06-10,1997-07-22,1997-06-24,America,14.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10622.0,3.0,1997-08-06,1997-09-03,1997-08-11,America,5.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10648.0,2.0,1997-08-28,1997-10-09,1997-09-09,America,12.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10813.0,1.0,1998-01-05,1998-02-02,1998-01-09,America,4.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10851.0,1.0,1998-01-26,1998-02-23,1998-02-02,America,7.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10877.0,1.0,1998-02-09,1998-03-09,1998-02-19,America,10.0,False
-RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,11059.0,2.0,1998-04-29,1998-06-10,,America,,True
-RICSU,Richter Supermarkt,Genève,Switzerland,10255.0,3.0,1996-07-12,1996-08-09,1996-07-15,Europe,3.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10419.0,2.0,1997-01-20,1997-02-17,1997-01-30,Europe,10.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10537.0,1.0,1997-05-14,1997-05-28,1997-05-19,Europe,5.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10666.0,2.0,1997-09-12,1997-10-10,1997-09-22,Europe,10.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10751.0,3.0,1997-11-24,1997-12-22,1997-12-03,Europe,9.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10758.0,3.0,1997-11-28,1997-12-26,1997-12-04,Europe,6.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10931.0,2.0,1998-03-06,1998-03-20,1998-03-19,Europe,13.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,10951.0,2.0,1998-03-16,1998-04-27,1998-04-07,Europe,22.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,11033.0,3.0,1998-04-17,1998-05-15,1998-04-23,Europe,6.0,False
-RICSU,Richter Supermarkt,Genève,Switzerland,11075.0,2.0,1998-05-06,1998-06-03,,Europe,,True
-ROMEY,Romero y tomillo,Madrid,Spain,10281.0,1.0,1996-08-14,1996-08-28,1996-08-21,Europe,7.0,False
-ROMEY,Romero y tomillo,Madrid,Spain,10282.0,1.0,1996-08-15,1996-09-12,1996-08-21,Europe,6.0,False
-ROMEY,Romero y tomillo,Madrid,Spain,10306.0,3.0,1996-09-16,1996-10-14,1996-09-23,Europe,7.0,False
-ROMEY,Romero y tomillo,Madrid,Spain,10917.0,2.0,1998-03-02,1998-03-30,1998-03-11,Europe,9.0,False
-ROMEY,Romero y tomillo,Madrid,Spain,11013.0,1.0,1998-04-09,1998-05-07,1998-04-10,Europe,1.0,False
-SANTG,Santé Gourmet,Stavern,Norway,10387.0,2.0,1996-12-18,1997-01-15,1996-12-20,Europe,2.0,False
-SANTG,Santé Gourmet,Stavern,Norway,10520.0,1.0,1997-04-29,1997-05-27,1997-05-01,Europe,2.0,False
-SANTG,Santé Gourmet,Stavern,Norway,10639.0,3.0,1997-08-20,1997-09-17,1997-08-27,Europe,7.0,False
-SANTG,Santé Gourmet,Stavern,Norway,10831.0,2.0,1998-01-14,1998-02-11,1998-01-23,Europe,9.0,False
-SANTG,Santé Gourmet,Stavern,Norway,10909.0,2.0,1998-02-26,1998-03-26,1998-03-10,Europe,12.0,False
-SANTG,Santé Gourmet,Stavern,Norway,11015.0,2.0,1998-04-10,1998-04-24,1998-04-20,Europe,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10324.0,1.0,1996-10-08,1996-11-05,1996-10-10,America,2.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10393.0,3.0,1996-12-25,1997-01-22,1997-01-03,America,9.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10398.0,3.0,1996-12-30,1997-01-27,1997-01-09,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10440.0,2.0,1997-02-10,1997-03-10,1997-02-28,America,18.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10452.0,1.0,1997-02-20,1997-03-20,1997-02-26,America,6.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10510.0,3.0,1997-04-18,1997-05-16,1997-04-28,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10555.0,3.0,1997-06-02,1997-06-30,1997-06-04,America,2.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10603.0,2.0,1997-07-18,1997-08-15,1997-08-08,America,21.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10607.0,1.0,1997-07-22,1997-08-19,1997-07-25,America,3.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10612.0,2.0,1997-07-28,1997-08-25,1997-08-01,America,4.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10627.0,3.0,1997-08-11,1997-09-22,1997-08-21,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10657.0,2.0,1997-09-04,1997-10-02,1997-09-15,America,11.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10678.0,3.0,1997-09-23,1997-10-21,1997-10-16,America,23.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10700.0,1.0,1997-10-10,1997-11-07,1997-10-16,America,6.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10711.0,2.0,1997-10-21,1997-12-02,1997-10-29,America,8.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10713.0,1.0,1997-10-22,1997-11-19,1997-10-24,America,2.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10714.0,3.0,1997-10-22,1997-11-19,1997-10-27,America,5.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10722.0,1.0,1997-10-29,1997-12-10,1997-11-04,America,6.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10748.0,1.0,1997-11-20,1997-12-18,1997-11-28,America,8.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10757.0,1.0,1997-11-27,1997-12-25,1997-12-15,America,18.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10815.0,3.0,1998-01-05,1998-02-02,1998-01-14,America,9.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10847.0,3.0,1998-01-22,1998-02-05,1998-02-10,America,19.0,True
-SAVEA,Save-a-lot Markets,Boise,USA,10882.0,3.0,1998-02-11,1998-03-11,1998-02-20,America,9.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10894.0,1.0,1998-02-18,1998-03-18,1998-02-20,America,2.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10941.0,2.0,1998-03-11,1998-04-08,1998-03-20,America,9.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10983.0,2.0,1998-03-27,1998-04-24,1998-04-06,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,10984.0,3.0,1998-03-30,1998-04-27,1998-04-03,America,4.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,11002.0,1.0,1998-04-06,1998-05-04,1998-04-16,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,11030.0,2.0,1998-04-17,1998-05-15,1998-04-27,America,10.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,11031.0,2.0,1998-04-17,1998-05-15,1998-04-24,America,7.0,False
-SAVEA,Save-a-lot Markets,Boise,USA,11064.0,1.0,1998-05-01,1998-05-29,1998-05-04,America,3.0,False
-SEVES,Seven Seas Imports,London,UK,10359.0,3.0,1996-11-21,1996-12-19,1996-11-26,Europe,5.0,False
-SEVES,Seven Seas Imports,London,UK,10377.0,3.0,1996-12-09,1997-01-06,1996-12-13,Europe,4.0,False
-SEVES,Seven Seas Imports,London,UK,10388.0,1.0,1996-12-19,1997-01-16,1996-12-20,Europe,1.0,False
-SEVES,Seven Seas Imports,London,UK,10472.0,1.0,1997-03-12,1997-04-09,1997-03-19,Europe,7.0,False
-SEVES,Seven Seas Imports,London,UK,10523.0,2.0,1997-05-01,1997-05-29,1997-05-30,Europe,29.0,True
-SEVES,Seven Seas Imports,London,UK,10547.0,2.0,1997-05-23,1997-06-20,1997-06-02,Europe,10.0,False
-SEVES,Seven Seas Imports,London,UK,10800.0,3.0,1997-12-26,1998-01-23,1998-01-05,Europe,10.0,False
-SEVES,Seven Seas Imports,London,UK,10804.0,2.0,1997-12-30,1998-01-27,1998-01-07,Europe,8.0,False
-SEVES,Seven Seas Imports,London,UK,10869.0,1.0,1998-02-04,1998-03-04,1998-02-09,Europe,5.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10341.0,3.0,1996-10-29,1996-11-26,1996-11-05,Europe,7.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10417.0,3.0,1997-01-16,1997-02-13,1997-01-28,Europe,12.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10556.0,1.0,1997-06-03,1997-07-15,1997-06-13,Europe,10.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10642.0,3.0,1997-08-22,1997-09-19,1997-09-05,Europe,14.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10669.0,1.0,1997-09-15,1997-10-13,1997-09-22,Europe,7.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,10802.0,2.0,1997-12-29,1998-01-26,1998-01-02,Europe,4.0,False
-SIMOB,Simons bistro,Kobenhavn,Denmark,11074.0,2.0,1998-05-06,1998-06-03,,Europe,,True
-SPECD,Spécialités du monde,Paris,France,10738.0,1.0,1997-11-12,1997-12-10,1997-11-18,Europe,6.0,False
-SPECD,Spécialités du monde,Paris,France,10907.0,3.0,1998-02-25,1998-03-25,1998-02-27,Europe,2.0,False
-SPECD,Spécialités du monde,Paris,France,10964.0,2.0,1998-03-20,1998-04-17,1998-03-24,Europe,4.0,False
-SPECD,Spécialités du monde,Paris,France,11043.0,2.0,1998-04-22,1998-05-20,1998-04-29,Europe,7.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10271.0,2.0,1996-08-01,1996-08-29,1996-08-30,America,29.0,True
-SPLIR,Split Rail Beer & Ale,Lander,USA,10329.0,2.0,1996-10-15,1996-11-26,1996-10-23,America,8.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10349.0,1.0,1996-11-08,1996-12-06,1996-11-15,America,7.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10369.0,2.0,1996-12-02,1996-12-30,1996-12-09,America,7.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10385.0,2.0,1996-12-17,1997-01-14,1996-12-23,America,6.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10432.0,2.0,1997-01-31,1997-02-14,1997-02-07,America,7.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10756.0,2.0,1997-11-27,1997-12-25,1997-12-02,America,5.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10821.0,1.0,1998-01-08,1998-02-05,1998-01-15,America,7.0,False
-SPLIR,Split Rail Beer & Ale,Lander,USA,10974.0,3.0,1998-03-25,1998-04-08,1998-04-03,America,9.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10252.0,2.0,1996-07-09,1996-08-06,1996-07-11,Europe,2.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10302.0,2.0,1996-09-10,1996-10-08,1996-10-09,Europe,29.0,True
-SUPRD,Suprêmes délices,Charleroi,Belgium,10458.0,3.0,1997-02-26,1997-03-26,1997-03-04,Europe,6.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10463.0,3.0,1997-03-04,1997-04-01,1997-03-06,Europe,2.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10475.0,1.0,1997-03-14,1997-04-11,1997-04-04,Europe,21.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10767.0,3.0,1997-12-05,1998-01-02,1997-12-15,Europe,10.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10841.0,2.0,1998-01-20,1998-02-17,1998-01-29,Europe,9.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10846.0,3.0,1998-01-22,1998-03-05,1998-01-23,Europe,1.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10885.0,3.0,1998-02-12,1998-03-12,1998-02-18,Europe,6.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,10930.0,3.0,1998-03-06,1998-04-17,1998-03-18,Europe,12.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,11035.0,2.0,1998-04-20,1998-05-18,1998-04-24,Europe,4.0,False
-SUPRD,Suprêmes délices,Charleroi,Belgium,11038.0,2.0,1998-04-21,1998-05-19,1998-04-30,Europe,9.0,False
-THEBI,The Big Cheese,Portland,USA,10310.0,2.0,1996-09-20,1996-10-18,1996-09-27,America,7.0,False
-THEBI,The Big Cheese,Portland,USA,10708.0,2.0,1997-10-17,1997-11-28,1997-11-05,America,19.0,False
-THEBI,The Big Cheese,Portland,USA,10805.0,3.0,1997-12-30,1998-01-27,1998-01-09,America,10.0,False
-THEBI,The Big Cheese,Portland,USA,10992.0,3.0,1998-04-01,1998-04-29,1998-04-03,America,2.0,False
-THECR,The Cracker Box,Butte,USA,10624.0,2.0,1997-08-07,1997-09-04,1997-08-19,America,12.0,False
-THECR,The Cracker Box,Butte,USA,10775.0,1.0,1997-12-12,1998-01-09,1997-12-26,America,14.0,False
-THECR,The Cracker Box,Butte,USA,11003.0,3.0,1998-04-06,1998-05-04,1998-04-08,America,2.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10249.0,1.0,1996-07-05,1996-08-16,1996-07-10,Europe,5.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10438.0,2.0,1997-02-06,1997-03-06,1997-02-14,Europe,8.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10446.0,1.0,1997-02-14,1997-03-14,1997-02-19,Europe,5.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10548.0,2.0,1997-05-26,1997-06-23,1997-06-02,Europe,7.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10608.0,2.0,1997-07-23,1997-08-20,1997-08-01,Europe,9.0,False
-TOMSP,Toms Spezialitäten,Münster,Germany,10967.0,2.0,1998-03-23,1998-04-20,1998-04-02,Europe,10.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10276.0,3.0,1996-08-08,1996-08-22,1996-08-14,America,6.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10293.0,3.0,1996-08-29,1996-09-26,1996-09-11,America,13.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10304.0,2.0,1996-09-12,1996-10-10,1996-09-17,America,5.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10319.0,3.0,1996-10-02,1996-10-30,1996-10-11,America,9.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10518.0,2.0,1997-04-25,1997-05-09,1997-05-05,America,10.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10576.0,3.0,1997-06-23,1997-07-07,1997-06-30,America,7.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10676.0,2.0,1997-09-22,1997-10-20,1997-09-29,America,7.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10842.0,3.0,1998-01-20,1998-02-17,1998-01-29,America,9.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,10915.0,2.0,1998-02-27,1998-03-27,1998-03-02,America,3.0,False
-TORTU,Tortuga Restaurante,México D.F.,Mexico,11069.0,2.0,1998-05-04,1998-06-01,1998-05-06,America,2.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10292.0,2.0,1996-08-28,1996-09-25,1996-09-02,America,5.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10496.0,2.0,1997-04-04,1997-05-02,1997-04-07,America,3.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10606.0,3.0,1997-07-22,1997-08-19,1997-07-31,America,9.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10830.0,2.0,1998-01-13,1998-02-24,1998-01-21,America,8.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10834.0,3.0,1998-01-15,1998-02-12,1998-01-19,America,4.0,False
-TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10839.0,3.0,1998-01-19,1998-02-16,1998-01-22,America,3.0,False
-TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10574.0,2.0,1997-06-19,1997-07-17,1997-06-30,America,11.0,False
-TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10577.0,2.0,1997-06-23,1997-08-04,1997-06-30,America,7.0,False
-TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10822.0,3.0,1998-01-08,1998-02-05,1998-01-16,America,8.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10367.0,3.0,1996-11-28,1996-12-26,1996-12-02,Europe,4.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10399.0,3.0,1996-12-31,1997-01-14,1997-01-08,Europe,8.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10465.0,3.0,1997-03-05,1997-04-02,1997-03-14,Europe,9.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10591.0,1.0,1997-07-07,1997-07-21,1997-07-16,Europe,9.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10602.0,2.0,1997-07-17,1997-08-14,1997-07-22,Europe,5.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10688.0,2.0,1997-10-01,1997-10-15,1997-10-07,Europe,6.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10744.0,1.0,1997-11-17,1997-12-15,1997-11-24,Europe,7.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10769.0,1.0,1997-12-08,1998-01-05,1997-12-12,Europe,4.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10921.0,1.0,1998-03-03,1998-04-14,1998-03-09,Europe,6.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10946.0,2.0,1998-03-12,1998-04-09,1998-03-19,Europe,7.0,False
-VAFFE,Vaffeljernet,Århus,Denmark,10994.0,3.0,1998-04-02,1998-04-16,1998-04-09,Europe,7.0,False
-VICTE,Victuailles en stock,Lyon,France,10251.0,1.0,1996-07-08,1996-08-05,1996-07-15,Europe,7.0,False
-VICTE,Victuailles en stock,Lyon,France,10334.0,2.0,1996-10-21,1996-11-18,1996-10-28,Europe,7.0,False
-VICTE,Victuailles en stock,Lyon,France,10450.0,2.0,1997-02-19,1997-03-19,1997-03-11,Europe,20.0,False
-VICTE,Victuailles en stock,Lyon,France,10459.0,2.0,1997-02-27,1997-03-27,1997-02-28,Europe,1.0,False
-VICTE,Victuailles en stock,Lyon,France,10478.0,3.0,1997-03-18,1997-04-01,1997-03-26,Europe,8.0,False
-VICTE,Victuailles en stock,Lyon,France,10546.0,3.0,1997-05-23,1997-06-20,1997-05-27,Europe,4.0,False
-VICTE,Victuailles en stock,Lyon,France,10806.0,2.0,1997-12-31,1998-01-28,1998-01-05,Europe,5.0,False
-VICTE,Victuailles en stock,Lyon,France,10814.0,3.0,1998-01-05,1998-02-02,1998-01-14,Europe,9.0,False
-VICTE,Victuailles en stock,Lyon,France,10843.0,2.0,1998-01-21,1998-02-18,1998-01-26,Europe,5.0,False
-VICTE,Victuailles en stock,Lyon,France,10850.0,1.0,1998-01-23,1998-03-06,1998-01-30,Europe,7.0,False
-VINET,Vins et alcools Chevalier,Reims,France,10248.0,3.0,1996-07-04,1996-08-01,1996-07-16,Europe,12.0,False
-VINET,Vins et alcools Chevalier,Reims,France,10274.0,1.0,1996-08-06,1996-09-03,1996-08-16,Europe,10.0,False
-VINET,Vins et alcools Chevalier,Reims,France,10295.0,2.0,1996-09-02,1996-09-30,1996-09-10,Europe,8.0,False
-VINET,Vins et alcools Chevalier,Reims,France,10737.0,2.0,1997-11-11,1997-12-09,1997-11-18,Europe,7.0,False
-VINET,Vins et alcools Chevalier,Reims,France,10739.0,3.0,1997-11-12,1997-12-10,1997-11-17,Europe,5.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10301.0,2.0,1996-09-09,1996-10-07,1996-09-17,Europe,8.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10312.0,2.0,1996-09-23,1996-10-21,1996-10-03,Europe,10.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10348.0,2.0,1996-11-07,1996-12-05,1996-11-15,Europe,8.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10356.0,2.0,1996-11-18,1996-12-16,1996-11-27,Europe,9.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10513.0,1.0,1997-04-22,1997-06-03,1997-04-28,Europe,6.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10632.0,1.0,1997-08-14,1997-09-11,1997-08-19,Europe,5.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10640.0,1.0,1997-08-21,1997-09-18,1997-08-28,Europe,7.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10651.0,2.0,1997-09-01,1997-09-29,1997-09-11,Europe,10.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,10668.0,2.0,1997-09-15,1997-10-13,1997-09-23,Europe,8.0,False
-WANDK,Die Wandernde Kuh,Stuttgart,Germany,11046.0,2.0,1998-04-23,1998-05-21,1998-04-24,Europe,1.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10266.0,3.0,1996-07-26,1996-09-06,1996-07-31,Europe,5.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10270.0,1.0,1996-08-01,1996-08-29,1996-08-02,Europe,1.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10320.0,3.0,1996-10-03,1996-10-17,1996-10-18,Europe,15.0,True
-WARTH,Wartian Herkku,Oulu,Finland,10333.0,3.0,1996-10-18,1996-11-15,1996-10-25,Europe,7.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10412.0,2.0,1997-01-13,1997-02-10,1997-01-15,Europe,2.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10416.0,3.0,1997-01-16,1997-02-13,1997-01-27,Europe,11.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10437.0,1.0,1997-02-05,1997-03-05,1997-02-12,Europe,7.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10455.0,2.0,1997-02-24,1997-04-07,1997-03-03,Europe,7.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10526.0,2.0,1997-05-05,1997-06-02,1997-05-15,Europe,10.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10553.0,2.0,1997-05-30,1997-06-27,1997-06-03,Europe,4.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10583.0,2.0,1997-06-30,1997-07-28,1997-07-04,Europe,4.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10636.0,1.0,1997-08-19,1997-09-16,1997-08-26,Europe,7.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10750.0,1.0,1997-11-21,1997-12-19,1997-11-24,Europe,3.0,False
-WARTH,Wartian Herkku,Oulu,Finland,10781.0,3.0,1997-12-17,1998-01-14,1997-12-19,Europe,2.0,False
-WARTH,Wartian Herkku,Oulu,Finland,11025.0,3.0,1998-04-15,1998-05-13,1998-04-24,Europe,9.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10256.0,2.0,1996-07-15,1996-08-12,1996-07-17,America,2.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10420.0,1.0,1997-01-21,1997-02-18,1997-01-27,America,6.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10585.0,1.0,1997-07-01,1997-07-29,1997-07-10,America,9.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10644.0,2.0,1997-08-25,1997-09-22,1997-09-01,America,7.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10803.0,1.0,1997-12-30,1998-01-27,1998-01-06,America,7.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10809.0,1.0,1998-01-01,1998-01-29,1998-01-07,America,6.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10900.0,2.0,1998-02-20,1998-03-20,1998-03-04,America,12.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10905.0,2.0,1998-02-24,1998-03-24,1998-03-06,America,10.0,False
-WELLI,Wellington Importadora,Resende,Brazil,10935.0,3.0,1998-03-09,1998-04-06,1998-03-18,America,9.0,False
-WHITC,White Clover Markets,Seattle,USA,10269.0,1.0,1996-07-31,1996-08-14,1996-08-09,America,9.0,False
-WHITC,White Clover Markets,Seattle,USA,10344.0,2.0,1996-11-01,1996-11-29,1996-11-05,America,4.0,False
-WHITC,White Clover Markets,Seattle,USA,10469.0,1.0,1997-03-10,1997-04-07,1997-03-14,America,4.0,False
-WHITC,White Clover Markets,Seattle,USA,10483.0,2.0,1997-03-24,1997-04-21,1997-04-25,America,32.0,True
-WHITC,White Clover Markets,Seattle,USA,10504.0,3.0,1997-04-11,1997-05-09,1997-04-18,America,7.0,False
-WHITC,White Clover Markets,Seattle,USA,10596.0,1.0,1997-07-11,1997-08-08,1997-08-12,America,32.0,True
-WHITC,White Clover Markets,Seattle,USA,10693.0,3.0,1997-10-06,1997-10-20,1997-10-10,America,4.0,False
-WHITC,White Clover Markets,Seattle,USA,10696.0,3.0,1997-10-08,1997-11-19,1997-10-14,America,6.0,False
-WHITC,White Clover Markets,Seattle,USA,10723.0,1.0,1997-10-30,1997-11-27,1997-11-25,America,26.0,False
-WHITC,White Clover Markets,Seattle,USA,10740.0,2.0,1997-11-13,1997-12-11,1997-11-25,America,12.0,False
-WHITC,White Clover Markets,Seattle,USA,10861.0,2.0,1998-01-30,1998-02-27,1998-02-17,America,18.0,False
-WHITC,White Clover Markets,Seattle,USA,10904.0,3.0,1998-02-24,1998-03-24,1998-02-27,America,3.0,False
-WHITC,White Clover Markets,Seattle,USA,11032.0,3.0,1998-04-17,1998-05-15,1998-04-23,America,6.0,False
-WHITC,White Clover Markets,Seattle,USA,11066.0,2.0,1998-05-01,1998-05-29,1998-05-04,America,3.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10615.0,3.0,1997-07-30,1997-08-27,1997-08-06,Europe,7.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10673.0,1.0,1997-09-18,1997-10-16,1997-09-19,Europe,1.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10695.0,1.0,1997-10-07,1997-11-18,1997-10-14,Europe,7.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10873.0,1.0,1998-02-06,1998-03-06,1998-02-09,Europe,3.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10879.0,3.0,1998-02-10,1998-03-10,1998-02-12,Europe,2.0,False
-WILMK,Wilman Kala,Helsinki,Finland,10910.0,3.0,1998-02-26,1998-03-26,1998-03-04,Europe,6.0,False
-WILMK,Wilman Kala,Helsinki,Finland,11005.0,1.0,1998-04-07,1998-05-05,1998-04-10,Europe,3.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10374.0,3.0,1996-12-05,1997-01-02,1996-12-09,Europe,4.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10611.0,2.0,1997-07-25,1997-08-22,1997-08-01,Europe,7.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10792.0,3.0,1997-12-23,1998-01-20,1997-12-31,Europe,8.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10870.0,3.0,1998-02-04,1998-03-04,1998-02-13,Europe,9.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10906.0,3.0,1998-02-25,1998-03-11,1998-03-03,Europe,6.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,10998.0,2.0,1998-04-03,1998-04-17,1998-04-17,Europe,14.0,False
-WOLZA,Wolski  Zajazd,Warszawa,Poland,11044.0,1.0,1998-04-23,1998-05-21,1998-05-01,Europe,8.0,False
+ALFKI,Alfreds Futterkiste,Berlin,Germany,10643.0,1.0,1997-08-25,1997-09-22,1997-09-02,Europe,8.0,-20.0
+ALFKI,Alfreds Futterkiste,Berlin,Germany,10692.0,2.0,1997-10-03,1997-10-31,1997-10-13,Europe,10.0,-18.0
+ALFKI,Alfreds Futterkiste,Berlin,Germany,10702.0,1.0,1997-10-13,1997-11-24,1997-10-21,Europe,8.0,-34.0
+ALFKI,Alfreds Futterkiste,Berlin,Germany,10835.0,3.0,1998-01-15,1998-02-12,1998-01-21,Europe,6.0,-22.0
+ALFKI,Alfreds Futterkiste,Berlin,Germany,10952.0,1.0,1998-03-16,1998-04-27,1998-03-24,Europe,8.0,-34.0
+ALFKI,Alfreds Futterkiste,Berlin,Germany,11011.0,1.0,1998-04-09,1998-05-07,1998-04-13,Europe,4.0,-24.0
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10308.0,3.0,1996-09-18,1996-10-16,1996-09-24,America,6.0,-22.0
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10625.0,1.0,1997-08-08,1997-09-05,1997-08-14,America,6.0,-22.0
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10759.0,3.0,1997-11-28,1997-12-26,1997-12-12,America,14.0,-14.0
+ANATR,Ana Trujillo Emparedados y helados,México D.F.,Mexico,10926.0,3.0,1998-03-04,1998-04-01,1998-03-11,America,7.0,-21.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10365.0,2.0,1996-11-27,1996-12-25,1996-12-02,America,5.0,-23.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10507.0,1.0,1997-04-15,1997-05-13,1997-04-22,America,7.0,-21.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10535.0,1.0,1997-05-13,1997-06-10,1997-05-21,America,8.0,-20.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10573.0,3.0,1997-06-19,1997-07-17,1997-06-20,America,1.0,-27.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10677.0,3.0,1997-09-22,1997-10-20,1997-09-26,America,4.0,-24.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10682.0,2.0,1997-09-25,1997-10-23,1997-10-01,America,6.0,-22.0
+ANTON,Antonio Moreno Taquería,México D.F.,Mexico,10856.0,2.0,1998-01-28,1998-02-25,1998-02-10,America,13.0,-15.0
+AROUT,Around the Horn,London,UK,10355.0,1.0,1996-11-15,1996-12-13,1996-11-20,Europe,5.0,-23.0
+AROUT,Around the Horn,London,UK,10383.0,3.0,1996-12-16,1997-01-13,1996-12-18,Europe,2.0,-26.0
+AROUT,Around the Horn,London,UK,10453.0,2.0,1997-02-21,1997-03-21,1997-02-26,Europe,5.0,-23.0
+AROUT,Around the Horn,London,UK,10558.0,2.0,1997-06-04,1997-07-02,1997-06-10,Europe,6.0,-22.0
+AROUT,Around the Horn,London,UK,10707.0,3.0,1997-10-16,1997-10-30,1997-10-23,Europe,7.0,-7.0
+AROUT,Around the Horn,London,UK,10741.0,3.0,1997-11-14,1997-11-28,1997-11-18,Europe,4.0,-10.0
+AROUT,Around the Horn,London,UK,10743.0,2.0,1997-11-17,1997-12-15,1997-11-21,Europe,4.0,-24.0
+AROUT,Around the Horn,London,UK,10768.0,2.0,1997-12-08,1998-01-05,1997-12-15,Europe,7.0,-21.0
+AROUT,Around the Horn,London,UK,10793.0,3.0,1997-12-24,1998-01-21,1998-01-08,Europe,15.0,-13.0
+AROUT,Around the Horn,London,UK,10864.0,2.0,1998-02-02,1998-03-02,1998-02-09,Europe,7.0,-21.0
+AROUT,Around the Horn,London,UK,10920.0,2.0,1998-03-03,1998-03-31,1998-03-09,Europe,6.0,-22.0
+AROUT,Around the Horn,London,UK,10953.0,2.0,1998-03-16,1998-03-30,1998-03-25,Europe,9.0,-5.0
+AROUT,Around the Horn,London,UK,11016.0,2.0,1998-04-10,1998-05-08,1998-04-13,Europe,3.0,-25.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10278.0,2.0,1996-08-12,1996-09-09,1996-08-16,Europe,4.0,-24.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10280.0,1.0,1996-08-14,1996-09-11,1996-09-12,Europe,29.0,1.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10384.0,3.0,1996-12-16,1997-01-13,1996-12-20,Europe,4.0,-24.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10444.0,3.0,1997-02-12,1997-03-12,1997-02-21,Europe,9.0,-19.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10445.0,1.0,1997-02-13,1997-03-13,1997-02-20,Europe,7.0,-21.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10524.0,2.0,1997-05-01,1997-05-29,1997-05-07,Europe,6.0,-22.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10572.0,2.0,1997-06-18,1997-07-16,1997-06-25,Europe,7.0,-21.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10626.0,2.0,1997-08-11,1997-09-08,1997-08-20,Europe,9.0,-19.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10654.0,1.0,1997-09-02,1997-09-30,1997-09-11,Europe,9.0,-19.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10672.0,2.0,1997-09-17,1997-10-01,1997-09-26,Europe,9.0,-5.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10689.0,2.0,1997-10-01,1997-10-29,1997-10-07,Europe,6.0,-22.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10733.0,3.0,1997-11-07,1997-12-05,1997-11-10,Europe,3.0,-25.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10778.0,1.0,1997-12-16,1998-01-13,1997-12-24,Europe,8.0,-20.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10837.0,3.0,1998-01-16,1998-02-13,1998-01-23,Europe,7.0,-21.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10857.0,2.0,1998-01-28,1998-02-25,1998-02-06,Europe,9.0,-19.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10866.0,1.0,1998-02-03,1998-03-03,1998-02-12,Europe,9.0,-19.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10875.0,2.0,1998-02-06,1998-03-06,1998-03-03,Europe,25.0,-3.0
+BERGS,Berglunds snabbköp,Luleå,Sweden,10924.0,2.0,1998-03-04,1998-04-01,1998-04-08,Europe,35.0,7.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10501.0,3.0,1997-04-09,1997-05-07,1997-04-16,Europe,7.0,-21.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10509.0,1.0,1997-04-17,1997-05-15,1997-04-29,Europe,12.0,-16.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10582.0,2.0,1997-06-27,1997-07-25,1997-07-14,Europe,17.0,-11.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10614.0,3.0,1997-07-29,1997-08-26,1997-08-01,Europe,3.0,-25.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10853.0,2.0,1998-01-27,1998-02-24,1998-02-03,Europe,7.0,-21.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,10956.0,2.0,1998-03-17,1998-04-28,1998-03-20,Europe,3.0,-39.0
+BLAUS,Blauer See Delikatessen,Mannheim,Germany,11058.0,3.0,1998-04-29,1998-05-27,,Europe,,
+BLONP,Blondesddsl père et fils,Strasbourg,France,10265.0,1.0,1996-07-25,1996-08-22,1996-08-12,Europe,18.0,-10.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10297.0,2.0,1996-09-04,1996-10-16,1996-09-10,Europe,6.0,-36.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10360.0,3.0,1996-11-22,1996-12-20,1996-12-02,Europe,10.0,-18.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10436.0,2.0,1997-02-05,1997-03-05,1997-02-11,Europe,6.0,-22.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10449.0,2.0,1997-02-18,1997-03-18,1997-02-27,Europe,9.0,-19.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10559.0,1.0,1997-06-05,1997-07-03,1997-06-13,Europe,8.0,-20.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10566.0,1.0,1997-06-12,1997-07-10,1997-06-18,Europe,6.0,-22.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10584.0,1.0,1997-06-30,1997-07-28,1997-07-04,Europe,4.0,-24.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10628.0,3.0,1997-08-12,1997-09-09,1997-08-20,Europe,8.0,-20.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10679.0,3.0,1997-09-23,1997-10-21,1997-09-30,Europe,7.0,-21.0
+BLONP,Blondesddsl père et fils,Strasbourg,France,10826.0,1.0,1998-01-12,1998-02-09,1998-02-06,Europe,25.0,-3.0
+BOLID,Bólido Comidas preparadas,Madrid,Spain,10326.0,2.0,1996-10-10,1996-11-07,1996-10-14,Europe,4.0,-24.0
+BOLID,Bólido Comidas preparadas,Madrid,Spain,10801.0,2.0,1997-12-29,1998-01-26,1997-12-31,Europe,2.0,-26.0
+BOLID,Bólido Comidas preparadas,Madrid,Spain,10970.0,1.0,1998-03-24,1998-04-07,1998-04-24,Europe,31.0,17.0
+BONAP,Bon app',Marseille,France,10331.0,1.0,1996-10-16,1996-11-27,1996-10-21,Europe,5.0,-37.0
+BONAP,Bon app',Marseille,France,10340.0,3.0,1996-10-29,1996-11-26,1996-11-08,Europe,10.0,-18.0
+BONAP,Bon app',Marseille,France,10362.0,1.0,1996-11-25,1996-12-23,1996-11-28,Europe,3.0,-25.0
+BONAP,Bon app',Marseille,France,10470.0,2.0,1997-03-11,1997-04-08,1997-03-14,Europe,3.0,-25.0
+BONAP,Bon app',Marseille,France,10511.0,3.0,1997-04-18,1997-05-16,1997-04-21,Europe,3.0,-25.0
+BONAP,Bon app',Marseille,France,10525.0,2.0,1997-05-02,1997-05-30,1997-05-23,Europe,21.0,-7.0
+BONAP,Bon app',Marseille,France,10663.0,2.0,1997-09-10,1997-09-24,1997-10-03,Europe,23.0,9.0
+BONAP,Bon app',Marseille,France,10715.0,1.0,1997-10-23,1997-11-06,1997-10-29,Europe,6.0,-8.0
+BONAP,Bon app',Marseille,France,10730.0,1.0,1997-11-05,1997-12-03,1997-11-14,Europe,9.0,-19.0
+BONAP,Bon app',Marseille,France,10732.0,1.0,1997-11-06,1997-12-04,1997-11-07,Europe,1.0,-27.0
+BONAP,Bon app',Marseille,France,10755.0,2.0,1997-11-26,1997-12-24,1997-11-28,Europe,2.0,-26.0
+BONAP,Bon app',Marseille,France,10827.0,2.0,1998-01-12,1998-01-26,1998-02-06,Europe,25.0,11.0
+BONAP,Bon app',Marseille,France,10871.0,2.0,1998-02-05,1998-03-05,1998-02-10,Europe,5.0,-23.0
+BONAP,Bon app',Marseille,France,10876.0,3.0,1998-02-09,1998-03-09,1998-02-12,Europe,3.0,-25.0
+BONAP,Bon app',Marseille,France,10932.0,1.0,1998-03-06,1998-04-03,1998-03-24,Europe,18.0,-10.0
+BONAP,Bon app',Marseille,France,10940.0,3.0,1998-03-11,1998-04-08,1998-03-23,Europe,12.0,-16.0
+BONAP,Bon app',Marseille,France,11076.0,2.0,1998-05-06,1998-06-03,,Europe,,
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10389.0,2.0,1996-12-20,1997-01-17,1996-12-24,America,4.0,-24.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10410.0,3.0,1997-01-10,1997-02-07,1997-01-15,America,5.0,-23.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10411.0,3.0,1997-01-10,1997-02-07,1997-01-21,America,11.0,-17.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10431.0,2.0,1997-01-30,1997-02-13,1997-02-07,America,8.0,-6.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10492.0,1.0,1997-04-01,1997-04-29,1997-04-11,America,10.0,-18.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10742.0,3.0,1997-11-14,1997-12-12,1997-11-18,America,4.0,-24.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10918.0,3.0,1998-03-02,1998-03-30,1998-03-11,America,9.0,-19.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10944.0,3.0,1998-03-12,1998-03-26,1998-03-13,America,1.0,-13.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10949.0,3.0,1998-03-13,1998-04-10,1998-03-17,America,4.0,-24.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10975.0,3.0,1998-03-25,1998-04-22,1998-03-27,America,2.0,-26.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,10982.0,1.0,1998-03-27,1998-04-24,1998-04-08,America,12.0,-16.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11027.0,1.0,1998-04-16,1998-05-14,1998-04-20,America,4.0,-24.0
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11045.0,2.0,1998-04-23,1998-05-21,,America,,
+BOTTM,Bottom-Dollar Markets,Tsawassen,Canada,11048.0,3.0,1998-04-24,1998-05-22,1998-04-30,America,6.0,-22.0
+BSBEV,B's Beverages,London,UK,10289.0,3.0,1996-08-26,1996-09-23,1996-08-28,Europe,2.0,-26.0
+BSBEV,B's Beverages,London,UK,10471.0,3.0,1997-03-11,1997-04-08,1997-03-18,Europe,7.0,-21.0
+BSBEV,B's Beverages,London,UK,10484.0,3.0,1997-03-24,1997-04-21,1997-04-01,Europe,8.0,-20.0
+BSBEV,B's Beverages,London,UK,10538.0,3.0,1997-05-15,1997-06-12,1997-05-16,Europe,1.0,-27.0
+BSBEV,B's Beverages,London,UK,10539.0,3.0,1997-05-16,1997-06-13,1997-05-23,Europe,7.0,-21.0
+BSBEV,B's Beverages,London,UK,10578.0,3.0,1997-06-24,1997-07-22,1997-07-25,Europe,31.0,3.0
+BSBEV,B's Beverages,London,UK,10599.0,3.0,1997-07-15,1997-08-26,1997-07-21,Europe,6.0,-36.0
+BSBEV,B's Beverages,London,UK,10943.0,2.0,1998-03-11,1998-04-08,1998-03-19,Europe,8.0,-20.0
+BSBEV,B's Beverages,London,UK,10947.0,2.0,1998-03-13,1998-04-10,1998-03-16,Europe,3.0,-25.0
+BSBEV,B's Beverages,London,UK,11023.0,2.0,1998-04-14,1998-04-28,1998-04-24,Europe,10.0,-4.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10521.0,2.0,1997-04-29,1997-05-27,1997-05-02,America,3.0,-25.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10782.0,3.0,1997-12-17,1998-01-14,1997-12-22,America,5.0,-23.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10819.0,3.0,1998-01-07,1998-02-04,1998-01-16,America,9.0,-19.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10881.0,1.0,1998-02-11,1998-03-11,1998-02-18,America,7.0,-21.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,10937.0,3.0,1998-03-10,1998-03-24,1998-03-13,America,3.0,-11.0
+CACTU,Cactus Comidas para llevar,Buenos Aires,Argentina,11054.0,1.0,1998-04-28,1998-05-26,,America,,
+CENTC,Centro comercial Moctezuma,México D.F.,Mexico,10259.0,3.0,1996-07-18,1996-08-15,1996-07-25,America,7.0,-21.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10254.0,2.0,1996-07-11,1996-08-08,1996-07-23,Europe,12.0,-16.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10370.0,2.0,1996-12-03,1996-12-31,1996-12-27,Europe,24.0,-4.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10519.0,3.0,1997-04-28,1997-05-26,1997-05-01,Europe,3.0,-25.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10731.0,1.0,1997-11-06,1997-12-04,1997-11-14,Europe,8.0,-20.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10746.0,3.0,1997-11-19,1997-12-17,1997-11-21,Europe,2.0,-26.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,10966.0,1.0,1998-03-20,1998-04-17,1998-04-08,Europe,19.0,-9.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,11029.0,1.0,1998-04-16,1998-05-14,1998-04-27,Europe,11.0,-17.0
+CHOPS,Chop-suey Chinese,Bern,Switzerland,11041.0,2.0,1998-04-22,1998-05-20,1998-04-28,Europe,6.0,-22.0
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,10290.0,1.0,1996-08-27,1996-09-24,1996-09-03,America,7.0,-21.0
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,10466.0,1.0,1997-03-06,1997-04-03,1997-03-13,America,7.0,-21.0
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,10494.0,2.0,1997-04-02,1997-04-30,1997-04-09,America,7.0,-21.0
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,10969.0,2.0,1998-03-23,1998-04-20,1998-03-30,America,7.0,-21.0
+COMMI,Comércio Mineiro,Sao Paulo,Brazil,11042.0,1.0,1998-04-22,1998-05-06,1998-05-01,America,9.0,-5.0
+CONSH,Consolidated Holdings,London,UK,10435.0,2.0,1997-02-04,1997-03-18,1997-02-07,Europe,3.0,-39.0
+CONSH,Consolidated Holdings,London,UK,10462.0,1.0,1997-03-03,1997-03-31,1997-03-18,Europe,15.0,-13.0
+CONSH,Consolidated Holdings,London,UK,10848.0,2.0,1998-01-23,1998-02-20,1998-01-29,Europe,6.0,-22.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,10363.0,3.0,1996-11-26,1996-12-24,1996-12-04,Europe,8.0,-20.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,10391.0,3.0,1996-12-23,1997-01-20,1996-12-31,Europe,8.0,-20.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,10797.0,2.0,1997-12-25,1998-01-22,1998-01-05,Europe,11.0,-17.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,10825.0,1.0,1998-01-09,1998-02-06,1998-01-14,Europe,5.0,-23.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,11036.0,3.0,1998-04-20,1998-05-18,1998-04-22,Europe,2.0,-26.0
+DRACD,Drachenblut Delikatessen,Aachen,Germany,11067.0,2.0,1998-05-04,1998-05-18,1998-05-06,Europe,2.0,-12.0
+DUMON,Du monde entier,Nantes,France,10311.0,3.0,1996-09-20,1996-10-04,1996-09-26,Europe,6.0,-8.0
+DUMON,Du monde entier,Nantes,France,10609.0,2.0,1997-07-24,1997-08-21,1997-07-30,Europe,6.0,-22.0
+DUMON,Du monde entier,Nantes,France,10683.0,1.0,1997-09-26,1997-10-24,1997-10-01,Europe,5.0,-23.0
+DUMON,Du monde entier,Nantes,France,10890.0,1.0,1998-02-16,1998-03-16,1998-02-18,Europe,2.0,-26.0
+EASTC,Eastern Connection,London,UK,10364.0,1.0,1996-11-26,1997-01-07,1996-12-04,Europe,8.0,-34.0
+EASTC,Eastern Connection,London,UK,10400.0,3.0,1997-01-01,1997-01-29,1997-01-16,Europe,15.0,-13.0
+EASTC,Eastern Connection,London,UK,10532.0,3.0,1997-05-09,1997-06-06,1997-05-12,Europe,3.0,-25.0
+EASTC,Eastern Connection,London,UK,10726.0,1.0,1997-11-03,1997-11-17,1997-12-05,Europe,32.0,18.0
+EASTC,Eastern Connection,London,UK,10987.0,1.0,1998-03-31,1998-04-28,1998-04-06,Europe,6.0,-22.0
+EASTC,Eastern Connection,London,UK,11024.0,1.0,1998-04-15,1998-05-13,1998-04-20,Europe,5.0,-23.0
+EASTC,Eastern Connection,London,UK,11047.0,3.0,1998-04-24,1998-05-22,1998-05-01,Europe,7.0,-21.0
+EASTC,Eastern Connection,London,UK,11056.0,2.0,1998-04-28,1998-05-12,1998-05-01,Europe,3.0,-11.0
+ERNSH,Ernst Handel,Graz,Austria,10258.0,1.0,1996-07-17,1996-08-14,1996-07-23,Europe,6.0,-22.0
+ERNSH,Ernst Handel,Graz,Austria,10263.0,3.0,1996-07-23,1996-08-20,1996-07-31,Europe,8.0,-20.0
+ERNSH,Ernst Handel,Graz,Austria,10351.0,1.0,1996-11-11,1996-12-09,1996-11-20,Europe,9.0,-19.0
+ERNSH,Ernst Handel,Graz,Austria,10368.0,2.0,1996-11-29,1996-12-27,1996-12-02,Europe,3.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10382.0,1.0,1996-12-13,1997-01-10,1996-12-16,Europe,3.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10390.0,1.0,1996-12-23,1997-01-20,1996-12-26,Europe,3.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10402.0,2.0,1997-01-02,1997-02-13,1997-01-10,Europe,8.0,-34.0
+ERNSH,Ernst Handel,Graz,Austria,10403.0,3.0,1997-01-03,1997-01-31,1997-01-09,Europe,6.0,-22.0
+ERNSH,Ernst Handel,Graz,Austria,10430.0,1.0,1997-01-30,1997-02-13,1997-02-03,Europe,4.0,-10.0
+ERNSH,Ernst Handel,Graz,Austria,10442.0,2.0,1997-02-11,1997-03-11,1997-02-18,Europe,7.0,-21.0
+ERNSH,Ernst Handel,Graz,Austria,10514.0,2.0,1997-04-22,1997-05-20,1997-05-16,Europe,24.0,-4.0
+ERNSH,Ernst Handel,Graz,Austria,10571.0,3.0,1997-06-17,1997-07-29,1997-07-04,Europe,17.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10595.0,1.0,1997-07-10,1997-08-07,1997-07-14,Europe,4.0,-24.0
+ERNSH,Ernst Handel,Graz,Austria,10633.0,3.0,1997-08-15,1997-09-12,1997-08-18,Europe,3.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10667.0,1.0,1997-09-12,1997-10-10,1997-09-19,Europe,7.0,-21.0
+ERNSH,Ernst Handel,Graz,Austria,10698.0,1.0,1997-10-09,1997-11-06,1997-10-17,Europe,8.0,-20.0
+ERNSH,Ernst Handel,Graz,Austria,10764.0,3.0,1997-12-03,1997-12-31,1997-12-08,Europe,5.0,-23.0
+ERNSH,Ernst Handel,Graz,Austria,10771.0,2.0,1997-12-10,1998-01-07,1998-01-02,Europe,23.0,-5.0
+ERNSH,Ernst Handel,Graz,Austria,10773.0,3.0,1997-12-11,1998-01-08,1997-12-16,Europe,5.0,-23.0
+ERNSH,Ernst Handel,Graz,Austria,10776.0,3.0,1997-12-15,1998-01-12,1997-12-18,Europe,3.0,-25.0
+ERNSH,Ernst Handel,Graz,Austria,10795.0,2.0,1997-12-24,1998-01-21,1998-01-20,Europe,27.0,-1.0
+ERNSH,Ernst Handel,Graz,Austria,10836.0,1.0,1998-01-16,1998-02-13,1998-01-21,Europe,5.0,-23.0
+ERNSH,Ernst Handel,Graz,Austria,10854.0,2.0,1998-01-27,1998-02-24,1998-02-05,Europe,9.0,-19.0
+ERNSH,Ernst Handel,Graz,Austria,10895.0,1.0,1998-02-18,1998-03-18,1998-02-23,Europe,5.0,-23.0
+ERNSH,Ernst Handel,Graz,Austria,10968.0,3.0,1998-03-23,1998-04-20,1998-04-01,Europe,9.0,-19.0
+ERNSH,Ernst Handel,Graz,Austria,10979.0,2.0,1998-03-26,1998-04-23,1998-03-31,Europe,5.0,-23.0
+ERNSH,Ernst Handel,Graz,Austria,10990.0,3.0,1998-04-01,1998-05-13,1998-04-07,Europe,6.0,-36.0
+ERNSH,Ernst Handel,Graz,Austria,11008.0,3.0,1998-04-08,1998-05-06,,Europe,,
+ERNSH,Ernst Handel,Graz,Austria,11017.0,2.0,1998-04-13,1998-05-11,1998-04-20,Europe,7.0,-21.0
+ERNSH,Ernst Handel,Graz,Austria,11072.0,2.0,1998-05-05,1998-06-02,,Europe,,
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10347.0,3.0,1996-11-06,1996-12-04,1996-11-08,America,2.0,-26.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10386.0,3.0,1996-12-18,1997-01-01,1996-12-25,America,7.0,-7.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10414.0,3.0,1997-01-14,1997-02-11,1997-01-17,America,3.0,-25.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10512.0,2.0,1997-04-21,1997-05-19,1997-04-24,America,3.0,-25.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10581.0,1.0,1997-06-26,1997-07-24,1997-07-02,America,6.0,-22.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10650.0,3.0,1997-08-29,1997-09-26,1997-09-03,America,5.0,-23.0
+FAMIA,Familia Arquibaldo,Sao Paulo,Brazil,10725.0,3.0,1997-10-31,1997-11-28,1997-11-05,America,5.0,-23.0
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain,,,,,,Europe,,
+FOLIG,Folies gourmandes,Lille,France,10408.0,1.0,1997-01-08,1997-02-05,1997-01-14,Europe,6.0,-22.0
+FOLIG,Folies gourmandes,Lille,France,10480.0,2.0,1997-03-20,1997-04-17,1997-03-24,Europe,4.0,-24.0
+FOLIG,Folies gourmandes,Lille,France,10634.0,3.0,1997-08-15,1997-09-12,1997-08-21,Europe,6.0,-22.0
+FOLIG,Folies gourmandes,Lille,France,10763.0,3.0,1997-12-03,1997-12-31,1997-12-08,Europe,5.0,-23.0
+FOLIG,Folies gourmandes,Lille,France,10789.0,2.0,1997-12-22,1998-01-19,1997-12-31,Europe,9.0,-19.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10264.0,3.0,1996-07-24,1996-08-21,1996-08-23,Europe,30.0,2.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10327.0,1.0,1996-10-11,1996-11-08,1996-10-14,Europe,3.0,-25.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10378.0,3.0,1996-12-10,1997-01-07,1996-12-19,Europe,9.0,-19.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10434.0,2.0,1997-02-03,1997-03-03,1997-02-13,Europe,10.0,-18.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10460.0,1.0,1997-02-28,1997-03-28,1997-03-03,Europe,3.0,-25.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10533.0,1.0,1997-05-12,1997-06-09,1997-05-22,Europe,10.0,-18.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10561.0,2.0,1997-06-06,1997-07-04,1997-06-09,Europe,3.0,-25.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10703.0,2.0,1997-10-14,1997-11-11,1997-10-20,Europe,6.0,-22.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10762.0,1.0,1997-12-02,1997-12-30,1997-12-09,Europe,7.0,-21.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10774.0,1.0,1997-12-11,1997-12-25,1997-12-12,Europe,1.0,-13.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10824.0,1.0,1998-01-09,1998-02-06,1998-01-30,Europe,21.0,-7.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10880.0,1.0,1998-02-10,1998-03-24,1998-02-18,Europe,8.0,-34.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10902.0,1.0,1998-02-23,1998-03-23,1998-03-03,Europe,8.0,-20.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10955.0,2.0,1998-03-17,1998-04-14,1998-03-20,Europe,3.0,-25.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10977.0,3.0,1998-03-26,1998-04-23,1998-04-10,Europe,15.0,-13.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10980.0,1.0,1998-03-27,1998-05-08,1998-04-17,Europe,21.0,-21.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,10993.0,3.0,1998-04-01,1998-04-29,1998-04-10,Europe,9.0,-19.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,11001.0,2.0,1998-04-06,1998-05-04,1998-04-14,Europe,8.0,-20.0
+FOLKO,Folk och fä HB,Bräcke,Sweden,11050.0,2.0,1998-04-27,1998-05-25,1998-05-05,Europe,8.0,-20.0
+FRANK,Frankenversand,München,Germany,10267.0,1.0,1996-07-29,1996-08-26,1996-08-06,Europe,8.0,-20.0
+FRANK,Frankenversand,München,Germany,10337.0,3.0,1996-10-24,1996-11-21,1996-10-29,Europe,5.0,-23.0
+FRANK,Frankenversand,München,Germany,10342.0,2.0,1996-10-30,1996-11-13,1996-11-04,Europe,5.0,-9.0
+FRANK,Frankenversand,München,Germany,10396.0,3.0,1996-12-27,1997-01-10,1997-01-06,Europe,10.0,-4.0
+FRANK,Frankenversand,München,Germany,10488.0,2.0,1997-03-27,1997-04-24,1997-04-02,Europe,6.0,-22.0
+FRANK,Frankenversand,München,Germany,10560.0,1.0,1997-06-06,1997-07-04,1997-06-09,Europe,3.0,-25.0
+FRANK,Frankenversand,München,Germany,10623.0,2.0,1997-08-07,1997-09-04,1997-08-12,Europe,5.0,-23.0
+FRANK,Frankenversand,München,Germany,10653.0,1.0,1997-09-02,1997-09-30,1997-09-19,Europe,17.0,-11.0
+FRANK,Frankenversand,München,Germany,10670.0,1.0,1997-09-16,1997-10-14,1997-09-18,Europe,2.0,-26.0
+FRANK,Frankenversand,München,Germany,10675.0,2.0,1997-09-19,1997-10-17,1997-09-23,Europe,4.0,-24.0
+FRANK,Frankenversand,München,Germany,10717.0,2.0,1997-10-24,1997-11-21,1997-10-29,Europe,5.0,-23.0
+FRANK,Frankenversand,München,Germany,10791.0,2.0,1997-12-23,1998-01-20,1998-01-01,Europe,9.0,-19.0
+FRANK,Frankenversand,München,Germany,10859.0,2.0,1998-01-29,1998-02-26,1998-02-02,Europe,4.0,-24.0
+FRANK,Frankenversand,München,Germany,10929.0,1.0,1998-03-05,1998-04-02,1998-03-12,Europe,7.0,-21.0
+FRANK,Frankenversand,München,Germany,11012.0,3.0,1998-04-09,1998-04-23,1998-04-17,Europe,8.0,-6.0
+FRANR,France restauration,Nantes,France,10671.0,1.0,1997-09-17,1997-10-15,1997-09-24,Europe,7.0,-21.0
+FRANR,France restauration,Nantes,France,10860.0,3.0,1998-01-29,1998-02-26,1998-02-04,Europe,6.0,-22.0
+FRANR,France restauration,Nantes,France,10971.0,2.0,1998-03-24,1998-04-21,1998-04-02,Europe,9.0,-19.0
+FRANS,Franchi S.p.A.,Torino,Italy,10422.0,1.0,1997-01-22,1997-02-19,1997-01-31,Europe,9.0,-19.0
+FRANS,Franchi S.p.A.,Torino,Italy,10710.0,1.0,1997-10-20,1997-11-17,1997-10-23,Europe,3.0,-25.0
+FRANS,Franchi S.p.A.,Torino,Italy,10753.0,1.0,1997-11-25,1997-12-23,1997-11-27,Europe,2.0,-26.0
+FRANS,Franchi S.p.A.,Torino,Italy,10807.0,1.0,1997-12-31,1998-01-28,1998-01-30,Europe,30.0,2.0
+FRANS,Franchi S.p.A.,Torino,Italy,11026.0,1.0,1998-04-15,1998-05-13,1998-04-28,Europe,13.0,-15.0
+FRANS,Franchi S.p.A.,Torino,Italy,11060.0,2.0,1998-04-30,1998-05-28,1998-05-04,Europe,4.0,-24.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10328.0,3.0,1996-10-14,1996-11-11,1996-10-17,Europe,3.0,-25.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10352.0,3.0,1996-11-12,1996-11-26,1996-11-18,Europe,6.0,-8.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10464.0,2.0,1997-03-04,1997-04-01,1997-03-14,Europe,10.0,-18.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10491.0,3.0,1997-03-31,1997-04-28,1997-04-08,Europe,8.0,-20.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10551.0,3.0,1997-05-28,1997-07-09,1997-06-06,Europe,9.0,-33.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10604.0,1.0,1997-07-18,1997-08-15,1997-07-29,Europe,11.0,-17.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10664.0,3.0,1997-09-10,1997-10-08,1997-09-19,Europe,9.0,-19.0
+FURIB,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,10963.0,3.0,1998-03-19,1998-04-16,1998-03-26,Europe,7.0,-21.0
+GALED,Galería del gastrónomo,Barcelona,Spain,10366.0,2.0,1996-11-28,1997-01-09,1996-12-30,Europe,32.0,-10.0
+GALED,Galería del gastrónomo,Barcelona,Spain,10426.0,1.0,1997-01-27,1997-02-24,1997-02-06,Europe,10.0,-18.0
+GALED,Galería del gastrónomo,Barcelona,Spain,10568.0,3.0,1997-06-13,1997-07-11,1997-07-09,Europe,26.0,-2.0
+GALED,Galería del gastrónomo,Barcelona,Spain,10887.0,3.0,1998-02-13,1998-03-13,1998-02-16,Europe,3.0,-25.0
+GALED,Galería del gastrónomo,Barcelona,Spain,10928.0,1.0,1998-03-05,1998-04-02,1998-03-18,Europe,13.0,-15.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10303.0,2.0,1996-09-11,1996-10-09,1996-09-18,Europe,7.0,-21.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10550.0,3.0,1997-05-28,1997-06-25,1997-06-06,Europe,9.0,-19.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10629.0,3.0,1997-08-12,1997-09-09,1997-08-20,Europe,8.0,-20.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10872.0,2.0,1998-02-05,1998-03-05,1998-02-09,Europe,4.0,-24.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10874.0,2.0,1998-02-06,1998-03-06,1998-02-11,Europe,5.0,-23.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10888.0,2.0,1998-02-16,1998-03-16,1998-02-23,Europe,7.0,-21.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10911.0,1.0,1998-02-26,1998-03-26,1998-03-05,Europe,7.0,-21.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,10948.0,3.0,1998-03-13,1998-04-10,1998-03-19,Europe,6.0,-22.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,11009.0,1.0,1998-04-08,1998-05-06,1998-04-10,Europe,2.0,-26.0
+GODOS,Godos Cocina Típica,Sevilla,Spain,11037.0,1.0,1998-04-21,1998-05-19,1998-04-27,Europe,6.0,-22.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10423.0,3.0,1997-01-23,1997-02-06,1997-02-24,America,32.0,18.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10652.0,2.0,1997-09-01,1997-09-29,1997-09-08,America,7.0,-21.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10685.0,2.0,1997-09-29,1997-10-13,1997-10-03,America,4.0,-10.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10709.0,3.0,1997-10-17,1997-11-14,1997-11-20,America,34.0,6.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10734.0,3.0,1997-11-07,1997-12-05,1997-11-12,America,5.0,-23.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10777.0,2.0,1997-12-15,1997-12-29,1998-01-21,America,37.0,23.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10790.0,1.0,1997-12-22,1998-01-19,1997-12-26,America,4.0,-24.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,10959.0,2.0,1998-03-18,1998-04-29,1998-03-23,America,5.0,-37.0
+GOURL,Gourmet Lanchonetes,Campinas,Brazil,11049.0,1.0,1998-04-24,1998-05-22,1998-05-04,America,10.0,-18.0
+GREAL,Great Lakes Food Market,Eugene,USA,10528.0,2.0,1997-05-06,1997-05-20,1997-05-09,America,3.0,-11.0
+GREAL,Great Lakes Food Market,Eugene,USA,10589.0,2.0,1997-07-04,1997-08-01,1997-07-14,America,10.0,-18.0
+GREAL,Great Lakes Food Market,Eugene,USA,10616.0,2.0,1997-07-31,1997-08-28,1997-08-05,America,5.0,-23.0
+GREAL,Great Lakes Food Market,Eugene,USA,10617.0,2.0,1997-07-31,1997-08-28,1997-08-04,America,4.0,-24.0
+GREAL,Great Lakes Food Market,Eugene,USA,10656.0,1.0,1997-09-04,1997-10-02,1997-09-10,America,6.0,-22.0
+GREAL,Great Lakes Food Market,Eugene,USA,10681.0,3.0,1997-09-25,1997-10-23,1997-09-30,America,5.0,-23.0
+GREAL,Great Lakes Food Market,Eugene,USA,10816.0,2.0,1998-01-06,1998-02-03,1998-02-04,America,29.0,1.0
+GREAL,Great Lakes Food Market,Eugene,USA,10936.0,2.0,1998-03-09,1998-04-06,1998-03-18,America,9.0,-19.0
+GREAL,Great Lakes Food Market,Eugene,USA,11006.0,2.0,1998-04-07,1998-05-05,1998-04-15,America,8.0,-20.0
+GREAL,Great Lakes Food Market,Eugene,USA,11040.0,3.0,1998-04-22,1998-05-20,,America,,
+GREAL,Great Lakes Food Market,Eugene,USA,11061.0,3.0,1998-04-30,1998-06-11,,America,,
+GROSR,GROSELLA-Restaurante,Caracas,Venezuela,10268.0,3.0,1996-07-30,1996-08-27,1996-08-02,America,3.0,-25.0
+GROSR,GROSELLA-Restaurante,Caracas,Venezuela,10785.0,3.0,1997-12-18,1998-01-15,1997-12-24,America,6.0,-22.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10250.0,2.0,1996-07-08,1996-08-05,1996-07-12,America,4.0,-24.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10253.0,2.0,1996-07-10,1996-07-24,1996-07-16,America,6.0,-8.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10541.0,1.0,1997-05-19,1997-06-16,1997-05-29,America,10.0,-18.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10645.0,1.0,1997-08-26,1997-09-23,1997-09-02,America,7.0,-21.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10690.0,1.0,1997-10-02,1997-10-30,1997-10-03,America,1.0,-27.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10770.0,3.0,1997-12-09,1998-01-06,1997-12-17,America,8.0,-20.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10783.0,2.0,1997-12-18,1998-01-15,1997-12-19,America,1.0,-27.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10886.0,1.0,1998-02-13,1998-03-13,1998-03-02,America,17.0,-11.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10903.0,3.0,1998-02-24,1998-03-24,1998-03-04,America,8.0,-20.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10922.0,3.0,1998-03-03,1998-03-31,1998-03-05,America,2.0,-26.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10925.0,1.0,1998-03-04,1998-04-01,1998-03-13,America,9.0,-19.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,10981.0,2.0,1998-03-27,1998-04-24,1998-04-02,America,6.0,-22.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,11022.0,2.0,1998-04-14,1998-05-12,1998-05-04,America,20.0,-8.0
+HANAR,Hanari Carnes,Rio de Janeiro,Brazil,11052.0,1.0,1998-04-27,1998-05-25,1998-05-01,America,4.0,-24.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10257.0,3.0,1996-07-16,1996-08-13,1996-07-22,America,6.0,-22.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10395.0,1.0,1996-12-26,1997-01-23,1997-01-03,America,8.0,-20.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10476.0,3.0,1997-03-17,1997-04-14,1997-03-24,America,7.0,-21.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10486.0,2.0,1997-03-26,1997-04-23,1997-04-02,America,7.0,-21.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10490.0,2.0,1997-03-31,1997-04-28,1997-04-03,America,3.0,-25.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10498.0,2.0,1997-04-07,1997-05-05,1997-04-11,America,4.0,-24.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10552.0,1.0,1997-05-29,1997-06-26,1997-06-05,America,7.0,-21.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10601.0,1.0,1997-07-16,1997-08-27,1997-07-22,America,6.0,-36.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10613.0,2.0,1997-07-29,1997-08-26,1997-08-01,America,3.0,-25.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10641.0,2.0,1997-08-22,1997-09-19,1997-08-26,America,4.0,-24.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10705.0,2.0,1997-10-15,1997-11-12,1997-11-18,America,34.0,6.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10796.0,1.0,1997-12-25,1998-01-22,1998-01-14,America,20.0,-8.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10863.0,2.0,1998-02-02,1998-03-02,1998-02-17,America,15.0,-13.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10901.0,1.0,1998-02-23,1998-03-23,1998-02-26,America,3.0,-25.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10957.0,3.0,1998-03-18,1998-04-15,1998-03-27,America,9.0,-19.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10960.0,1.0,1998-03-19,1998-04-02,1998-04-08,America,20.0,6.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,10976.0,1.0,1998-03-25,1998-05-06,1998-04-03,America,9.0,-33.0
+HILAA,HILARION-Abastos,San Cristóbal,Venezuela,11055.0,2.0,1998-04-28,1998-05-26,1998-05-05,America,7.0,-21.0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,10375.0,2.0,1996-12-06,1997-01-03,1996-12-09,America,3.0,-25.0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,10394.0,3.0,1996-12-25,1997-01-22,1997-01-03,America,9.0,-19.0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,10415.0,1.0,1997-01-15,1997-02-12,1997-01-24,America,9.0,-19.0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,10600.0,1.0,1997-07-16,1997-08-13,1997-07-21,America,5.0,-23.0
+HUNGC,Hungry Coyote Import Store,Elgin,USA,10660.0,1.0,1997-09-08,1997-10-06,1997-10-15,America,37.0,9.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10298.0,2.0,1996-09-05,1996-10-03,1996-09-11,Europe,6.0,-22.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10309.0,1.0,1996-09-19,1996-10-17,1996-10-23,Europe,34.0,6.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10335.0,2.0,1996-10-22,1996-11-19,1996-10-24,Europe,2.0,-26.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10373.0,3.0,1996-12-05,1997-01-02,1996-12-11,Europe,6.0,-22.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10380.0,3.0,1996-12-12,1997-01-09,1997-01-16,Europe,35.0,7.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10429.0,2.0,1997-01-29,1997-03-12,1997-02-07,Europe,9.0,-33.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10503.0,2.0,1997-04-11,1997-05-09,1997-04-16,Europe,5.0,-23.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10516.0,3.0,1997-04-24,1997-05-22,1997-05-01,Europe,7.0,-21.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10567.0,1.0,1997-06-12,1997-07-10,1997-06-17,Europe,5.0,-23.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10646.0,3.0,1997-08-27,1997-10-08,1997-09-03,Europe,7.0,-35.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10661.0,3.0,1997-09-09,1997-10-07,1997-09-15,Europe,6.0,-22.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10687.0,2.0,1997-09-30,1997-10-28,1997-10-30,Europe,30.0,2.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10701.0,3.0,1997-10-13,1997-10-27,1997-10-15,Europe,2.0,-12.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10712.0,1.0,1997-10-21,1997-11-18,1997-10-31,Europe,10.0,-18.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10736.0,2.0,1997-11-11,1997-12-09,1997-11-21,Europe,10.0,-18.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10897.0,2.0,1998-02-19,1998-03-19,1998-02-25,Europe,6.0,-22.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10912.0,2.0,1998-02-26,1998-03-26,1998-03-18,Europe,20.0,-8.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,10985.0,1.0,1998-03-30,1998-04-27,1998-04-02,Europe,3.0,-25.0
+HUNGO,Hungry Owl All-Night Grocers,Cork,Ireland,11063.0,2.0,1998-04-30,1998-05-28,1998-05-06,Europe,6.0,-22.0
+ISLAT,Island Trading,Cowes,UK,10315.0,2.0,1996-09-26,1996-10-24,1996-10-03,Europe,7.0,-21.0
+ISLAT,Island Trading,Cowes,UK,10318.0,2.0,1996-10-01,1996-10-29,1996-10-04,Europe,3.0,-25.0
+ISLAT,Island Trading,Cowes,UK,10321.0,2.0,1996-10-03,1996-10-31,1996-10-11,Europe,8.0,-20.0
+ISLAT,Island Trading,Cowes,UK,10473.0,3.0,1997-03-13,1997-03-27,1997-03-21,Europe,8.0,-6.0
+ISLAT,Island Trading,Cowes,UK,10621.0,2.0,1997-08-05,1997-09-02,1997-08-11,Europe,6.0,-22.0
+ISLAT,Island Trading,Cowes,UK,10674.0,2.0,1997-09-18,1997-10-16,1997-09-30,Europe,12.0,-16.0
+ISLAT,Island Trading,Cowes,UK,10749.0,2.0,1997-11-20,1997-12-18,1997-12-19,Europe,29.0,1.0
+ISLAT,Island Trading,Cowes,UK,10798.0,1.0,1997-12-26,1998-01-23,1998-01-05,Europe,10.0,-18.0
+ISLAT,Island Trading,Cowes,UK,10829.0,1.0,1998-01-13,1998-02-10,1998-01-23,Europe,10.0,-18.0
+ISLAT,Island Trading,Cowes,UK,10933.0,3.0,1998-03-06,1998-04-03,1998-03-16,Europe,10.0,-18.0
+KOENE,Königlich Essen,Brandenburg,Germany,10323.0,1.0,1996-10-07,1996-11-04,1996-10-14,Europe,7.0,-21.0
+KOENE,Königlich Essen,Brandenburg,Germany,10325.0,3.0,1996-10-09,1996-10-23,1996-10-14,Europe,5.0,-9.0
+KOENE,Königlich Essen,Brandenburg,Germany,10456.0,2.0,1997-02-25,1997-04-08,1997-02-28,Europe,3.0,-39.0
+KOENE,Königlich Essen,Brandenburg,Germany,10457.0,1.0,1997-02-25,1997-03-25,1997-03-03,Europe,6.0,-22.0
+KOENE,Königlich Essen,Brandenburg,Germany,10468.0,3.0,1997-03-07,1997-04-04,1997-03-12,Europe,5.0,-23.0
+KOENE,Königlich Essen,Brandenburg,Germany,10506.0,2.0,1997-04-15,1997-05-13,1997-05-02,Europe,17.0,-11.0
+KOENE,Königlich Essen,Brandenburg,Germany,10542.0,3.0,1997-05-20,1997-06-17,1997-05-26,Europe,6.0,-22.0
+KOENE,Königlich Essen,Brandenburg,Germany,10630.0,2.0,1997-08-13,1997-09-10,1997-08-19,Europe,6.0,-22.0
+KOENE,Königlich Essen,Brandenburg,Germany,10718.0,3.0,1997-10-27,1997-11-24,1997-10-29,Europe,2.0,-26.0
+KOENE,Königlich Essen,Brandenburg,Germany,10799.0,3.0,1997-12-26,1998-02-06,1998-01-05,Europe,10.0,-32.0
+KOENE,Königlich Essen,Brandenburg,Germany,10817.0,2.0,1998-01-06,1998-01-20,1998-01-13,Europe,7.0,-7.0
+KOENE,Königlich Essen,Brandenburg,Germany,10849.0,2.0,1998-01-23,1998-02-20,1998-01-30,Europe,7.0,-21.0
+KOENE,Königlich Essen,Brandenburg,Germany,10893.0,2.0,1998-02-18,1998-03-18,1998-02-20,Europe,2.0,-26.0
+KOENE,Königlich Essen,Brandenburg,Germany,11028.0,1.0,1998-04-16,1998-05-14,1998-04-22,Europe,6.0,-22.0
+LACOR,La corne d'abondance,Versailles,France,10858.0,1.0,1998-01-29,1998-02-26,1998-02-03,Europe,5.0,-23.0
+LACOR,La corne d'abondance,Versailles,France,10927.0,1.0,1998-03-05,1998-04-02,1998-04-08,Europe,34.0,6.0
+LACOR,La corne d'abondance,Versailles,France,10972.0,2.0,1998-03-24,1998-04-21,1998-03-26,Europe,2.0,-26.0
+LACOR,La corne d'abondance,Versailles,France,10973.0,2.0,1998-03-24,1998-04-21,1998-03-27,Europe,3.0,-25.0
+LAMAI,La maison d'Asie,Toulouse,France,10350.0,2.0,1996-11-11,1996-12-09,1996-12-03,Europe,22.0,-6.0
+LAMAI,La maison d'Asie,Toulouse,France,10358.0,1.0,1996-11-20,1996-12-18,1996-11-27,Europe,7.0,-21.0
+LAMAI,La maison d'Asie,Toulouse,France,10371.0,1.0,1996-12-03,1996-12-31,1996-12-24,Europe,21.0,-7.0
+LAMAI,La maison d'Asie,Toulouse,France,10413.0,2.0,1997-01-14,1997-02-11,1997-01-16,Europe,2.0,-26.0
+LAMAI,La maison d'Asie,Toulouse,France,10425.0,2.0,1997-01-24,1997-02-21,1997-02-14,Europe,21.0,-7.0
+LAMAI,La maison d'Asie,Toulouse,France,10454.0,3.0,1997-02-21,1997-03-21,1997-02-25,Europe,4.0,-24.0
+LAMAI,La maison d'Asie,Toulouse,France,10493.0,3.0,1997-04-02,1997-04-30,1997-04-10,Europe,8.0,-20.0
+LAMAI,La maison d'Asie,Toulouse,France,10500.0,1.0,1997-04-09,1997-05-07,1997-04-17,Europe,8.0,-20.0
+LAMAI,La maison d'Asie,Toulouse,France,10610.0,1.0,1997-07-25,1997-08-22,1997-08-06,Europe,12.0,-16.0
+LAMAI,La maison d'Asie,Toulouse,France,10631.0,1.0,1997-08-14,1997-09-11,1997-08-15,Europe,1.0,-27.0
+LAMAI,La maison d'Asie,Toulouse,France,10787.0,1.0,1997-12-19,1998-01-02,1997-12-26,Europe,7.0,-7.0
+LAMAI,La maison d'Asie,Toulouse,France,10832.0,2.0,1998-01-14,1998-02-11,1998-01-19,Europe,5.0,-23.0
+LAMAI,La maison d'Asie,Toulouse,France,10923.0,3.0,1998-03-03,1998-04-14,1998-03-13,Europe,10.0,-32.0
+LAMAI,La maison d'Asie,Toulouse,France,11051.0,3.0,1998-04-27,1998-05-25,,Europe,,
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10495.0,3.0,1997-04-03,1997-05-01,1997-04-11,America,8.0,-20.0
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10620.0,3.0,1997-08-05,1997-09-02,1997-08-14,America,9.0,-19.0
+LAUGB,Laughing Bacchus Wine Cellars,Vancouver,Canada,10810.0,3.0,1998-01-01,1998-01-29,1998-01-07,America,6.0,-22.0
+LAZYK,Lazy K Kountry Store,Walla Walla,USA,10482.0,3.0,1997-03-21,1997-04-18,1997-04-10,America,20.0,-8.0
+LAZYK,Lazy K Kountry Store,Walla Walla,USA,10545.0,2.0,1997-05-22,1997-06-19,1997-06-26,America,35.0,7.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10279.0,2.0,1996-08-13,1996-09-10,1996-08-16,Europe,3.0,-25.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10284.0,1.0,1996-08-19,1996-09-16,1996-08-27,Europe,8.0,-20.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10343.0,1.0,1996-10-31,1996-11-28,1996-11-06,Europe,6.0,-22.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10497.0,1.0,1997-04-04,1997-05-02,1997-04-07,Europe,3.0,-25.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10522.0,1.0,1997-04-30,1997-05-28,1997-05-06,Europe,6.0,-22.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10534.0,2.0,1997-05-12,1997-06-09,1997-05-14,Europe,2.0,-26.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10536.0,2.0,1997-05-14,1997-06-11,1997-06-06,Europe,23.0,-5.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10557.0,2.0,1997-06-03,1997-06-17,1997-06-06,Europe,3.0,-11.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10592.0,1.0,1997-07-08,1997-08-05,1997-07-16,Europe,8.0,-20.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10593.0,2.0,1997-07-09,1997-08-06,1997-08-13,Europe,35.0,7.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10772.0,2.0,1997-12-10,1998-01-07,1997-12-19,Europe,9.0,-19.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10862.0,2.0,1998-01-30,1998-03-13,1998-02-02,Europe,3.0,-39.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10891.0,2.0,1998-02-17,1998-03-17,1998-02-19,Europe,2.0,-26.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,10934.0,3.0,1998-03-09,1998-04-06,1998-03-12,Europe,3.0,-25.0
+LEHMS,Lehmanns Marktstand,Frankfurt a.M.,Germany,11070.0,1.0,1998-05-05,1998-06-02,,Europe,,
+LETSS,Let's Stop N Shop,San Francisco,USA,10579.0,2.0,1997-06-25,1997-07-23,1997-07-04,America,9.0,-19.0
+LETSS,Let's Stop N Shop,San Francisco,USA,10719.0,2.0,1997-10-27,1997-11-24,1997-11-05,America,9.0,-19.0
+LETSS,Let's Stop N Shop,San Francisco,USA,10735.0,2.0,1997-11-10,1997-12-08,1997-11-21,America,11.0,-17.0
+LETSS,Let's Stop N Shop,San Francisco,USA,10884.0,2.0,1998-02-12,1998-03-12,1998-02-13,America,1.0,-27.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10283.0,3.0,1996-08-16,1996-09-13,1996-08-23,America,7.0,-21.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10296.0,1.0,1996-09-03,1996-10-01,1996-09-11,America,8.0,-20.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10330.0,1.0,1996-10-16,1996-11-13,1996-10-28,America,12.0,-16.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10357.0,3.0,1996-11-19,1996-12-17,1996-12-02,America,13.0,-15.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10381.0,3.0,1996-12-12,1997-01-09,1996-12-13,America,1.0,-27.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10461.0,3.0,1997-02-28,1997-03-28,1997-03-05,America,5.0,-23.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10499.0,2.0,1997-04-08,1997-05-06,1997-04-16,America,8.0,-20.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10543.0,2.0,1997-05-21,1997-06-18,1997-05-23,America,2.0,-26.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10780.0,1.0,1997-12-16,1997-12-30,1997-12-25,America,9.0,-5.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10823.0,2.0,1998-01-09,1998-02-06,1998-01-13,America,4.0,-24.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10899.0,3.0,1998-02-20,1998-03-20,1998-02-26,America,6.0,-22.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,10997.0,2.0,1998-04-03,1998-05-15,1998-04-13,America,10.0,-32.0
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,11065.0,1.0,1998-05-01,1998-05-29,,America,,
+LILAS,LILA-Supermercado,Barquisimeto,Venezuela,11071.0,1.0,1998-05-05,1998-06-02,,America,,
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10405.0,1.0,1997-01-06,1997-02-03,1997-01-22,America,16.0,-12.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10485.0,2.0,1997-03-25,1997-04-08,1997-03-31,America,6.0,-8.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10638.0,1.0,1997-08-20,1997-09-17,1997-09-01,America,12.0,-16.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10697.0,1.0,1997-10-08,1997-11-05,1997-10-14,America,6.0,-22.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10729.0,3.0,1997-11-04,1997-12-16,1997-11-14,America,10.0,-32.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10811.0,1.0,1998-01-02,1998-01-30,1998-01-08,America,6.0,-22.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10838.0,3.0,1998-01-19,1998-02-16,1998-01-23,America,4.0,-24.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10840.0,2.0,1998-01-19,1998-03-02,1998-02-16,America,28.0,-14.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10919.0,2.0,1998-03-02,1998-03-30,1998-03-04,America,2.0,-26.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,10954.0,1.0,1998-03-17,1998-04-28,1998-03-20,America,3.0,-39.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,11014.0,3.0,1998-04-10,1998-05-08,1998-04-15,America,5.0,-23.0
+LINOD,LINO-Delicateses,I. de Margarita,Venezuela,11039.0,2.0,1998-04-21,1998-05-19,,America,,
+LONEP,Lonesome Pine Restaurant,Portland,USA,10307.0,2.0,1996-09-17,1996-10-15,1996-09-25,America,8.0,-20.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10317.0,1.0,1996-09-30,1996-10-28,1996-10-10,America,10.0,-18.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10544.0,1.0,1997-05-21,1997-06-18,1997-05-30,America,9.0,-19.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10662.0,2.0,1997-09-09,1997-10-07,1997-09-18,America,9.0,-19.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10665.0,2.0,1997-09-11,1997-10-09,1997-09-17,America,6.0,-22.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10867.0,1.0,1998-02-03,1998-03-17,1998-02-11,America,8.0,-34.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,10883.0,3.0,1998-02-12,1998-03-12,1998-02-20,America,8.0,-20.0
+LONEP,Lonesome Pine Restaurant,Portland,USA,11018.0,2.0,1998-04-13,1998-05-11,1998-04-16,America,3.0,-25.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10275.0,1.0,1996-08-07,1996-09-04,1996-08-09,Europe,2.0,-26.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10300.0,2.0,1996-09-09,1996-10-07,1996-09-18,Europe,9.0,-19.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10404.0,1.0,1997-01-03,1997-01-31,1997-01-08,Europe,5.0,-23.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10467.0,2.0,1997-03-06,1997-04-03,1997-03-11,Europe,5.0,-23.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10635.0,3.0,1997-08-18,1997-09-15,1997-08-21,Europe,3.0,-25.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10754.0,3.0,1997-11-25,1997-12-23,1997-11-27,Europe,2.0,-26.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10784.0,3.0,1997-12-18,1998-01-15,1997-12-22,Europe,4.0,-24.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10818.0,3.0,1998-01-07,1998-02-04,1998-01-12,Europe,5.0,-23.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10939.0,2.0,1998-03-10,1998-04-07,1998-03-13,Europe,3.0,-25.0
+MAGAA,Magazzini Alimentari Riuniti,Bergamo,Italy,10950.0,2.0,1998-03-16,1998-04-13,1998-03-23,Europe,7.0,-21.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10529.0,2.0,1997-05-07,1997-06-04,1997-05-09,Europe,2.0,-26.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10649.0,3.0,1997-08-28,1997-09-25,1997-08-29,Europe,1.0,-27.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10760.0,1.0,1997-12-01,1997-12-29,1997-12-10,Europe,9.0,-19.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10892.0,2.0,1998-02-17,1998-03-17,1998-02-19,Europe,2.0,-26.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10896.0,3.0,1998-02-19,1998-03-19,1998-02-27,Europe,8.0,-20.0
+MAISD,Maison Dewey,Bruxelles,Belgium,10978.0,2.0,1998-03-26,1998-04-23,1998-04-23,Europe,28.0,0.0
+MAISD,Maison Dewey,Bruxelles,Belgium,11004.0,1.0,1998-04-07,1998-05-05,1998-04-20,Europe,13.0,-15.0
+MEREP,Mère Paillarde,Montréal,Canada,10332.0,2.0,1996-10-17,1996-11-28,1996-10-21,America,4.0,-38.0
+MEREP,Mère Paillarde,Montréal,Canada,10339.0,2.0,1996-10-28,1996-11-25,1996-11-04,America,7.0,-21.0
+MEREP,Mère Paillarde,Montréal,Canada,10376.0,2.0,1996-12-09,1997-01-06,1996-12-13,America,4.0,-24.0
+MEREP,Mère Paillarde,Montréal,Canada,10424.0,2.0,1997-01-23,1997-02-20,1997-01-27,America,4.0,-24.0
+MEREP,Mère Paillarde,Montréal,Canada,10439.0,3.0,1997-02-07,1997-03-07,1997-02-10,America,3.0,-25.0
+MEREP,Mère Paillarde,Montréal,Canada,10505.0,3.0,1997-04-14,1997-05-12,1997-04-21,America,7.0,-21.0
+MEREP,Mère Paillarde,Montréal,Canada,10565.0,2.0,1997-06-11,1997-07-09,1997-06-18,America,7.0,-21.0
+MEREP,Mère Paillarde,Montréal,Canada,10570.0,3.0,1997-06-17,1997-07-15,1997-06-19,America,2.0,-26.0
+MEREP,Mère Paillarde,Montréal,Canada,10590.0,3.0,1997-07-07,1997-08-04,1997-07-14,America,7.0,-21.0
+MEREP,Mère Paillarde,Montréal,Canada,10605.0,2.0,1997-07-21,1997-08-18,1997-07-29,America,8.0,-20.0
+MEREP,Mère Paillarde,Montréal,Canada,10618.0,1.0,1997-08-01,1997-09-12,1997-08-08,America,7.0,-35.0
+MEREP,Mère Paillarde,Montréal,Canada,10619.0,3.0,1997-08-04,1997-09-01,1997-08-07,America,3.0,-25.0
+MEREP,Mère Paillarde,Montréal,Canada,10724.0,2.0,1997-10-30,1997-12-11,1997-11-05,America,6.0,-36.0
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,10277.0,3.0,1996-08-09,1996-09-06,1996-08-13,Europe,4.0,-24.0
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,10575.0,1.0,1997-06-20,1997-07-04,1997-06-30,Europe,10.0,-4.0
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,10699.0,3.0,1997-10-09,1997-11-06,1997-10-13,Europe,4.0,-24.0
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,10779.0,2.0,1997-12-16,1998-01-13,1998-01-14,Europe,29.0,1.0
+MORGK,Morgenstern Gesundkost,Leipzig,Germany,10945.0,1.0,1998-03-12,1998-04-09,1998-03-18,Europe,6.0,-22.0
+NORTS,North/South,London,UK,10517.0,3.0,1997-04-24,1997-05-22,1997-04-29,Europe,5.0,-23.0
+NORTS,North/South,London,UK,10752.0,3.0,1997-11-24,1997-12-22,1997-11-28,Europe,4.0,-24.0
+NORTS,North/South,London,UK,11057.0,3.0,1998-04-29,1998-05-27,1998-05-01,Europe,2.0,-26.0
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10409.0,1.0,1997-01-09,1997-02-06,1997-01-14,America,5.0,-23.0
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10531.0,1.0,1997-05-08,1997-06-05,1997-05-19,America,11.0,-17.0
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10898.0,2.0,1998-02-20,1998-03-20,1998-03-06,America,14.0,-14.0
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10958.0,2.0,1998-03-18,1998-04-15,1998-03-27,America,9.0,-19.0
+OCEAN,Océano Atlántico Ltda.,Buenos Aires,Argentina,10986.0,2.0,1998-03-30,1998-04-27,1998-04-21,America,22.0,-6.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10305.0,3.0,1996-09-13,1996-10-11,1996-10-09,America,26.0,-2.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10338.0,3.0,1996-10-25,1996-11-22,1996-10-29,America,4.0,-24.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10441.0,2.0,1997-02-10,1997-03-24,1997-03-14,America,32.0,-10.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10594.0,2.0,1997-07-09,1997-08-06,1997-07-16,America,7.0,-21.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10680.0,1.0,1997-09-24,1997-10-22,1997-09-26,America,2.0,-26.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10706.0,3.0,1997-10-16,1997-11-13,1997-10-21,America,5.0,-23.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10808.0,3.0,1998-01-01,1998-01-29,1998-01-09,America,8.0,-20.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10855.0,1.0,1998-01-27,1998-02-24,1998-02-04,America,8.0,-20.0
+OLDWO,Old World Delicatessen,Anchorage,USA,10965.0,3.0,1998-03-20,1998-04-17,1998-03-30,America,10.0,-18.0
+OLDWO,Old World Delicatessen,Anchorage,USA,11034.0,1.0,1998-04-20,1998-06-01,1998-04-27,America,7.0,-35.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10260.0,1.0,1996-07-19,1996-08-16,1996-07-29,Europe,10.0,-18.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10407.0,2.0,1997-01-07,1997-02-04,1997-01-30,Europe,23.0,-5.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10508.0,2.0,1997-04-16,1997-05-14,1997-05-13,Europe,27.0,-1.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10554.0,3.0,1997-05-30,1997-06-27,1997-06-05,Europe,6.0,-22.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10580.0,3.0,1997-06-26,1997-07-24,1997-07-01,Europe,5.0,-23.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10684.0,1.0,1997-09-26,1997-10-24,1997-09-30,Europe,4.0,-24.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10766.0,1.0,1997-12-05,1998-01-02,1997-12-09,Europe,4.0,-24.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10833.0,2.0,1998-01-15,1998-02-12,1998-01-23,Europe,8.0,-20.0
+OTTIK,Ottilies Käseladen,Köln,Germany,10999.0,2.0,1998-04-03,1998-05-01,1998-04-10,Europe,7.0,-21.0
+OTTIK,Ottilies Käseladen,Köln,Germany,11020.0,2.0,1998-04-14,1998-05-12,1998-04-16,Europe,2.0,-26.0
+PARIS,Paris spécialités,Paris,France,,,,,,Europe,,
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10322.0,3.0,1996-10-04,1996-11-01,1996-10-23,America,19.0,-9.0
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10354.0,3.0,1996-11-14,1996-12-12,1996-11-20,America,6.0,-22.0
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10474.0,2.0,1997-03-13,1997-04-10,1997-03-21,America,8.0,-20.0
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10502.0,1.0,1997-04-10,1997-05-08,1997-04-29,America,19.0,-9.0
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,10995.0,3.0,1998-04-02,1998-04-30,1998-04-06,America,4.0,-24.0
+PERIC,Pericles Comidas clásicas,México D.F.,Mexico,11073.0,2.0,1998-05-05,1998-06-02,,America,,
+PICCO,Piccolo und mehr,Salzburg,Austria,10353.0,3.0,1996-11-13,1996-12-11,1996-11-25,Europe,12.0,-16.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10392.0,3.0,1996-12-24,1997-01-21,1997-01-01,Europe,8.0,-20.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10427.0,2.0,1997-01-27,1997-02-24,1997-03-03,Europe,35.0,7.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10489.0,2.0,1997-03-28,1997-04-25,1997-04-09,Europe,12.0,-16.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10530.0,2.0,1997-05-08,1997-06-05,1997-05-12,Europe,4.0,-24.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10597.0,3.0,1997-07-11,1997-08-08,1997-07-18,Europe,7.0,-21.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10686.0,1.0,1997-09-30,1997-10-28,1997-10-08,Europe,8.0,-20.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10747.0,1.0,1997-11-19,1997-12-17,1997-11-26,Europe,7.0,-21.0
+PICCO,Piccolo und mehr,Salzburg,Austria,10844.0,2.0,1998-01-21,1998-02-18,1998-01-26,Europe,5.0,-23.0
+PICCO,Piccolo und mehr,Salzburg,Austria,11053.0,2.0,1998-04-27,1998-05-25,1998-04-29,Europe,2.0,-26.0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10336.0,2.0,1996-10-23,1996-11-20,1996-10-25,Europe,2.0,-26.0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10397.0,1.0,1996-12-27,1997-01-24,1997-01-02,Europe,6.0,-22.0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10433.0,3.0,1997-02-03,1997-03-03,1997-03-04,Europe,29.0,1.0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,10477.0,2.0,1997-03-17,1997-04-14,1997-03-25,Europe,8.0,-20.0
+PRINI,Princesa Isabel Vinhos,Lisboa,Portugal,11007.0,2.0,1998-04-08,1998-05-06,1998-04-13,Europe,5.0,-23.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10261.0,2.0,1996-07-19,1996-08-16,1996-07-30,America,11.0,-17.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10291.0,2.0,1996-08-27,1996-09-24,1996-09-04,America,8.0,-20.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10379.0,1.0,1996-12-11,1997-01-08,1996-12-13,America,2.0,-26.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10421.0,1.0,1997-01-21,1997-03-04,1997-01-27,America,6.0,-36.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10587.0,1.0,1997-07-02,1997-07-30,1997-07-09,America,7.0,-21.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10647.0,2.0,1997-08-27,1997-09-10,1997-09-03,America,7.0,-7.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10720.0,2.0,1997-10-28,1997-11-11,1997-11-05,America,8.0,-6.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10794.0,1.0,1997-12-24,1998-01-21,1998-01-02,America,9.0,-19.0
+QUEDE,Que Delícia,Rio de Janeiro,Brazil,10989.0,1.0,1998-03-31,1998-04-28,1998-04-02,America,2.0,-26.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10372.0,2.0,1996-12-04,1997-01-01,1996-12-09,America,5.0,-23.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10406.0,1.0,1997-01-07,1997-02-18,1997-01-13,America,6.0,-36.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10487.0,2.0,1997-03-26,1997-04-23,1997-03-28,America,2.0,-26.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10637.0,1.0,1997-08-19,1997-09-16,1997-08-26,America,7.0,-21.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10659.0,2.0,1997-09-05,1997-10-03,1997-09-10,America,5.0,-23.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10704.0,1.0,1997-10-14,1997-11-11,1997-11-07,America,24.0,-4.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10728.0,2.0,1997-11-04,1997-12-02,1997-11-11,America,7.0,-21.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10786.0,1.0,1997-12-19,1998-01-16,1997-12-23,America,4.0,-24.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10868.0,2.0,1998-02-04,1998-03-04,1998-02-23,America,19.0,-9.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10913.0,1.0,1998-02-26,1998-03-26,1998-03-04,America,6.0,-22.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10914.0,1.0,1998-02-27,1998-03-27,1998-03-02,America,3.0,-25.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,10961.0,1.0,1998-03-19,1998-04-16,1998-03-30,America,11.0,-17.0
+QUEEN,Queen Cozinha,Sao Paulo,Brazil,11068.0,2.0,1998-05-04,1998-06-01,,America,,
+QUICK,QUICK-Stop,Cunewalde,Germany,10273.0,3.0,1996-08-05,1996-09-02,1996-08-12,Europe,7.0,-21.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10285.0,2.0,1996-08-20,1996-09-17,1996-08-26,Europe,6.0,-22.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10286.0,3.0,1996-08-21,1996-09-18,1996-08-30,Europe,9.0,-19.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10313.0,2.0,1996-09-24,1996-10-22,1996-10-04,Europe,10.0,-18.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10345.0,2.0,1996-11-04,1996-12-02,1996-11-11,Europe,7.0,-21.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10361.0,2.0,1996-11-22,1996-12-20,1996-12-03,Europe,11.0,-17.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10418.0,1.0,1997-01-17,1997-02-14,1997-01-24,Europe,7.0,-21.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10451.0,3.0,1997-02-19,1997-03-05,1997-03-12,Europe,21.0,7.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10515.0,1.0,1997-04-23,1997-05-07,1997-05-23,Europe,30.0,16.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10527.0,1.0,1997-05-05,1997-06-02,1997-05-07,Europe,2.0,-26.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10540.0,3.0,1997-05-19,1997-06-16,1997-06-13,Europe,25.0,-3.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10549.0,1.0,1997-05-27,1997-06-10,1997-05-30,Europe,3.0,-11.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10588.0,3.0,1997-07-03,1997-07-31,1997-07-10,Europe,7.0,-21.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10658.0,1.0,1997-09-05,1997-10-03,1997-09-08,Europe,3.0,-25.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10691.0,2.0,1997-10-03,1997-11-14,1997-10-22,Europe,19.0,-23.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10694.0,3.0,1997-10-06,1997-11-03,1997-10-09,Europe,3.0,-25.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10721.0,3.0,1997-10-29,1997-11-26,1997-10-31,Europe,2.0,-26.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10745.0,1.0,1997-11-18,1997-12-16,1997-11-27,Europe,9.0,-19.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10765.0,3.0,1997-12-04,1998-01-01,1997-12-09,Europe,5.0,-23.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10788.0,2.0,1997-12-22,1998-01-19,1998-01-19,Europe,28.0,0.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10845.0,1.0,1998-01-21,1998-02-04,1998-01-30,Europe,9.0,-5.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10865.0,1.0,1998-02-02,1998-02-16,1998-02-12,Europe,10.0,-4.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10878.0,1.0,1998-02-10,1998-03-10,1998-02-12,Europe,2.0,-26.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10938.0,2.0,1998-03-10,1998-04-07,1998-03-16,Europe,6.0,-22.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10962.0,2.0,1998-03-19,1998-04-16,1998-03-23,Europe,4.0,-24.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10991.0,1.0,1998-04-01,1998-04-29,1998-04-07,Europe,6.0,-22.0
+QUICK,QUICK-Stop,Cunewalde,Germany,10996.0,2.0,1998-04-02,1998-04-30,1998-04-10,Europe,8.0,-20.0
+QUICK,QUICK-Stop,Cunewalde,Germany,11021.0,1.0,1998-04-14,1998-05-12,1998-04-21,Europe,7.0,-21.0
+RANCH,Rancho grande,Buenos Aires,Argentina,10448.0,2.0,1997-02-17,1997-03-17,1997-02-24,America,7.0,-21.0
+RANCH,Rancho grande,Buenos Aires,Argentina,10716.0,2.0,1997-10-24,1997-11-21,1997-10-27,America,3.0,-25.0
+RANCH,Rancho grande,Buenos Aires,Argentina,10828.0,1.0,1998-01-13,1998-01-27,1998-02-04,America,22.0,8.0
+RANCH,Rancho grande,Buenos Aires,Argentina,10916.0,2.0,1998-02-27,1998-03-27,1998-03-09,America,10.0,-18.0
+RANCH,Rancho grande,Buenos Aires,Argentina,11019.0,3.0,1998-04-13,1998-05-11,,America,,
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10262.0,3.0,1996-07-22,1996-08-19,1996-07-25,America,3.0,-25.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10272.0,2.0,1996-08-02,1996-08-30,1996-08-06,America,4.0,-24.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10294.0,2.0,1996-08-30,1996-09-27,1996-09-05,America,6.0,-22.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10314.0,2.0,1996-09-25,1996-10-23,1996-10-04,America,9.0,-19.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10316.0,3.0,1996-09-27,1996-10-25,1996-10-08,America,11.0,-17.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10346.0,3.0,1996-11-05,1996-12-17,1996-11-08,America,3.0,-39.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10401.0,1.0,1997-01-01,1997-01-29,1997-01-10,America,9.0,-19.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10479.0,3.0,1997-03-19,1997-04-16,1997-03-21,America,2.0,-26.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10564.0,3.0,1997-06-10,1997-07-08,1997-06-16,America,6.0,-22.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10569.0,1.0,1997-06-16,1997-07-14,1997-07-11,America,25.0,-3.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10598.0,3.0,1997-07-14,1997-08-11,1997-07-18,America,4.0,-24.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10761.0,2.0,1997-12-02,1997-12-30,1997-12-08,America,6.0,-22.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10820.0,2.0,1998-01-07,1998-02-04,1998-01-13,America,6.0,-22.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10852.0,1.0,1998-01-26,1998-02-09,1998-01-30,America,4.0,-10.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10889.0,3.0,1998-02-16,1998-03-16,1998-02-23,America,7.0,-21.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,10988.0,2.0,1998-03-31,1998-04-28,1998-04-10,America,10.0,-18.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,11000.0,3.0,1998-04-06,1998-05-04,1998-04-14,America,8.0,-20.0
+RATTC,Rattlesnake Canyon Grocery,Albuquerque,USA,11077.0,2.0,1998-05-06,1998-06-03,,America,,
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10288.0,1.0,1996-08-23,1996-09-20,1996-09-03,Europe,11.0,-17.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10428.0,1.0,1997-01-28,1997-02-25,1997-02-04,Europe,7.0,-21.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10443.0,1.0,1997-02-12,1997-03-12,1997-02-14,Europe,2.0,-26.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10562.0,1.0,1997-06-09,1997-07-07,1997-06-12,Europe,3.0,-25.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10586.0,1.0,1997-07-02,1997-07-30,1997-07-09,Europe,7.0,-21.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10655.0,2.0,1997-09-03,1997-10-01,1997-09-11,Europe,8.0,-20.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10727.0,1.0,1997-11-03,1997-12-01,1997-12-05,Europe,32.0,4.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10812.0,1.0,1998-01-02,1998-01-30,1998-01-12,Europe,10.0,-18.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10908.0,2.0,1998-02-26,1998-03-26,1998-03-06,Europe,8.0,-20.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,10942.0,3.0,1998-03-11,1998-04-08,1998-03-18,Europe,7.0,-21.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,11010.0,2.0,1998-04-09,1998-05-07,1998-04-21,Europe,12.0,-16.0
+REGGC,Reggiani Caseifici,Reggio Emilia,Italy,11062.0,2.0,1998-04-30,1998-05-28,,Europe,,
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10287.0,3.0,1996-08-22,1996-09-19,1996-08-28,America,6.0,-22.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10299.0,2.0,1996-09-06,1996-10-04,1996-09-13,America,7.0,-21.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10447.0,2.0,1997-02-14,1997-03-14,1997-03-07,America,21.0,-7.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10481.0,2.0,1997-03-20,1997-04-17,1997-03-25,America,5.0,-23.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10563.0,2.0,1997-06-10,1997-07-22,1997-06-24,America,14.0,-28.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10622.0,3.0,1997-08-06,1997-09-03,1997-08-11,America,5.0,-23.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10648.0,2.0,1997-08-28,1997-10-09,1997-09-09,America,12.0,-30.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10813.0,1.0,1998-01-05,1998-02-02,1998-01-09,America,4.0,-24.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10851.0,1.0,1998-01-26,1998-02-23,1998-02-02,America,7.0,-21.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,10877.0,1.0,1998-02-09,1998-03-09,1998-02-19,America,10.0,-18.0
+RICAR,Ricardo Adocicados,Rio de Janeiro,Brazil,11059.0,2.0,1998-04-29,1998-06-10,,America,,
+RICSU,Richter Supermarkt,Genève,Switzerland,10255.0,3.0,1996-07-12,1996-08-09,1996-07-15,Europe,3.0,-25.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10419.0,2.0,1997-01-20,1997-02-17,1997-01-30,Europe,10.0,-18.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10537.0,1.0,1997-05-14,1997-05-28,1997-05-19,Europe,5.0,-9.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10666.0,2.0,1997-09-12,1997-10-10,1997-09-22,Europe,10.0,-18.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10751.0,3.0,1997-11-24,1997-12-22,1997-12-03,Europe,9.0,-19.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10758.0,3.0,1997-11-28,1997-12-26,1997-12-04,Europe,6.0,-22.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10931.0,2.0,1998-03-06,1998-03-20,1998-03-19,Europe,13.0,-1.0
+RICSU,Richter Supermarkt,Genève,Switzerland,10951.0,2.0,1998-03-16,1998-04-27,1998-04-07,Europe,22.0,-20.0
+RICSU,Richter Supermarkt,Genève,Switzerland,11033.0,3.0,1998-04-17,1998-05-15,1998-04-23,Europe,6.0,-22.0
+RICSU,Richter Supermarkt,Genève,Switzerland,11075.0,2.0,1998-05-06,1998-06-03,,Europe,,
+ROMEY,Romero y tomillo,Madrid,Spain,10281.0,1.0,1996-08-14,1996-08-28,1996-08-21,Europe,7.0,-7.0
+ROMEY,Romero y tomillo,Madrid,Spain,10282.0,1.0,1996-08-15,1996-09-12,1996-08-21,Europe,6.0,-22.0
+ROMEY,Romero y tomillo,Madrid,Spain,10306.0,3.0,1996-09-16,1996-10-14,1996-09-23,Europe,7.0,-21.0
+ROMEY,Romero y tomillo,Madrid,Spain,10917.0,2.0,1998-03-02,1998-03-30,1998-03-11,Europe,9.0,-19.0
+ROMEY,Romero y tomillo,Madrid,Spain,11013.0,1.0,1998-04-09,1998-05-07,1998-04-10,Europe,1.0,-27.0
+SANTG,Santé Gourmet,Stavern,Norway,10387.0,2.0,1996-12-18,1997-01-15,1996-12-20,Europe,2.0,-26.0
+SANTG,Santé Gourmet,Stavern,Norway,10520.0,1.0,1997-04-29,1997-05-27,1997-05-01,Europe,2.0,-26.0
+SANTG,Santé Gourmet,Stavern,Norway,10639.0,3.0,1997-08-20,1997-09-17,1997-08-27,Europe,7.0,-21.0
+SANTG,Santé Gourmet,Stavern,Norway,10831.0,2.0,1998-01-14,1998-02-11,1998-01-23,Europe,9.0,-19.0
+SANTG,Santé Gourmet,Stavern,Norway,10909.0,2.0,1998-02-26,1998-03-26,1998-03-10,Europe,12.0,-16.0
+SANTG,Santé Gourmet,Stavern,Norway,11015.0,2.0,1998-04-10,1998-04-24,1998-04-20,Europe,10.0,-4.0
+SAVEA,Save-a-lot Markets,Boise,USA,10324.0,1.0,1996-10-08,1996-11-05,1996-10-10,America,2.0,-26.0
+SAVEA,Save-a-lot Markets,Boise,USA,10393.0,3.0,1996-12-25,1997-01-22,1997-01-03,America,9.0,-19.0
+SAVEA,Save-a-lot Markets,Boise,USA,10398.0,3.0,1996-12-30,1997-01-27,1997-01-09,America,10.0,-18.0
+SAVEA,Save-a-lot Markets,Boise,USA,10440.0,2.0,1997-02-10,1997-03-10,1997-02-28,America,18.0,-10.0
+SAVEA,Save-a-lot Markets,Boise,USA,10452.0,1.0,1997-02-20,1997-03-20,1997-02-26,America,6.0,-22.0
+SAVEA,Save-a-lot Markets,Boise,USA,10510.0,3.0,1997-04-18,1997-05-16,1997-04-28,America,10.0,-18.0
+SAVEA,Save-a-lot Markets,Boise,USA,10555.0,3.0,1997-06-02,1997-06-30,1997-06-04,America,2.0,-26.0
+SAVEA,Save-a-lot Markets,Boise,USA,10603.0,2.0,1997-07-18,1997-08-15,1997-08-08,America,21.0,-7.0
+SAVEA,Save-a-lot Markets,Boise,USA,10607.0,1.0,1997-07-22,1997-08-19,1997-07-25,America,3.0,-25.0
+SAVEA,Save-a-lot Markets,Boise,USA,10612.0,2.0,1997-07-28,1997-08-25,1997-08-01,America,4.0,-24.0
+SAVEA,Save-a-lot Markets,Boise,USA,10627.0,3.0,1997-08-11,1997-09-22,1997-08-21,America,10.0,-32.0
+SAVEA,Save-a-lot Markets,Boise,USA,10657.0,2.0,1997-09-04,1997-10-02,1997-09-15,America,11.0,-17.0
+SAVEA,Save-a-lot Markets,Boise,USA,10678.0,3.0,1997-09-23,1997-10-21,1997-10-16,America,23.0,-5.0
+SAVEA,Save-a-lot Markets,Boise,USA,10700.0,1.0,1997-10-10,1997-11-07,1997-10-16,America,6.0,-22.0
+SAVEA,Save-a-lot Markets,Boise,USA,10711.0,2.0,1997-10-21,1997-12-02,1997-10-29,America,8.0,-34.0
+SAVEA,Save-a-lot Markets,Boise,USA,10713.0,1.0,1997-10-22,1997-11-19,1997-10-24,America,2.0,-26.0
+SAVEA,Save-a-lot Markets,Boise,USA,10714.0,3.0,1997-10-22,1997-11-19,1997-10-27,America,5.0,-23.0
+SAVEA,Save-a-lot Markets,Boise,USA,10722.0,1.0,1997-10-29,1997-12-10,1997-11-04,America,6.0,-36.0
+SAVEA,Save-a-lot Markets,Boise,USA,10748.0,1.0,1997-11-20,1997-12-18,1997-11-28,America,8.0,-20.0
+SAVEA,Save-a-lot Markets,Boise,USA,10757.0,1.0,1997-11-27,1997-12-25,1997-12-15,America,18.0,-10.0
+SAVEA,Save-a-lot Markets,Boise,USA,10815.0,3.0,1998-01-05,1998-02-02,1998-01-14,America,9.0,-19.0
+SAVEA,Save-a-lot Markets,Boise,USA,10847.0,3.0,1998-01-22,1998-02-05,1998-02-10,America,19.0,5.0
+SAVEA,Save-a-lot Markets,Boise,USA,10882.0,3.0,1998-02-11,1998-03-11,1998-02-20,America,9.0,-19.0
+SAVEA,Save-a-lot Markets,Boise,USA,10894.0,1.0,1998-02-18,1998-03-18,1998-02-20,America,2.0,-26.0
+SAVEA,Save-a-lot Markets,Boise,USA,10941.0,2.0,1998-03-11,1998-04-08,1998-03-20,America,9.0,-19.0
+SAVEA,Save-a-lot Markets,Boise,USA,10983.0,2.0,1998-03-27,1998-04-24,1998-04-06,America,10.0,-18.0
+SAVEA,Save-a-lot Markets,Boise,USA,10984.0,3.0,1998-03-30,1998-04-27,1998-04-03,America,4.0,-24.0
+SAVEA,Save-a-lot Markets,Boise,USA,11002.0,1.0,1998-04-06,1998-05-04,1998-04-16,America,10.0,-18.0
+SAVEA,Save-a-lot Markets,Boise,USA,11030.0,2.0,1998-04-17,1998-05-15,1998-04-27,America,10.0,-18.0
+SAVEA,Save-a-lot Markets,Boise,USA,11031.0,2.0,1998-04-17,1998-05-15,1998-04-24,America,7.0,-21.0
+SAVEA,Save-a-lot Markets,Boise,USA,11064.0,1.0,1998-05-01,1998-05-29,1998-05-04,America,3.0,-25.0
+SEVES,Seven Seas Imports,London,UK,10359.0,3.0,1996-11-21,1996-12-19,1996-11-26,Europe,5.0,-23.0
+SEVES,Seven Seas Imports,London,UK,10377.0,3.0,1996-12-09,1997-01-06,1996-12-13,Europe,4.0,-24.0
+SEVES,Seven Seas Imports,London,UK,10388.0,1.0,1996-12-19,1997-01-16,1996-12-20,Europe,1.0,-27.0
+SEVES,Seven Seas Imports,London,UK,10472.0,1.0,1997-03-12,1997-04-09,1997-03-19,Europe,7.0,-21.0
+SEVES,Seven Seas Imports,London,UK,10523.0,2.0,1997-05-01,1997-05-29,1997-05-30,Europe,29.0,1.0
+SEVES,Seven Seas Imports,London,UK,10547.0,2.0,1997-05-23,1997-06-20,1997-06-02,Europe,10.0,-18.0
+SEVES,Seven Seas Imports,London,UK,10800.0,3.0,1997-12-26,1998-01-23,1998-01-05,Europe,10.0,-18.0
+SEVES,Seven Seas Imports,London,UK,10804.0,2.0,1997-12-30,1998-01-27,1998-01-07,Europe,8.0,-20.0
+SEVES,Seven Seas Imports,London,UK,10869.0,1.0,1998-02-04,1998-03-04,1998-02-09,Europe,5.0,-23.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10341.0,3.0,1996-10-29,1996-11-26,1996-11-05,Europe,7.0,-21.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10417.0,3.0,1997-01-16,1997-02-13,1997-01-28,Europe,12.0,-16.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10556.0,1.0,1997-06-03,1997-07-15,1997-06-13,Europe,10.0,-32.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10642.0,3.0,1997-08-22,1997-09-19,1997-09-05,Europe,14.0,-14.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10669.0,1.0,1997-09-15,1997-10-13,1997-09-22,Europe,7.0,-21.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,10802.0,2.0,1997-12-29,1998-01-26,1998-01-02,Europe,4.0,-24.0
+SIMOB,Simons bistro,Kobenhavn,Denmark,11074.0,2.0,1998-05-06,1998-06-03,,Europe,,
+SPECD,Spécialités du monde,Paris,France,10738.0,1.0,1997-11-12,1997-12-10,1997-11-18,Europe,6.0,-22.0
+SPECD,Spécialités du monde,Paris,France,10907.0,3.0,1998-02-25,1998-03-25,1998-02-27,Europe,2.0,-26.0
+SPECD,Spécialités du monde,Paris,France,10964.0,2.0,1998-03-20,1998-04-17,1998-03-24,Europe,4.0,-24.0
+SPECD,Spécialités du monde,Paris,France,11043.0,2.0,1998-04-22,1998-05-20,1998-04-29,Europe,7.0,-21.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10271.0,2.0,1996-08-01,1996-08-29,1996-08-30,America,29.0,1.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10329.0,2.0,1996-10-15,1996-11-26,1996-10-23,America,8.0,-34.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10349.0,1.0,1996-11-08,1996-12-06,1996-11-15,America,7.0,-21.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10369.0,2.0,1996-12-02,1996-12-30,1996-12-09,America,7.0,-21.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10385.0,2.0,1996-12-17,1997-01-14,1996-12-23,America,6.0,-22.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10432.0,2.0,1997-01-31,1997-02-14,1997-02-07,America,7.0,-7.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10756.0,2.0,1997-11-27,1997-12-25,1997-12-02,America,5.0,-23.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10821.0,1.0,1998-01-08,1998-02-05,1998-01-15,America,7.0,-21.0
+SPLIR,Split Rail Beer & Ale,Lander,USA,10974.0,3.0,1998-03-25,1998-04-08,1998-04-03,America,9.0,-5.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10252.0,2.0,1996-07-09,1996-08-06,1996-07-11,Europe,2.0,-26.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10302.0,2.0,1996-09-10,1996-10-08,1996-10-09,Europe,29.0,1.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10458.0,3.0,1997-02-26,1997-03-26,1997-03-04,Europe,6.0,-22.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10463.0,3.0,1997-03-04,1997-04-01,1997-03-06,Europe,2.0,-26.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10475.0,1.0,1997-03-14,1997-04-11,1997-04-04,Europe,21.0,-7.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10767.0,3.0,1997-12-05,1998-01-02,1997-12-15,Europe,10.0,-18.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10841.0,2.0,1998-01-20,1998-02-17,1998-01-29,Europe,9.0,-19.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10846.0,3.0,1998-01-22,1998-03-05,1998-01-23,Europe,1.0,-41.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10885.0,3.0,1998-02-12,1998-03-12,1998-02-18,Europe,6.0,-22.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,10930.0,3.0,1998-03-06,1998-04-17,1998-03-18,Europe,12.0,-30.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,11035.0,2.0,1998-04-20,1998-05-18,1998-04-24,Europe,4.0,-24.0
+SUPRD,Suprêmes délices,Charleroi,Belgium,11038.0,2.0,1998-04-21,1998-05-19,1998-04-30,Europe,9.0,-19.0
+THEBI,The Big Cheese,Portland,USA,10310.0,2.0,1996-09-20,1996-10-18,1996-09-27,America,7.0,-21.0
+THEBI,The Big Cheese,Portland,USA,10708.0,2.0,1997-10-17,1997-11-28,1997-11-05,America,19.0,-23.0
+THEBI,The Big Cheese,Portland,USA,10805.0,3.0,1997-12-30,1998-01-27,1998-01-09,America,10.0,-18.0
+THEBI,The Big Cheese,Portland,USA,10992.0,3.0,1998-04-01,1998-04-29,1998-04-03,America,2.0,-26.0
+THECR,The Cracker Box,Butte,USA,10624.0,2.0,1997-08-07,1997-09-04,1997-08-19,America,12.0,-16.0
+THECR,The Cracker Box,Butte,USA,10775.0,1.0,1997-12-12,1998-01-09,1997-12-26,America,14.0,-14.0
+THECR,The Cracker Box,Butte,USA,11003.0,3.0,1998-04-06,1998-05-04,1998-04-08,America,2.0,-26.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10249.0,1.0,1996-07-05,1996-08-16,1996-07-10,Europe,5.0,-37.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10438.0,2.0,1997-02-06,1997-03-06,1997-02-14,Europe,8.0,-20.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10446.0,1.0,1997-02-14,1997-03-14,1997-02-19,Europe,5.0,-23.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10548.0,2.0,1997-05-26,1997-06-23,1997-06-02,Europe,7.0,-21.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10608.0,2.0,1997-07-23,1997-08-20,1997-08-01,Europe,9.0,-19.0
+TOMSP,Toms Spezialitäten,Münster,Germany,10967.0,2.0,1998-03-23,1998-04-20,1998-04-02,Europe,10.0,-18.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10276.0,3.0,1996-08-08,1996-08-22,1996-08-14,America,6.0,-8.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10293.0,3.0,1996-08-29,1996-09-26,1996-09-11,America,13.0,-15.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10304.0,2.0,1996-09-12,1996-10-10,1996-09-17,America,5.0,-23.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10319.0,3.0,1996-10-02,1996-10-30,1996-10-11,America,9.0,-19.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10518.0,2.0,1997-04-25,1997-05-09,1997-05-05,America,10.0,-4.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10576.0,3.0,1997-06-23,1997-07-07,1997-06-30,America,7.0,-7.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10676.0,2.0,1997-09-22,1997-10-20,1997-09-29,America,7.0,-21.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10842.0,3.0,1998-01-20,1998-02-17,1998-01-29,America,9.0,-19.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,10915.0,2.0,1998-02-27,1998-03-27,1998-03-02,America,3.0,-25.0
+TORTU,Tortuga Restaurante,México D.F.,Mexico,11069.0,2.0,1998-05-04,1998-06-01,1998-05-06,America,2.0,-26.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10292.0,2.0,1996-08-28,1996-09-25,1996-09-02,America,5.0,-23.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10496.0,2.0,1997-04-04,1997-05-02,1997-04-07,America,3.0,-25.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10606.0,3.0,1997-07-22,1997-08-19,1997-07-31,America,9.0,-19.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10830.0,2.0,1998-01-13,1998-02-24,1998-01-21,America,8.0,-34.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10834.0,3.0,1998-01-15,1998-02-12,1998-01-19,America,4.0,-24.0
+TRADH,Tradição Hipermercados,Sao Paulo,Brazil,10839.0,3.0,1998-01-19,1998-02-16,1998-01-22,America,3.0,-25.0
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10574.0,2.0,1997-06-19,1997-07-17,1997-06-30,America,11.0,-17.0
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10577.0,2.0,1997-06-23,1997-08-04,1997-06-30,America,7.0,-35.0
+TRAIH,Trail's Head Gourmet Provisioners,Kirkland,USA,10822.0,3.0,1998-01-08,1998-02-05,1998-01-16,America,8.0,-20.0
+VAFFE,Vaffeljernet,Århus,Denmark,10367.0,3.0,1996-11-28,1996-12-26,1996-12-02,Europe,4.0,-24.0
+VAFFE,Vaffeljernet,Århus,Denmark,10399.0,3.0,1996-12-31,1997-01-14,1997-01-08,Europe,8.0,-6.0
+VAFFE,Vaffeljernet,Århus,Denmark,10465.0,3.0,1997-03-05,1997-04-02,1997-03-14,Europe,9.0,-19.0
+VAFFE,Vaffeljernet,Århus,Denmark,10591.0,1.0,1997-07-07,1997-07-21,1997-07-16,Europe,9.0,-5.0
+VAFFE,Vaffeljernet,Århus,Denmark,10602.0,2.0,1997-07-17,1997-08-14,1997-07-22,Europe,5.0,-23.0
+VAFFE,Vaffeljernet,Århus,Denmark,10688.0,2.0,1997-10-01,1997-10-15,1997-10-07,Europe,6.0,-8.0
+VAFFE,Vaffeljernet,Århus,Denmark,10744.0,1.0,1997-11-17,1997-12-15,1997-11-24,Europe,7.0,-21.0
+VAFFE,Vaffeljernet,Århus,Denmark,10769.0,1.0,1997-12-08,1998-01-05,1997-12-12,Europe,4.0,-24.0
+VAFFE,Vaffeljernet,Århus,Denmark,10921.0,1.0,1998-03-03,1998-04-14,1998-03-09,Europe,6.0,-36.0
+VAFFE,Vaffeljernet,Århus,Denmark,10946.0,2.0,1998-03-12,1998-04-09,1998-03-19,Europe,7.0,-21.0
+VAFFE,Vaffeljernet,Århus,Denmark,10994.0,3.0,1998-04-02,1998-04-16,1998-04-09,Europe,7.0,-7.0
+VICTE,Victuailles en stock,Lyon,France,10251.0,1.0,1996-07-08,1996-08-05,1996-07-15,Europe,7.0,-21.0
+VICTE,Victuailles en stock,Lyon,France,10334.0,2.0,1996-10-21,1996-11-18,1996-10-28,Europe,7.0,-21.0
+VICTE,Victuailles en stock,Lyon,France,10450.0,2.0,1997-02-19,1997-03-19,1997-03-11,Europe,20.0,-8.0
+VICTE,Victuailles en stock,Lyon,France,10459.0,2.0,1997-02-27,1997-03-27,1997-02-28,Europe,1.0,-27.0
+VICTE,Victuailles en stock,Lyon,France,10478.0,3.0,1997-03-18,1997-04-01,1997-03-26,Europe,8.0,-6.0
+VICTE,Victuailles en stock,Lyon,France,10546.0,3.0,1997-05-23,1997-06-20,1997-05-27,Europe,4.0,-24.0
+VICTE,Victuailles en stock,Lyon,France,10806.0,2.0,1997-12-31,1998-01-28,1998-01-05,Europe,5.0,-23.0
+VICTE,Victuailles en stock,Lyon,France,10814.0,3.0,1998-01-05,1998-02-02,1998-01-14,Europe,9.0,-19.0
+VICTE,Victuailles en stock,Lyon,France,10843.0,2.0,1998-01-21,1998-02-18,1998-01-26,Europe,5.0,-23.0
+VICTE,Victuailles en stock,Lyon,France,10850.0,1.0,1998-01-23,1998-03-06,1998-01-30,Europe,7.0,-35.0
+VINET,Vins et alcools Chevalier,Reims,France,10248.0,3.0,1996-07-04,1996-08-01,1996-07-16,Europe,12.0,-16.0
+VINET,Vins et alcools Chevalier,Reims,France,10274.0,1.0,1996-08-06,1996-09-03,1996-08-16,Europe,10.0,-18.0
+VINET,Vins et alcools Chevalier,Reims,France,10295.0,2.0,1996-09-02,1996-09-30,1996-09-10,Europe,8.0,-20.0
+VINET,Vins et alcools Chevalier,Reims,France,10737.0,2.0,1997-11-11,1997-12-09,1997-11-18,Europe,7.0,-21.0
+VINET,Vins et alcools Chevalier,Reims,France,10739.0,3.0,1997-11-12,1997-12-10,1997-11-17,Europe,5.0,-23.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10301.0,2.0,1996-09-09,1996-10-07,1996-09-17,Europe,8.0,-20.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10312.0,2.0,1996-09-23,1996-10-21,1996-10-03,Europe,10.0,-18.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10348.0,2.0,1996-11-07,1996-12-05,1996-11-15,Europe,8.0,-20.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10356.0,2.0,1996-11-18,1996-12-16,1996-11-27,Europe,9.0,-19.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10513.0,1.0,1997-04-22,1997-06-03,1997-04-28,Europe,6.0,-36.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10632.0,1.0,1997-08-14,1997-09-11,1997-08-19,Europe,5.0,-23.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10640.0,1.0,1997-08-21,1997-09-18,1997-08-28,Europe,7.0,-21.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10651.0,2.0,1997-09-01,1997-09-29,1997-09-11,Europe,10.0,-18.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,10668.0,2.0,1997-09-15,1997-10-13,1997-09-23,Europe,8.0,-20.0
+WANDK,Die Wandernde Kuh,Stuttgart,Germany,11046.0,2.0,1998-04-23,1998-05-21,1998-04-24,Europe,1.0,-27.0
+WARTH,Wartian Herkku,Oulu,Finland,10266.0,3.0,1996-07-26,1996-09-06,1996-07-31,Europe,5.0,-37.0
+WARTH,Wartian Herkku,Oulu,Finland,10270.0,1.0,1996-08-01,1996-08-29,1996-08-02,Europe,1.0,-27.0
+WARTH,Wartian Herkku,Oulu,Finland,10320.0,3.0,1996-10-03,1996-10-17,1996-10-18,Europe,15.0,1.0
+WARTH,Wartian Herkku,Oulu,Finland,10333.0,3.0,1996-10-18,1996-11-15,1996-10-25,Europe,7.0,-21.0
+WARTH,Wartian Herkku,Oulu,Finland,10412.0,2.0,1997-01-13,1997-02-10,1997-01-15,Europe,2.0,-26.0
+WARTH,Wartian Herkku,Oulu,Finland,10416.0,3.0,1997-01-16,1997-02-13,1997-01-27,Europe,11.0,-17.0
+WARTH,Wartian Herkku,Oulu,Finland,10437.0,1.0,1997-02-05,1997-03-05,1997-02-12,Europe,7.0,-21.0
+WARTH,Wartian Herkku,Oulu,Finland,10455.0,2.0,1997-02-24,1997-04-07,1997-03-03,Europe,7.0,-35.0
+WARTH,Wartian Herkku,Oulu,Finland,10526.0,2.0,1997-05-05,1997-06-02,1997-05-15,Europe,10.0,-18.0
+WARTH,Wartian Herkku,Oulu,Finland,10553.0,2.0,1997-05-30,1997-06-27,1997-06-03,Europe,4.0,-24.0
+WARTH,Wartian Herkku,Oulu,Finland,10583.0,2.0,1997-06-30,1997-07-28,1997-07-04,Europe,4.0,-24.0
+WARTH,Wartian Herkku,Oulu,Finland,10636.0,1.0,1997-08-19,1997-09-16,1997-08-26,Europe,7.0,-21.0
+WARTH,Wartian Herkku,Oulu,Finland,10750.0,1.0,1997-11-21,1997-12-19,1997-11-24,Europe,3.0,-25.0
+WARTH,Wartian Herkku,Oulu,Finland,10781.0,3.0,1997-12-17,1998-01-14,1997-12-19,Europe,2.0,-26.0
+WARTH,Wartian Herkku,Oulu,Finland,11025.0,3.0,1998-04-15,1998-05-13,1998-04-24,Europe,9.0,-19.0
+WELLI,Wellington Importadora,Resende,Brazil,10256.0,2.0,1996-07-15,1996-08-12,1996-07-17,America,2.0,-26.0
+WELLI,Wellington Importadora,Resende,Brazil,10420.0,1.0,1997-01-21,1997-02-18,1997-01-27,America,6.0,-22.0
+WELLI,Wellington Importadora,Resende,Brazil,10585.0,1.0,1997-07-01,1997-07-29,1997-07-10,America,9.0,-19.0
+WELLI,Wellington Importadora,Resende,Brazil,10644.0,2.0,1997-08-25,1997-09-22,1997-09-01,America,7.0,-21.0
+WELLI,Wellington Importadora,Resende,Brazil,10803.0,1.0,1997-12-30,1998-01-27,1998-01-06,America,7.0,-21.0
+WELLI,Wellington Importadora,Resende,Brazil,10809.0,1.0,1998-01-01,1998-01-29,1998-01-07,America,6.0,-22.0
+WELLI,Wellington Importadora,Resende,Brazil,10900.0,2.0,1998-02-20,1998-03-20,1998-03-04,America,12.0,-16.0
+WELLI,Wellington Importadora,Resende,Brazil,10905.0,2.0,1998-02-24,1998-03-24,1998-03-06,America,10.0,-18.0
+WELLI,Wellington Importadora,Resende,Brazil,10935.0,3.0,1998-03-09,1998-04-06,1998-03-18,America,9.0,-19.0
+WHITC,White Clover Markets,Seattle,USA,10269.0,1.0,1996-07-31,1996-08-14,1996-08-09,America,9.0,-5.0
+WHITC,White Clover Markets,Seattle,USA,10344.0,2.0,1996-11-01,1996-11-29,1996-11-05,America,4.0,-24.0
+WHITC,White Clover Markets,Seattle,USA,10469.0,1.0,1997-03-10,1997-04-07,1997-03-14,America,4.0,-24.0
+WHITC,White Clover Markets,Seattle,USA,10483.0,2.0,1997-03-24,1997-04-21,1997-04-25,America,32.0,4.0
+WHITC,White Clover Markets,Seattle,USA,10504.0,3.0,1997-04-11,1997-05-09,1997-04-18,America,7.0,-21.0
+WHITC,White Clover Markets,Seattle,USA,10596.0,1.0,1997-07-11,1997-08-08,1997-08-12,America,32.0,4.0
+WHITC,White Clover Markets,Seattle,USA,10693.0,3.0,1997-10-06,1997-10-20,1997-10-10,America,4.0,-10.0
+WHITC,White Clover Markets,Seattle,USA,10696.0,3.0,1997-10-08,1997-11-19,1997-10-14,America,6.0,-36.0
+WHITC,White Clover Markets,Seattle,USA,10723.0,1.0,1997-10-30,1997-11-27,1997-11-25,America,26.0,-2.0
+WHITC,White Clover Markets,Seattle,USA,10740.0,2.0,1997-11-13,1997-12-11,1997-11-25,America,12.0,-16.0
+WHITC,White Clover Markets,Seattle,USA,10861.0,2.0,1998-01-30,1998-02-27,1998-02-17,America,18.0,-10.0
+WHITC,White Clover Markets,Seattle,USA,10904.0,3.0,1998-02-24,1998-03-24,1998-02-27,America,3.0,-25.0
+WHITC,White Clover Markets,Seattle,USA,11032.0,3.0,1998-04-17,1998-05-15,1998-04-23,America,6.0,-22.0
+WHITC,White Clover Markets,Seattle,USA,11066.0,2.0,1998-05-01,1998-05-29,1998-05-04,America,3.0,-25.0
+WILMK,Wilman Kala,Helsinki,Finland,10615.0,3.0,1997-07-30,1997-08-27,1997-08-06,Europe,7.0,-21.0
+WILMK,Wilman Kala,Helsinki,Finland,10673.0,1.0,1997-09-18,1997-10-16,1997-09-19,Europe,1.0,-27.0
+WILMK,Wilman Kala,Helsinki,Finland,10695.0,1.0,1997-10-07,1997-11-18,1997-10-14,Europe,7.0,-35.0
+WILMK,Wilman Kala,Helsinki,Finland,10873.0,1.0,1998-02-06,1998-03-06,1998-02-09,Europe,3.0,-25.0
+WILMK,Wilman Kala,Helsinki,Finland,10879.0,3.0,1998-02-10,1998-03-10,1998-02-12,Europe,2.0,-26.0
+WILMK,Wilman Kala,Helsinki,Finland,10910.0,3.0,1998-02-26,1998-03-26,1998-03-04,Europe,6.0,-22.0
+WILMK,Wilman Kala,Helsinki,Finland,11005.0,1.0,1998-04-07,1998-05-05,1998-04-10,Europe,3.0,-25.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10374.0,3.0,1996-12-05,1997-01-02,1996-12-09,Europe,4.0,-24.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10611.0,2.0,1997-07-25,1997-08-22,1997-08-01,Europe,7.0,-21.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10792.0,3.0,1997-12-23,1998-01-20,1997-12-31,Europe,8.0,-20.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10870.0,3.0,1998-02-04,1998-03-04,1998-02-13,Europe,9.0,-19.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10906.0,3.0,1998-02-25,1998-03-11,1998-03-03,Europe,6.0,-8.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,10998.0,2.0,1998-04-03,1998-04-17,1998-04-17,Europe,14.0,0.0
+WOLZA,Wolski  Zajazd,Warszawa,Poland,11044.0,1.0,1998-04-23,1998-05-21,1998-05-01,Europe,8.0,-20.0
